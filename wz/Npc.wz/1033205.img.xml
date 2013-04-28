@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1033205.img">
+    <imgdir name="info">
+        <int name="talkMouseOnly" value="1"/>
+        <int name="hideName" value="1"/>
+        <canvas name="default" width="118" height="102">
+            <vector name="origin" x="53" y="87"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="210"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="110" height="187">
+            <vector name="origin" x="54" y="186"/>
+        </canvas>
+        <uol name="1" value="0"/>
+        <uol name="2" value="0"/>
+        <uol name="3" value="0"/>
+        <uol name="4" value="0"/>
+        <uol name="5" value="0"/>
+        <uol name="6" value="0"/>
+        <uol name="7" value="0"/>
+        <uol name="8" value="0"/>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="119" height="194">
+                <vector name="origin" x="55" y="194"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="119" height="190">
+                <vector name="origin" x="55" y="192"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="2" width="119" height="182">
+                <vector name="origin" x="55" y="188"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="3" width="119" height="186">
+                <vector name="origin" x="55" y="190"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="4" width="119" height="191">
+                <vector name="origin" x="55" y="193"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="5" width="119" height="192">
+                <vector name="origin" x="55" y="193"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="6" width="119" height="184">
+                <vector name="origin" x="55" y="189"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="7" width="119" height="181">
+                <vector name="origin" x="55" y="188"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="8" width="119" height="190">
+                <vector name="origin" x="55" y="192"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </imgdir>
+        <int name="24004" value="2"/>
+    </imgdir>
+</imgdir>

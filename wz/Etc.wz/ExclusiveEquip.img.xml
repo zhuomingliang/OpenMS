@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ExclusiveEquip.img">
+    <imgdir name="1">
+        <imgdir name="item">
+            <int name="0" value="1112583"/>
+            <int name="1" value="1112661"/>
+        </imgdir>
+        <string name="msg" value="The Crescent Moon Ring and Halfmoon Ring\r\ncannot be equipped simultaneously."/>
+    </imgdir>
+    <imgdir name="2">
+        <imgdir name="item">
+            <int name="0" value="1122104"/>
+            <int name="1" value="1122149"/>
+        </imgdir>
+        <string name="msg" value="The Rising Sun Pendant and Blazing Sun Pendant\r\ncannot be equipped simultaneously."/>
+    </imgdir>
+    <imgdir name="3">
+        <imgdir name="item">
+            <int name="0" value="1112584"/>
+            <int name="1" value="1112662"/>
+        </imgdir>
+        <string name="msg" value="The Rising Sun Ring and Blazing Sun Ring\r\ncannot be equipped simultaneously."/>
+    </imgdir>
+    <imgdir name="4">
+        <imgdir name="item">
+            <int name="0" value="1112585"/>
+            <int name="1" value="1112586"/>
+            <int name="2" value="1112594"/>
+            <int name="3" value="1112663"/>
+        </imgdir>
+        <string name="msg" value="You can only have one Angelic \r\nBlessing Ring equipped."/>
+    </imgdir>
+    <imgdir name="5">
+        <imgdir name="item">
+            <int name="0" value="1112676"/>
+            <int name="1" value="1112677"/>
+            <int name="2" value="1112678"/>
+            <int name="3" value="1112679"/>
+        </imgdir>
+        <string name="msg" value="You can only have one of the following equipped \r\nat a time: Bronze Cross Ring, Silver Cross Ring, Gold Cross \r\nRing, or Platinum Cross Ring."/>
+    </imgdir>
+    <imgdir name="6">
+        <imgdir name="item">
+            <int name="0" value="1112427"/>
+            <int name="1" value="1112428"/>
+            <int name="2" value="1112429"/>
+            <int name="3" value="1112405"/>
+            <int name="4" value="1112445"/>
+            <int name="5" value="1112591"/>
+            <int name="6" value="1112592"/>
+            <int name="7" value="1112721"/>
+            <int name="8" value="1112653"/>
+            <int name="9" value="1112656"/>
+            <int name="10" value="1112658"/>
+            <int name="11" value="1112659"/>
+            <int name="12" value="1112675"/>
+        </imgdir>
+        <string name="msg" value="You can only have one of the following equipped \r\nat a time:  Explorer&apos;s Ring, Lilin&apos;s Ring,\r\nResistance Ring, Gratias Ring,\r\nSwordsman Ring, Magician Ring, Bowman Ring,\r\nor Dual Blade Ring."/>
+    </imgdir>
+</imgdir>

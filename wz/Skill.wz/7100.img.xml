@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="7100.img">
+    <imgdir name="info">
+        <canvas name="icon" width="26" height="30">
+            <vector name="origin" x="-4" y="30"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="skill">
+        <imgdir name="71000011">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="pddR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000012">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="lv2pdX" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <string name="lv2pdX" value="2"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <string name="lv2pdX" value="3"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <string name="lv2pdX" value="4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71000013">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mhpR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000021">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mmpR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000022">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="lv2mdX" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <string name="lv2mdX" value="2"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <string name="lv2mdX" value="3"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <string name="lv2mdX" value="4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71000023">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mpConEff" value="5*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000031">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="accR" value="2*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000032">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="cr" value="x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000041">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="psdJump" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000042">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="psdSpeed" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000043">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="evaR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000051">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="lv2damX" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000052">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="summonTimeR" value="2*x+2"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000053">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="expLossReduceR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000311">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="asrR" value="x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000321">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="ignoreMobDamR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000331">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="suddenDeathR" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <string name="suddenDeathR" value="2"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <string name="suddenDeathR" value="3"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <string name="suddenDeathR" value="4"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71000351">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="bufftimeR" value="5*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000211">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="onHitHpRecoveryR" value="2*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000221">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="onHitMpRecoveryR" value="2*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000231">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="coolTimeR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000241">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mesoR" value="x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000111">
+            <imgdir name="common">
+                <int name="maxLevel" value="2"/>
+                <string name="pddR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000121">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="lv2mdX" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <string name="lv2mdX" value="2"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71000131">
+            <imgdir name="common">
+                <int name="maxLevel" value="2"/>
+                <string name="accR" value="2*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000141">
+            <imgdir name="common">
+                <int name="maxLevel" value="2"/>
+                <string name="evaR" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000151">
+            <imgdir name="common">
+                <int name="maxLevel" value="2"/>
+                <string name="lv2damX" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000511">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="pdr" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001000">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mhp2damX" value="2*x+2"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001001">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="mmp2damX" value="2*x+2"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001002">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="finalAttackDamR" value="x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001003">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="criticaldamageMax" value="x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001004">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="ignoreMobpdpR" value="2*x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001005">
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <int name="strX" value="2"/>
+                    <int name="dexX" value="2"/>
+                    <int name="intX" value="2"/>
+                    <int name="lukX" value="2"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <int name="strX" value="5"/>
+                    <int name="dexX" value="5"/>
+                    <int name="intX" value="5"/>
+                    <int name="lukX" value="5"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <int name="strX" value="7"/>
+                    <int name="dexX" value="7"/>
+                    <int name="intX" value="7"/>
+                    <int name="lukX" value="7"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <int name="strX" value="10"/>
+                    <int name="dexX" value="10"/>
+                    <int name="intX" value="10"/>
+                    <int name="lukX" value="10"/>
+                </imgdir>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001006">
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <int name="strX" value="2"/>
+                    <int name="dexX" value="2"/>
+                    <int name="intX" value="2"/>
+                    <int name="lukX" value="2"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <int name="strX" value="5"/>
+                    <int name="dexX" value="5"/>
+                    <int name="intX" value="5"/>
+                    <int name="lukX" value="5"/>
+                </imgdir>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001007">
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <int name="strX" value="2"/>
+                    <int name="dexX" value="2"/>
+                    <int name="intX" value="2"/>
+                    <int name="lukX" value="2"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <int name="strX" value="5"/>
+                    <int name="dexX" value="5"/>
+                    <int name="intX" value="5"/>
+                    <int name="lukX" value="5"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <int name="strX" value="7"/>
+                    <int name="dexX" value="7"/>
+                    <int name="intX" value="7"/>
+                    <int name="lukX" value="7"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <int name="strX" value="10"/>
+                    <int name="dexX" value="10"/>
+                    <int name="intX" value="10"/>
+                    <int name="lukX" value="10"/>
+                </imgdir>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001008">
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <int name="strX" value="2"/>
+                    <int name="dexX" value="2"/>
+                    <int name="intX" value="2"/>
+                    <int name="lukX" value="2"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="h2"/>
+                    <int name="strX" value="5"/>
+                    <int name="dexX" value="5"/>
+                    <int name="intX" value="5"/>
+                    <int name="lukX" value="5"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="h3"/>
+                    <int name="strX" value="7"/>
+                    <int name="dexX" value="7"/>
+                    <int name="intX" value="7"/>
+                    <int name="lukX" value="7"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="h4"/>
+                    <int name="strX" value="10"/>
+                    <int name="dexX" value="10"/>
+                    <int name="intX" value="10"/>
+                    <int name="lukX" value="10"/>
+                </imgdir>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71001100">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="mhpX" value="300"/>
+                    <string name="mmpX" value="300"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71001101">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="mhpX" value="500"/>
+                    <string name="mmpX" value="500"/>
+                    <string name="padX" value="1"/>
+                    <string name="madX" value="1"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71001102">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="mhpX" value="700"/>
+                    <string name="mmpX" value="700"/>
+                    <string name="padX" value="3"/>
+                    <string name="madX" value="3"/>
+                    <int name="bdR" value="3"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71001103">
+            <int name="psd" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="h1"/>
+                    <string name="mhpX" value="1000"/>
+                    <string name="mmpX" value="1000"/>
+                    <string name="padX" value="5"/>
+                    <string name="madX" value="5"/>
+                    <int name="bdR" value="5"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="71000057">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="summonTimeR" value="2*x+2"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000058">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="lv2damX" value="1+x"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+        <imgdir name="71000059">
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="summonTimeR" value="2*x+2"/>
+            </imgdir>
+            <int name="psd" value="1"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

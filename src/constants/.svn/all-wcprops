@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/inc/!svn/ver/113/trunk/src/constants
+END
+TutorialConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/101/trunk/src/constants/TutorialConstants.java
+END
+OccupationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/101/trunk/src/constants/OccupationConstants.java
+END
+ServerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/113/trunk/src/constants/ServerConstants.java
+END
+GameConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/inc/!svn/ver/113/trunk/src/constants/GameConstants.java
+END
+BattleConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/75/trunk/src/constants/BattleConstants.java
+END
+MapConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/101/trunk/src/constants/MapConstants.java
+END

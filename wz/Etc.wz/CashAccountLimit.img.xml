@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CashAccountLimit.img">
+    <imgdir name="FSPackCnt">
+        <int name="enable" value="1"/>
+        <int name="limitCount" value="1"/>
+        <string name="noticeMsg" value="スターターパック発売記念セットは1メイプルIDにつき1回のみ購入できます。"/>
+        <imgdir name="itemList">
+            <int name="0" value="5220083"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1NX1102093">
+        <int name="enable" value="1"/>
+        <int name="limitCount" value="1"/>
+        <string name="noticeMsg" value="This item can only be purchased once per account"/>
+        <int name="onlycash" value="1"/>
+        <imgdir name="itemList">
+            <int name="0" value="1102093"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1NX1702337">
+        <int name="enable" value="1"/>
+        <int name="limitCount" value="1"/>
+        <string name="noticeMsg" value="This item can only be purchased once per account"/>
+        <int name="onlycash" value="1"/>
+        <imgdir name="itemList">
+            <int name="0" value="1702337"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1NX9102857">
+        <int name="enable" value="1"/>
+        <int name="limitCount" value="1"/>
+        <string name="noticeMsg" value="This item can only be purchased once per account"/>
+        <int name="onlycash" value="1"/>
+        <imgdir name="itemList">
+            <int name="0" value="9102857"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1NX5211068">
+        <int name="enable" value="1"/>
+        <int name="limitCount" value="1"/>
+        <string name="noticeMsg" value="This item can only be purchased once per account"/>
+        <int name="onlycash" value="1"/>
+        <imgdir name="itemList">
+            <int name="0" value="5211068"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

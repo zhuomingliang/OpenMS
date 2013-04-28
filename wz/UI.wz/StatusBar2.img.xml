@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="StatusBar2.img">
+    <imgdir name="mainBar">
+        <canvas name="backgrnd" width="1024" height="85">
+            <int name="z" value="-1"/>
+            <vector name="origin" x="512" y="84"/>
+        </canvas>
+        <canvas name="lvBacktrnd" width="219" height="32">
+            <int name="z" value="1"/>
+            <vector name="origin" x="511" y="33"/>
+        </canvas>
+        <canvas name="lvCover" width="215" height="14">
+            <int name="z" value="3"/>
+            <vector name="origin" x="509" y="32"/>
+        </canvas>
+        <canvas name="gaugeBackgrd" width="339" height="31">
+            <int name="z" value="1"/>
+            <vector name="origin" x="289" y="33"/>
+        </canvas>
+        <canvas name="gaugeCover" width="308" height="28">
+            <vector name="origin" x="260" y="31"/>
+            <int name="z" value="3"/>
+        </canvas>
+        <canvas name="chatSpace" width="505" height="18">
+            <int name="z" value="0"/>
+            <vector name="origin" x="512" y="57"/>
+        </canvas>
+        <canvas name="chatSpace2" width="505" height="25">
+            <int name="z" value="1"/>
+            <vector name="origin" x="512" y="60"/>
+        </canvas>
+        <canvas name="chatEnter" width="457" height="21">
+            <vector name="origin" x="467" y="58"/>
+            <int name="z" value="1"/>
+        </canvas>
+        <canvas name="chatCover" width="82" height="18">
+            <int name="z" value="3"/>
+            <vector name="origin" x="509" y="57"/>
+        </canvas>
+        <imgdir name="chatTarget">
+            <imgdir name="base">
+                <imgdir name="normal">
+                    <canvas name="0" width="68" height="21">
+                        <vector name="origin" x="510" y="58"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="68" height="21">
+                        <vector name="origin" x="510" y="58"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="68" height="21">
+                        <vector name="origin" x="510" y="58"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="68" height="21">
+                        <vector name="origin" x="510" y="58"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <canvas name="all" width="37" height="9">
+                <vector name="origin" x="498" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+            <canvas name="friend" width="53" height="9">
+                <vector name="origin" x="498" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+            <canvas name="party" width="53" height="9">
+                <vector name="origin" x="498" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+            <canvas name="guild" width="48" height="9">
+                <vector name="origin" x="498" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+            <canvas name="association" width="62" height="9">
+                <vector name="origin" x="498" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+            <canvas name="expedition" width="51" height="9">
+                <vector name="origin" x="502" y="54"/>
+                <int name="z" value="5"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="chatOpen">
+            <imgdir name="normal">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="chatClose">
+            <imgdir name="normal">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="14" height="14">
+                    <vector name="origin" x="28" y="55"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="scrollUp">
+            <imgdir name="normal">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="scrollDown">
+            <imgdir name="normal">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="47"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="47"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="47"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="9" height="10">
+                    <vector name="origin" x="7" y="47"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtChat">
+            <imgdir name="normal">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-5" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-5" y="59"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-5" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-5" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtClaim">
+            <imgdir name="normal">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-28" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-28" y="59"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="23" height="21">
+                    <vector name="origin" x="-28" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="23" height="22">
+                    <vector name="origin" x="-28" y="59"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <canvas name="notice" width="27" height="21">
+            <vector name="origin" x="-56" y="58"/>
+            <int name="z" value="1"/>
+        </canvas>
+        <imgdir name="lvNumber">
+            <canvas name="0" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="2" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="3" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="4" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="5" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="6" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="7" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="8" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="9" width="12" height="13">
+                <vector name="origin" x="0" y="0"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="gauge">
+            <imgdir name="number">
+                <canvas name="0" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="4" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="3" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="4" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="5" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="6" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="7" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="8" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="9" width="7" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="[" width="4" height="11">
+                    <vector name="origin" x="0" y="1"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="]" width="4" height="11">
+                    <vector name="origin" x="0" y="1"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="\" width="6" height="10">
+                    <vector name="origin" x="0" y="1"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="%" width="9" height="9">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="." width="3" height="3">
+                    <vector name="origin" x="0" y="-6"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="hp">
+                <canvas name="0" width="1" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="1" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="2" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mp">
+                <canvas name="0" width="1" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="1" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="2" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="exp">
+                <canvas name="0" width="1" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="1" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="2" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="df">
+                <imgdir name="0">
+                    <canvas name="0" width="1" height="12">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="1" width="1" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="2" width="2" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="1">
+                    <canvas name="0" width="1" height="12">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="1" width="1" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="2" width="2" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="2">
+                    <canvas name="0" width="1" height="12">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="1" width="1" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="2" width="2" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="3">
+                    <canvas name="0" width="1" height="12">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="1" width="1" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                    <canvas name="2" width="2" height="13">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="relaxExp">
+                <canvas name="0" width="1" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="1" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="2" height="13">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtCharacter">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-82" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-82" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-82" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-82" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-84" y="57"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-84" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-84" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtStat">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-116" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-116" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-116" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-116" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-118" y="57"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-118" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-118" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtQuest">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-150" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-150" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-150" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-150" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-152" y="57"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-152" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-152" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtInven">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-184" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-184" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-184" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-184" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-186" y="57"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-186" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-186" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtEquip">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-218" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-218" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-218" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-218" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-220" y="57"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-220" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-220" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="210"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtSkill">
+            <imgdir name="normal">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-252" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-252" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-252" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="34" height="21">
+                    <vector name="origin" x="-252" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="ani">
+                <canvas name="0" width="30" height="18">
+                    <int name="z" value="5"/>
+                    <vector name="origin" x="-254" y="57"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="1" width="30" height="18">
+                    <vector name="origin" x="-254" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="2" width="30" height="18">
+                    <vector name="origin" x="-254" y="57"/>
+                    <int name="z" value="5"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtKeysetting">
+            <imgdir name="normal">
+                <canvas name="0" width="77" height="21">
+                    <vector name="origin" x="-292" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="77" height="21">
+                    <vector name="origin" x="-292" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="77" height="21">
+                    <vector name="origin" x="-292" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="77" height="21">
+                    <vector name="origin" x="-292" y="58"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtCashShop">
+            <imgdir name="normal">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-57" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-57" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-57" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-57" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtMenu">
+            <imgdir name="normal">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-134" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-134" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-134" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-134" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtSystem">
+            <imgdir name="normal">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-211" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-211" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-211" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-211" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtChannel">
+            <imgdir name="normal">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-293" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-293" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-293" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="75" height="35">
+                    <vector name="origin" x="-293" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="BtMTS">
+            <imgdir name="normal">
+                <canvas name="0" width="55" height="35">
+                    <vector name="origin" x="-115" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="pressed">
+                <canvas name="0" width="55" height="35">
+                    <vector name="origin" x="-115" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="disabled">
+                <canvas name="0" width="55" height="35">
+                    <vector name="origin" x="-115" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="mouseOver">
+                <canvas name="0" width="55" height="35">
+                    <vector name="origin" x="-115" y="36"/>
+                    <int name="z" value="2"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="quickSlot">
+            <canvas name="quickSlot" width="145" height="93">
+                <vector name="origin" x="-143" y="143"/>
+                <int name="z" value="-2"/>
+            </canvas>
+            <imgdir name="BtOpen">
+                <imgdir name="normal">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="76"/>
+                        <int name="z" value="-1"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="76"/>
+                        <int name="z" value="-1"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="76"/>
+                        <int name="z" value="-1"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="77"/>
+                        <int name="z" value="-1"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtClose">
+                <imgdir name="normal">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="143"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="143"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="143"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="145" height="15">
+                        <vector name="origin" x="-143" y="144"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="System">
+            <imgdir name="backgrnd">
+                <canvas name="0" width="79" height="34">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="79" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="79" height="41">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="BtChannel">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtKeySetting">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtGameOption">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtSystemOption">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtRoomChange">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtOption">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtGameQuit">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtJoyPad">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="Menu">
+            <imgdir name="backgrnd">
+                <canvas name="0" width="79" height="34">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="79" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="79" height="41">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="BtItem">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtEquip">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtStat">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtSkill">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtCommunity">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtQuest">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtMSN">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtRank">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="BtEvent">
+                <imgdir name="normal">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="63" height="25">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="aniHPGauge">
+            <canvas name="0" width="138" height="12">
+                <int name="z" value="5"/>
+                <vector name="origin" x="258" y="31"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="1" width="138" height="12">
+                <vector name="origin" x="258" y="31"/>
+                <int name="z" value="5"/>
+                <int name="delay" value="120"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="aniMPGauge">
+            <canvas name="0" width="138" height="12">
+                <int name="z" value="5"/>
+                <vector name="origin" x="89" y="31"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="1" width="138" height="12">
+                <vector name="origin" x="89" y="31"/>
+                <int name="z" value="5"/>
+                <int name="delay" value="120"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="ApNotify">
+            <canvas name="0" width="28" height="27">
+                <vector name="origin" x="-119" y="90"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="1" width="28" height="27">
+                <vector name="origin" x="-119" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="2" width="28" height="27">
+                <vector name="origin" x="-119" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="3" width="28" height="27">
+                <vector name="origin" x="-119" y="93"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="4" width="28" height="27">
+                <vector name="origin" x="-119" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="5" width="28" height="27">
+                <vector name="origin" x="-119" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="SpNotify">
+            <canvas name="0" width="28" height="27">
+                <vector name="origin" x="-255" y="90"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="1" width="28" height="27">
+                <vector name="origin" x="-255" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="2" width="28" height="27">
+                <vector name="origin" x="-255" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="3" width="28" height="27">
+                <vector name="origin" x="-255" y="93"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="4" width="28" height="27">
+                <vector name="origin" x="-255" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="5" width="28" height="27">
+                <vector name="origin" x="-255" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="noncombatNotify">
+            <canvas name="0" width="28" height="27">
+                <vector name="origin" x="-86" y="90"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="1" width="28" height="27">
+                <vector name="origin" x="-86" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="2" width="28" height="27">
+                <vector name="origin" x="-86" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="3" width="28" height="27">
+                <vector name="origin" x="-86" y="93"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="4" width="28" height="27">
+                <vector name="origin" x="-86" y="92"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+            <canvas name="5" width="28" height="27">
+                <vector name="origin" x="-86" y="91"/>
+                <int name="z" value="10"/>
+                <int name="delay" value="120"/>
+            </canvas>
+        </imgdir>
+        <canvas name="gaugeBackgrdDemon" width="339" height="31">
+            <int name="z" value="1"/>
+            <vector name="origin" x="289" y="33"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="chat">
+        <canvas name="tapBar" width="564" height="3">
+            <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="tapBarOver" width="566" height="4">
+            <vector name="origin" x="0" y="0"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <imgdir name="Tap">
+            <imgdir name="all">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="friend">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="party">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="guild">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="association">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+            <imgdir name="expedition">
+                <imgdir name="normal">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="pressed">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="disabled">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="mouseOver">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+                <imgdir name="checked">
+                    <canvas name="0" width="38" height="19">
+                        <vector name="origin" x="0" y="0"/>
+                        <int name="z" value="2"/>
+                    </canvas>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="scroll">
+            <imgdir name="normal">
+                <canvas name="0" width="11" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="11" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="11" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="3" width="9" height="26">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="over">
+                <canvas name="0" width="11" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="11" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="2" width="11" height="12">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="3" width="9" height="26">
+                    <vector name="origin" x="0" y="0"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

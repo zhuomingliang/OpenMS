@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0435.img">
+    <imgdir name="04350000">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="only" value="1"/>
+            <int name="picture" value="0"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04350001">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="only" value="1"/>
+            <int name="picture" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04350002">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="27">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="23">
+                <vector name="origin" x="0" y="27"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="only" value="1"/>
+            <int name="picture" value="2"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04350003">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24"/>
+            </canvas>
+            <int name="cash" value="0"/>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="only" value="1"/>
+            <int name="picture" value="3"/>
+            <string name="tradeBlock" value="1"/>
+            <int name="notSale" value="1"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Exclusive.img">
+    <imgdir name="0">
+        <string name="10415" value=""/>
+        <string name="10417" value=""/>
+        <string name="10418" value=""/>
+        <string name="10419" value=""/>
+        <string name="10420" value=""/>
+    </imgdir>
+    <imgdir name="1">
+        <string name="29002" value=""/>
+        <string name="29500" value=""/>
+    </imgdir>
+    <imgdir name="2">
+        <string name="29300" value=""/>
+        <string name="29301" value=""/>
+        <string name="29302" value=""/>
+        <string name="29303" value=""/>
+        <string name="29304" value=""/>
+    </imgdir>
+    <imgdir name="3">
+        <string name="10530" value=""/>
+        <string name="10531" value=""/>
+        <string name="10532" value=""/>
+        <string name="10533" value=""/>
+        <string name="10534" value=""/>
+        <string name="10535" value=""/>
+        <string name="10536" value=""/>
+        <string name="10537" value=""/>
+        <string name="10538" value=""/>
+        <string name="10539" value=""/>
+        <string name="10540" value=""/>
+        <string name="10541" value=""/>
+        <string name="10542" value=""/>
+        <string name="10543" value=""/>
+        <string name="10544" value=""/>
+        <string name="10545" value=""/>
+        <string name="10547" value=""/>
+    </imgdir>
+    <imgdir name="4">
+        <string name="11060" value=""/>
+        <string name="11061" value=""/>
+        <string name="11062" value=""/>
+        <string name="11063" value=""/>
+        <string name="11064" value=""/>
+        <string name="11065" value=""/>
+        <string name="11066" value=""/>
+        <string name="11067" value=""/>
+    </imgdir>
+    <imgdir name="5">
+        <string name="11032" value=""/>
+        <string name="11033" value=""/>
+        <string name="11034" value=""/>
+        <string name="11035" value=""/>
+        <string name="11036" value=""/>
+        <string name="11037" value=""/>
+        <string name="11038" value=""/>
+        <string name="11039" value=""/>
+    </imgdir>
+    <imgdir name="6">
+        <string name="11200" value=""/>
+        <string name="11207" value=""/>
+        <string name="11214" value=""/>
+    </imgdir>
+    <imgdir name="7">
+        <string name="11201" value=""/>
+        <string name="11202" value=""/>
+        <string name="11204" value=""/>
+        <string name="11205" value=""/>
+        <string name="11221" value=""/>
+        <string name="11222" value=""/>
+        <string name="11223" value=""/>
+        <string name="11224" value=""/>
+        <string name="11225" value=""/>
+        <string name="11226" value=""/>
+        <string name="11227" value=""/>
+        <string name="11228" value=""/>
+    </imgdir>
+    <imgdir name="8">
+        <string name="11208" value=""/>
+        <string name="11209" value=""/>
+        <string name="11211" value=""/>
+        <string name="11212" value=""/>
+        <string name="11221" value=""/>
+        <string name="11222" value=""/>
+        <string name="11223" value=""/>
+        <string name="11224" value=""/>
+        <string name="11225" value=""/>
+        <string name="11226" value=""/>
+        <string name="11227" value=""/>
+        <string name="11228" value=""/>
+    </imgdir>
+    <imgdir name="9">
+        <string name="11215" value=""/>
+        <string name="11216" value=""/>
+        <string name="11218" value=""/>
+        <string name="11219" value=""/>
+        <string name="11221" value=""/>
+        <string name="11222" value=""/>
+        <string name="11223" value=""/>
+        <string name="11224" value=""/>
+        <string name="11225" value=""/>
+        <string name="11226" value=""/>
+        <string name="11227" value=""/>
+        <string name="11228" value=""/>
+    </imgdir>
+    <imgdir name="10">
+        <string name="11421" value=""/>
+        <string name="11422" value=""/>
+        <string name="11423" value=""/>
+        <string name="11424" value=""/>
+    </imgdir>
+    <imgdir name="11">
+        <string name="11590" value=""/>
+        <string name="11591" value=""/>
+        <string name="11592" value=""/>
+        <string name="11593" value=""/>
+        <string name="11594" value=""/>
+        <string name="11595" value=""/>
+        <string name="11596" value=""/>
+        <string name="11597" value=""/>
+    </imgdir>
+    <imgdir name="12">
+        <string name="11637" value=""/>
+        <string name="11640" value=""/>
+        <string name="11641" value=""/>
+        <string name="11642" value=""/>
+        <string name="11643" value=""/>
+        <string name="11644" value=""/>
+        <string name="11645" value=""/>
+        <string name="11646" value=""/>
+    </imgdir>
+    <imgdir name="13">
+        <string name="11651" value=""/>
+        <string name="11652" value=""/>
+        <string name="11653" value=""/>
+        <string name="11654" value=""/>
+        <string name="11655" value=""/>
+        <string name="11656" value=""/>
+        <string name="11657" value=""/>
+    </imgdir>
+    <imgdir name="14">
+        <string name="11680" value=""/>
+        <string name="11681" value=""/>
+        <string name="11682" value=""/>
+        <string name="11683" value=""/>
+        <string name="11684" value=""/>
+        <string name="11685" value=""/>
+        <string name="11686" value=""/>
+        <string name="11687" value=""/>
+        <string name="11688" value=""/>
+    </imgdir>
+    <imgdir name="15">
+        <string name="11811" value=""/>
+        <string name="11812" value=""/>
+        <string name="11813" value=""/>
+        <string name="11814" value=""/>
+        <string name="11815" value=""/>
+        <string name="11816" value=""/>
+        <string name="11817" value=""/>
+        <string name="11818" value=""/>
+        <string name="11819" value=""/>
+        <string name="11820" value=""/>
+        <string name="11821" value=""/>
+        <string name="11822" value=""/>
+        <string name="11823" value=""/>
+    </imgdir>
+    <imgdir name="16">
+        <string name="11860" value=""/>
+        <string name="11861" value=""/>
+        <string name="11862" value=""/>
+        <string name="11863" value=""/>
+        <string name="11864" value=""/>
+    </imgdir>
+    <imgdir name="17">
+        <string name="12027" value=""/>
+        <string name="12035" value=""/>
+    </imgdir>
+</imgdir>

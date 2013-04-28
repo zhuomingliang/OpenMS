@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/inc/!svn/ver/112/trunk/src/server/life
+END
+MapleNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/61/trunk/src/server/life/MapleNPC.java
+END
+SpawnPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/61/trunk/src/server/life/SpawnPoint.java
+END
+MobSkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/server/life/MobSkillFactory.java
+END
+OverrideMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/server/life/OverrideMonsterStats.java
+END
+MapleMonster.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/112/trunk/src/server/life/MapleMonster.java
+END
+Spawns.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/60/trunk/src/server/life/Spawns.java
+END
+MobSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/60/trunk/src/server/life/MobSkill.java
+END
+MonsterGlobalDropEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/60/trunk/src/server/life/MonsterGlobalDropEntry.java
+END
+BanishInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/60/trunk/src/server/life/BanishInfo.java
+END
+ElementalEffectiveness.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/60/trunk/src/server/life/ElementalEffectiveness.java
+END
+MobAttackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/85/trunk/src/server/life/MobAttackInfo.java
+END
+SpawnPointAreaBoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/61/trunk/src/server/life/SpawnPointAreaBoss.java
+END
+MapleMonsterStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/60/trunk/src/server/life/MapleMonsterStats.java
+END
+MapleLifeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/85/trunk/src/server/life/MapleLifeFactory.java
+END
+MapleMonsterInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/inc/!svn/ver/60/trunk/src/server/life/MapleMonsterInformationProvider.java
+END
+ChangeableStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/server/life/ChangeableStats.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/60/trunk/src/server/life/Element.java
+END
+AbstractLoadedMapleLife.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/60/trunk/src/server/life/AbstractLoadedMapleLife.java
+END
+MonsterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/server/life/MonsterListener.java
+END
+PlayerNPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/70/trunk/src/server/life/PlayerNPC.java
+END
+MonsterDropEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/60/trunk/src/server/life/MonsterDropEntry.java
+END

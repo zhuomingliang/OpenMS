@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="6130103.img">
+    <imgdir name="info">
+        <string name="link" value="6130102"/>
+        <imgdir name="default">
+            <canvas name="0" width="63" height="56">
+                <vector name="origin" x="31" y="55"/>
+                <vector name="lt" x="-29" y="-52"/>
+                <vector name="rb" x="30" y="0"/>
+                <vector name="head" x="-16" y="-42"/>
+                <int name="delay" value="500"/>
+            </canvas>
+        </imgdir>
+        <int name="level" value="48"/>
+        <int name="bodyAttack" value="1"/>
+        <int name="maxHP" value="2760"/>
+        <int name="maxMP" value="600"/>
+        <int name="speed" value="60"/>
+        <int name="PADamage" value="252"/>
+        <int name="PDDamage" value="210"/>
+        <int name="PDRate" value="10"/>
+        <int name="MADamage" value="251"/>
+        <int name="MDDamage" value="225"/>
+        <int name="MDRate" value="10"/>
+        <int name="acc" value="63"/>
+        <int name="eva" value="13"/>
+        <int name="pushed" value="350"/>
+        <float name="fs" value="10.0"/>
+        <int name="exp" value="123"/>
+        <int name="summonType" value="1"/>
+        <int name="category" value="1"/>
+        <string name="elemAttr" value="I2F3"/>
+        <string name="mobType" value="1N"/>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/inc/!svn/ver/113/trunk/src/handling
+END
+WritableIntValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/74/trunk/src/handling/WritableIntValueHolder.java
+END
+ExternalCodeTableGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/handling/ExternalCodeTableGetter.java
+END
+RecvPacketOpcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/109/trunk/src/handling/RecvPacketOpcode.java
+END
+MapleServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/109/trunk/src/handling/MapleServerHandler.java
+END
+MapleServerHandlerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/handling/MapleServerHandlerMBean.java
+END
+SendPacketOpcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/107/trunk/src/handling/SendPacketOpcode.java
+END
+Buffstat.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/60/trunk/src/handling/Buffstat.java
+END

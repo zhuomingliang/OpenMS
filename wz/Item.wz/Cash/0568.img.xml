@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0568.img">
+    <imgdir name="05680000">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="30">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+            <int name="noMoveToLocker" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680000"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680024">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="effect">
+            <imgdir name="default">
+                <canvas name="0" width="24" height="48">
+                    <vector name="origin" x="15" y="169"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="1" width="45" height="92">
+                    <vector name="origin" x="30" y="213"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="2" width="60" height="96">
+                    <vector name="origin" x="37" y="224"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="3" width="93" height="94">
+                    <vector name="origin" x="44" y="221"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="4" width="155" height="121">
+                    <vector name="origin" x="93" y="249"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="5" width="163" height="136">
+                    <vector name="origin" x="98" y="269"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="6" width="201" height="129">
+                    <vector name="origin" x="99" y="269"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="7" width="206" height="135">
+                    <vector name="origin" x="100" y="269"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="8" width="207" height="140">
+                    <vector name="origin" x="100" y="268"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="9" width="207" height="141">
+                    <vector name="origin" x="99" y="266"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="10" width="163" height="172">
+                    <vector name="origin" x="49" y="297"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="11" width="169" height="171">
+                    <vector name="origin" x="49" y="295"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="12" width="171" height="124">
+                    <vector name="origin" x="49" y="295"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="13" width="170" height="126">
+                    <vector name="origin" x="48" y="294"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="14" width="127" height="121">
+                    <vector name="origin" x="4" y="288"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="15" width="123" height="116">
+                    <vector name="origin" x="2" y="282"/>
+                    <int name="z" value="0"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <int name="z" value="-1"/>
+                <int name="pos" value="1"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680024"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680015">
+        <imgdir name="info">
+            <canvas name="icon" width="28" height="30">
+                <vector name="origin" x="-2" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="28" height="28">
+                <vector name="origin" x="-2" y="29"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680015"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680016">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680016"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680019">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="28">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680019"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680020">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="28">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680020"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680021">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="28">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="25">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="ChairGachapon"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680042">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680042"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680043">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680043"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680044">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680044"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680045">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680045"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680046">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680046"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680047">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680047"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05680048">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="notConsume" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <string name="script" value="cash_5680048"/>
+            <int name="npc" value="9010000"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

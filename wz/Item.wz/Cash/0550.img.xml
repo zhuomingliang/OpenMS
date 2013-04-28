@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0550.img">
+    <imgdir name="05500000">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="86400"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05500001">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="604800"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05500002">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="1728000"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05500005">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="4320000"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05500006">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="8553600"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05501001">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="31">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="29">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05501002">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="31">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="29">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="5184000"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502000">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="5"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="1"/>
+                <int name="1" value="51"/>
+                <int name="2" value="8"/>
+                <int name="3" value="7"/>
+                <int name="4" value="5"/>
+                <int name="5" value="6"/>
+                <int name="6" value="9"/>
+                <int name="7" value="50"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502001">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="5"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="11"/>
+                <int name="1" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502002">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="5"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="52"/>
+                <int name="1" value="17"/>
+                <int name="2" value="15"/>
+                <int name="3" value="16"/>
+                <int name="4" value="12"/>
+                <int name="5" value="13"/>
+                <int name="6" value="3"/>
+                <int name="7" value="4"/>
+                <int name="8" value="2"/>
+                <int name="9" value="61"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502003">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="5"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="56"/>
+                <int name="1" value="49"/>
+                <int name="2" value="1000"/>
+                <int name="3" value="1001"/>
+                <int name="4" value="1002"/>
+                <int name="5" value="1003"/>
+                <int name="6" value="1100"/>
+                <int name="7" value="1101"/>
+                <int name="8" value="1102"/>
+                <int name="9" value="1103"/>
+                <int name="10" value="1104"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502004">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="10"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="1"/>
+                <int name="1" value="51"/>
+                <int name="2" value="8"/>
+                <int name="3" value="7"/>
+                <int name="4" value="5"/>
+                <int name="5" value="6"/>
+                <int name="6" value="9"/>
+                <int name="7" value="50"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502005">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="10"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="11"/>
+                <int name="1" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502006">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="10"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="52"/>
+                <int name="1" value="17"/>
+                <int name="2" value="15"/>
+                <int name="3" value="16"/>
+                <int name="4" value="12"/>
+                <int name="5" value="13"/>
+                <int name="6" value="3"/>
+                <int name="7" value="4"/>
+                <int name="8" value="2"/>
+                <int name="9" value="61"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05502007">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="33">
+                <vector name="origin" x="-3" y="33"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="2592000"/>
+            <int name="maxDays" value="365"/>
+            <int name="minusLevel" value="10"/>
+            <imgdir name="selectedSlot">
+                <int name="0" value="56"/>
+                <int name="1" value="49"/>
+                <int name="2" value="1000"/>
+                <int name="3" value="1001"/>
+                <int name="4" value="1002"/>
+                <int name="5" value="1003"/>
+                <int name="6" value="1100"/>
+                <int name="7" value="1101"/>
+                <int name="8" value="1102"/>
+                <int name="9" value="1103"/>
+                <int name="10" value="1104"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05501003">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="31">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="29">
+                <vector name="origin" x="1" y="31"/>
+            </canvas>
+            <int name="cash" value="1"/>
+            <int name="addTime" value="31536000"/>
+            <int name="maxDays" value="365"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

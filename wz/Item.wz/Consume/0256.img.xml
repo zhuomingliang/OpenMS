@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0256.img">
+    <imgdir name="02560000">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="100"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02560001">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="101"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02560002">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="102"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02560003">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="103"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02560004">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="104"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02560005">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <int name="slotMax" value="1"/>
+            <int name="price" value="1"/>
+            <int name="activateCardSetID" value="34"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

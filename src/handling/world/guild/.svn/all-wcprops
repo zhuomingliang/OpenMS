@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/inc/!svn/ver/61/trunk/src/handling/world/guild
+END
+MapleGuildCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/inc/!svn/ver/60/trunk/src/handling/world/guild/MapleGuildCharacter.java
+END
+MapleGuildResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/inc/!svn/ver/61/trunk/src/handling/world/guild/MapleGuildResponse.java
+END
+MapleGuildSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/60/trunk/src/handling/world/guild/MapleGuildSkill.java
+END
+MapleGuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/61/trunk/src/handling/world/guild/MapleGuild.java
+END
+GuildLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/60/trunk/src/handling/world/guild/GuildLoad.java
+END
+MapleGuildAlliance.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/inc/!svn/ver/61/trunk/src/handling/world/guild/MapleGuildAlliance.java
+END
+MapleBBSThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/60/trunk/src/handling/world/guild/MapleBBSThread.java
+END

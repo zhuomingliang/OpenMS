@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9960099.img">
+    <imgdir name="info">
+        <int name="grade" value="0"/>
+        <int name="range" value="700"/>
+        <imgdir name="skill">
+            <int name="id" value="801"/>
+            <int name="effectAfter" value="600"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <string name="link" value="stand"/>
+    </imgdir>
+    <imgdir name="move">
+        <string name="link" value="move"/>
+    </imgdir>
+    <imgdir name="fly">
+        <string name="link" value="move"/>
+    </imgdir>
+    <imgdir name="jump">
+        <string name="link" value="jump"/>
+    </imgdir>
+    <imgdir name="skill">
+        <canvas name="0" width="58" height="42">
+            <vector name="origin" x="40" y="37"/>
+            <vector name="head" x="-20" y="-32"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="1" width="48" height="58">
+            <vector name="origin" x="23" y="53"/>
+            <vector name="head" x="-3" y="-48"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="2" width="56" height="57">
+            <vector name="origin" x="28" y="52"/>
+            <vector name="head" x="-8" y="-47"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="3" width="48" height="51">
+            <vector name="origin" x="30" y="46"/>
+            <vector name="head" x="-10" y="-41"/>
+            <int name="delay" value="150"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="attack">
+        <imgdir name="info">
+            <imgdir name="hit">
+                <canvas name="0" width="73" height="80">
+                    <vector name="origin" x="33" y="56"/>
+                </canvas>
+                <canvas name="1" width="95" height="99">
+                    <vector name="origin" x="42" y="67"/>
+                </canvas>
+            </imgdir>
+            <int name="attackAfter" value="600"/>
+        </imgdir>
+        <string name="link" value="move"/>
+    </imgdir>
+</imgdir>

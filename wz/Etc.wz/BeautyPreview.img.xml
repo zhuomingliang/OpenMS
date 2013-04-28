@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="BeautyPreview.img">
+    <imgdir name="MaleHair">
+        <imgdir name="5150044">
+            <int name="0" value="30700"/>
+            <int name="1" value="30860"/>
+            <int name="2" value="30930"/>
+            <int name="3" value="30940"/>
+            <int name="4" value="30950"/>
+            <int name="5" value="33030"/>
+            <int name="6" value="33070"/>
+            <int name="7" value="33080"/>
+            <int name="8" value="33090"/>
+        </imgdir>
+        <imgdir name="5150050">
+            <int name="0" value="30770"/>
+            <int name="1" value="30810"/>
+            <int name="2" value="30840"/>
+            <int name="3" value="33060"/>
+            <int name="4" value="33080"/>
+            <int name="5" value="33070"/>
+            <int name="6" value="30820"/>
+        </imgdir>
+        <imgdir name="5150057">
+            <int name="0" value="33510"/>
+            <int name="1" value="33380"/>
+            <int name="2" value="30820"/>
+            <int name="3" value="33270"/>
+            <int name="4" value="33280"/>
+            <int name="5" value="33350"/>
+            <int name="6" value="30930"/>
+            <int name="7" value="33370"/>
+            <int name="8" value="33500"/>
+            <int name="9" value="33440"/>
+        </imgdir>
+        <imgdir name="5150058">
+            <int name="0" value="33110"/>
+            <int name="1" value="33120"/>
+            <int name="2" value="30570"/>
+            <int name="3" value="33360"/>
+            <int name="4" value="33250"/>
+            <int name="5" value="33220"/>
+            <int name="6" value="33390"/>
+            <int name="7" value="33180"/>
+            <int name="8" value="33260"/>
+            <int name="9" value="33480"/>
+        </imgdir>
+        <imgdir name="5150061">
+            <int name="0" value="33550"/>
+            <int name="1" value="32380"/>
+            <int name="2" value="33630"/>
+            <int name="3" value="33510"/>
+            <int name="4" value="33460"/>
+            <int name="5" value="33480"/>
+            <int name="6" value="33410"/>
+            <int name="7" value="33430"/>
+            <int name="8" value="30930"/>
+            <int name="9" value="33470"/>
+            <int name="10" value="30950"/>
+            <int name="11" value="33360"/>
+        </imgdir>
+        <imgdir name="5150065">
+            <int name="0" value="33520"/>
+            <int name="1" value="33430"/>
+            <int name="2" value="33720"/>
+            <int name="3" value="33750"/>
+            <int name="4" value="33780"/>
+            <int name="5" value="33800"/>
+            <int name="6" value="33810"/>
+            <int name="7" value="33220"/>
+            <int name="8" value="33380"/>
+            <int name="9" value="33210"/>
+        </imgdir>
+        <imgdir name="5150066">
+            <int name="0" value="33120"/>
+            <int name="1" value="33190"/>
+            <int name="2" value="33550"/>
+            <int name="3" value="33600"/>
+            <int name="4" value="33580"/>
+            <int name="5" value="33930"/>
+            <int name="6" value="33940"/>
+            <int name="7" value="36010"/>
+            <int name="8" value="33960"/>
+            <int name="9" value="36020"/>
+        </imgdir>
+        <imgdir name="5150040">
+            <int name="0" value="36070"/>
+            <int name="1" value="36080"/>
+            <int name="2" value="36090"/>
+            <int name="3" value="36100"/>
+            <int name="4" value="33000"/>
+            <int name="5" value="33520"/>
+            <int name="6" value="33390"/>
+            <int name="7" value="33440"/>
+            <int name="8" value="33250"/>
+            <int name="9" value="33580"/>
+            <int name="10" value="33600"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="FemaleHair">
+        <imgdir name="5150044">
+            <int name="0" value="31910"/>
+            <int name="1" value="31920"/>
+            <int name="2" value="31930"/>
+            <int name="3" value="31940"/>
+            <int name="4" value="31950"/>
+            <int name="5" value="34040"/>
+            <int name="6" value="34070"/>
+            <int name="7" value="34090"/>
+            <int name="8" value="34100"/>
+        </imgdir>
+        <imgdir name="5150050">
+            <int name="0" value="34210"/>
+            <int name="1" value="34120"/>
+            <int name="2" value="31990"/>
+            <int name="3" value="31620"/>
+            <int name="4" value="34090"/>
+            <int name="5" value="31670"/>
+            <int name="6" value="31800"/>
+        </imgdir>
+        <imgdir name="5150057">
+            <int name="0" value="34480"/>
+            <int name="1" value="34470"/>
+            <int name="2" value="31800"/>
+            <int name="3" value="34360"/>
+            <int name="4" value="34190"/>
+            <int name="5" value="34110"/>
+            <int name="6" value="34080"/>
+            <int name="7" value="34320"/>
+            <int name="8" value="34260"/>
+            <int name="9" value="34400"/>
+        </imgdir>
+        <imgdir name="5150058">
+            <int name="0" value="34160"/>
+            <int name="1" value="34130"/>
+            <int name="2" value="34150"/>
+            <int name="3" value="34220"/>
+            <int name="4" value="34340"/>
+            <int name="5" value="34330"/>
+            <int name="6" value="34430"/>
+            <int name="7" value="34490"/>
+            <int name="8" value="34240"/>
+            <int name="9" value="34440"/>
+        </imgdir>
+        <imgdir name="5150061">
+            <int name="0" value="34150"/>
+            <int name="1" value="34330"/>
+            <int name="2" value="34380"/>
+            <int name="3" value="34430"/>
+            <int name="4" value="34340"/>
+            <int name="5" value="34510"/>
+            <int name="6" value="34240"/>
+            <int name="7" value="34480"/>
+            <int name="8" value="34630"/>
+            <int name="9" value="34360"/>
+            <int name="10" value="34720"/>
+            <int name="11" value="34620"/>
+        </imgdir>
+        <imgdir name="5150065">
+            <int name="0" value="34160"/>
+            <int name="1" value="34260"/>
+            <int name="2" value="34510"/>
+            <int name="3" value="34720"/>
+            <int name="4" value="34760"/>
+            <int name="5" value="34780"/>
+            <int name="6" value="34790"/>
+            <int name="7" value="34800"/>
+            <int name="8" value="34110"/>
+            <int name="9" value="34230"/>
+        </imgdir>
+        <imgdir name="5150066">
+            <int name="0" value="34130"/>
+            <int name="1" value="34240"/>
+            <int name="2" value="34400"/>
+            <int name="3" value="34430"/>
+            <int name="4" value="31940"/>
+            <int name="5" value="34830"/>
+            <int name="6" value="34840"/>
+            <int name="7" value="34850"/>
+            <int name="8" value="34860"/>
+            <int name="9" value="34870"/>
+        </imgdir>
+        <imgdir name="5150040">
+            <int name="0" value="34940"/>
+            <int name="1" value="34950"/>
+            <int name="2" value="34960"/>
+            <int name="3" value="34970"/>
+            <int name="4" value="34650"/>
+            <int name="5" value="34400"/>
+            <int name="6" value="34250"/>
+            <int name="7" value="34540"/>
+            <int name="8" value="34490"/>
+            <int name="9" value="34180"/>
+            <int name="10" value="34370"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="MaleFace">
+        <imgdir name="5152058">
+            <int name="0" value="20009"/>
+            <int name="1" value="20011"/>
+            <int name="2" value="20018"/>
+            <int name="3" value="20030"/>
+            <int name="4" value="20037"/>
+        </imgdir>
+        <imgdir name="5152064">
+            <int name="0" value="20037"/>
+            <int name="1" value="20010"/>
+            <int name="2" value="20021"/>
+            <int name="3" value="20015"/>
+            <int name="4" value="20055"/>
+            <int name="5" value="20056"/>
+        </imgdir>
+        <imgdir name="5152065">
+            <int name="0" value="20043"/>
+            <int name="1" value="20046"/>
+            <int name="2" value="20047"/>
+            <int name="3" value="20040"/>
+            <int name="4" value="20045"/>
+            <int name="5" value="20050"/>
+        </imgdir>
+        <imgdir name="5152068">
+            <int name="0" value="20066"/>
+            <int name="1" value="20062"/>
+            <int name="2" value="20064"/>
+            <int name="3" value="20063"/>
+            <int name="4" value="20055"/>
+            <int name="5" value="20056"/>
+        </imgdir>
+        <imgdir name="5152069">
+            <int name="0" value="20068"/>
+            <int name="1" value="20036"/>
+            <int name="2" value="20046"/>
+            <int name="3" value="20040"/>
+            <int name="4" value="20037"/>
+            <int name="5" value="20030"/>
+        </imgdir>
+        <imgdir name="5152053">
+            <int name="0" value="20059"/>
+            <int name="1" value="20058"/>
+            <int name="2" value="20048"/>
+            <int name="3" value="20049"/>
+            <int name="4" value="20050"/>
+            <int name="5" value="20052"/>
+            <int name="6" value="20053"/>
+            <int name="7" value="20055"/>
+            <int name="8" value="20057"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="FemaleFace">
+        <imgdir name="5152058">
+            <int name="0" value="21009"/>
+            <int name="1" value="21010"/>
+            <int name="2" value="21028"/>
+            <int name="3" value="21031"/>
+            <int name="4" value="21035"/>
+        </imgdir>
+        <imgdir name="5152064">
+            <int name="0" value="21010"/>
+            <int name="1" value="21033"/>
+            <int name="2" value="21011"/>
+            <int name="3" value="21015"/>
+            <int name="4" value="21053"/>
+            <int name="5" value="21054"/>
+        </imgdir>
+        <imgdir name="5152065">
+            <int name="0" value="21041"/>
+            <int name="1" value="21044"/>
+            <int name="2" value="21045"/>
+            <int name="3" value="21038"/>
+            <int name="4" value="21043"/>
+            <int name="5" value="21048"/>
+        </imgdir>
+        <imgdir name="5152068">
+            <int name="0" value="21062"/>
+            <int name="1" value="21059"/>
+            <int name="2" value="21060"/>
+            <int name="3" value="21063"/>
+            <int name="4" value="21033"/>
+            <int name="5" value="21053"/>
+        </imgdir>
+        <imgdir name="5152069">
+            <int name="0" value="21064"/>
+            <int name="1" value="21045"/>
+            <int name="2" value="21042"/>
+            <int name="3" value="21038"/>
+            <int name="4" value="21028"/>
+            <int name="5" value="21031"/>
+        </imgdir>
+        <imgdir name="5152053">
+            <int name="0" value="21057"/>
+            <int name="1" value="21056"/>
+            <int name="2" value="21044"/>
+            <int name="3" value="21046"/>
+            <int name="4" value="21047"/>
+            <int name="5" value="21049"/>
+            <int name="6" value="21052"/>
+            <int name="7" value="21054"/>
+            <int name="8" value="21055"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="Skin">
+    </imgdir>
+</imgdir>

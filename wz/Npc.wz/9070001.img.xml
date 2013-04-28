@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9070001.img">
+    <imgdir name="info">
+        <imgdir name="speak">
+            <string name="0" value="s0"/>
+        </imgdir>
+        <int name="dcLeft" value="-57"/>
+        <int name="dcTop" value="-101"/>
+        <int name="dcRight" value="29"/>
+        <int name="dcBottom" value="0"/>
+        <int name="shop" value="1"/>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="1000"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="1" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <uol name="2" value="0"/>
+        <uol name="3" value="1"/>
+        <uol name="4" value="0"/>
+        <uol name="5" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="7" value="1"/>
+    </imgdir>
+    <imgdir name="eye">
+        <canvas name="0" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="1" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+        <canvas name="2" width="87" height="101">
+            <vector name="origin" x="58" y="101"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/inc/!svn/ver/70/trunk/src/server/quest
+END
+MapleQuest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/70/trunk/src/server/quest/MapleQuest.java
+END
+MapleQuestActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/60/trunk/src/server/quest/MapleQuestActionType.java
+END
+MapleQuestRequirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/60/trunk/src/server/quest/MapleQuestRequirement.java
+END
+MapleQuestRequirementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/60/trunk/src/server/quest/MapleQuestRequirementType.java
+END
+MapleQuestAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/61/trunk/src/server/quest/MapleQuestAction.java
+END

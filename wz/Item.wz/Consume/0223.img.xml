@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0223.img">
+    <imgdir name="02230000">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="price" value="0"/>
+            <int name="notSale" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="only" value="1"/>
+            <imgdir name="exp">
+                <int name="minLev" value="1"/>
+                <int name="maxLev" value="30"/>
+            </imgdir>
+            <imgdir name="cantAccountSharable">
+                <imgdir name="job">
+                    <int name="0" value="2"/>
+                    <int name="501" value="2"/>
+                    <int name="530" value="2"/>
+                    <int name="531" value="2"/>
+                    <int name="532" value="2"/>
+                    <int name="2002" value="0"/>
+                    <int name="2300" value="0"/>
+                    <int name="2310" value="0"/>
+                    <int name="2311" value="0"/>
+                    <int name="2312" value="0"/>
+                    <int name="3001" value="0"/>
+                    <int name="3100" value="0"/>
+                    <int name="3110" value="0"/>
+                    <int name="3111" value="0"/>
+                    <int name="3112" value="0"/>
+                    <int name="2003" value="0"/>
+                    <int name="2400" value="0"/>
+                    <int name="2410" value="0"/>
+                    <int name="2411" value="0"/>
+                    <int name="2412" value="0"/>
+                    <int name="5000" value="0"/>
+                    <int name="5100" value="0"/>
+                    <int name="5110" value="0"/>
+                    <int name="5111" value="0"/>
+                    <int name="5112" value="0"/>
+                    <int name="508" value="0"/>
+                    <int name="570" value="0"/>
+                    <int name="571" value="0"/>
+                    <int name="572" value="0"/>
+                </imgdir>
+                <string name="tooltip" value="Cannot be shared between select classes"/>
+            </imgdir>
+            <int name="accountSharable" value="1"/>
+            <imgdir name="LvUpWarning">
+                <string name="10" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="30" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="70" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="120" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02230001">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="price" value="0"/>
+            <int name="notSale" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="only" value="1"/>
+            <imgdir name="exp">
+                <int name="minLev" value="30"/>
+                <int name="maxLev" value="70"/>
+            </imgdir>
+            <imgdir name="cantAccountSharable">
+                <imgdir name="job">
+                    <int name="0" value="2"/>
+                    <int name="501" value="2"/>
+                    <int name="530" value="2"/>
+                    <int name="531" value="2"/>
+                    <int name="532" value="2"/>
+                    <int name="2002" value="0"/>
+                    <int name="2300" value="0"/>
+                    <int name="2310" value="0"/>
+                    <int name="2311" value="0"/>
+                    <int name="2312" value="0"/>
+                    <int name="3001" value="0"/>
+                    <int name="3100" value="0"/>
+                    <int name="3110" value="0"/>
+                    <int name="3111" value="0"/>
+                    <int name="3112" value="0"/>
+                    <int name="2003" value="0"/>
+                    <int name="2400" value="0"/>
+                    <int name="2410" value="0"/>
+                    <int name="2411" value="0"/>
+                    <int name="2412" value="0"/>
+                    <int name="5000" value="0"/>
+                    <int name="5100" value="0"/>
+                    <int name="5110" value="0"/>
+                    <int name="5111" value="0"/>
+                    <int name="5112" value="0"/>
+                    <int name="508" value="0"/>
+                    <int name="570" value="0"/>
+                    <int name="571" value="0"/>
+                    <int name="572" value="0"/>
+                </imgdir>
+                <string name="tooltip" value="Cannot be shared between select classes"/>
+            </imgdir>
+            <int name="accountSharable" value="1"/>
+            <imgdir name="LvUpWarning">
+                <string name="10" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="30" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="70" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+                <string name="120" value="If you haven&apos;t made a job advancement, \nit&apos;s recommended that you make your job \nadvancement before using it. \nDo you really wish to use it?"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02230002">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="price" value="0"/>
+            <int name="notSale" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="only" value="1"/>
+            <imgdir name="exp">
+                <int name="minLev" value="1"/>
+                <int name="maxLev" value="30"/>
+            </imgdir>
+            <imgdir name="cantAccountSharable">
+                <imgdir name="job">
+                    <int name="2003" value="0"/>
+                    <int name="2400" value="0"/>
+                    <int name="2410" value="0"/>
+                    <int name="2411" value="0"/>
+                    <int name="2412" value="0"/>
+                    <int name="5000" value="0"/>
+                    <int name="5100" value="0"/>
+                    <int name="5110" value="0"/>
+                    <int name="5111" value="0"/>
+                    <int name="5112" value="0"/>
+                    <int name="508" value="0"/>
+                    <int name="570" value="0"/>
+                    <int name="571" value="0"/>
+                    <int name="572" value="0"/>
+                </imgdir>
+                <string name="tooltip" value="Cannot be shared between select classes"/>
+            </imgdir>
+            <int name="accountSharable" value="1"/>
+            <imgdir name="LvUpWarning">
+                <string name="10" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement \nbefore using this. Use now?"/>
+                <string name="30" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement \nbefore using this. Use now?"/>
+                <string name="70" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement \nbefore using this. Use now?"/>
+                <string name="120" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement \nbefore using this. Use now?"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02230003">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="price" value="0"/>
+            <int name="notSale" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="only" value="1"/>
+            <imgdir name="exp">
+                <int name="minLev" value="30"/>
+                <int name="maxLev" value="70"/>
+            </imgdir>
+            <imgdir name="cantAccountSharable">
+                <imgdir name="job">
+                    <int name="2003" value="0"/>
+                    <int name="2400" value="0"/>
+                    <int name="2410" value="0"/>
+                    <int name="2411" value="0"/>
+                    <int name="2412" value="0"/>
+                    <int name="5000" value="0"/>
+                    <int name="5100" value="0"/>
+                    <int name="5110" value="0"/>
+                    <int name="5111" value="0"/>
+                    <int name="5112" value="0"/>
+                    <int name="508" value="0"/>
+                    <int name="570" value="0"/>
+                    <int name="571" value="0"/>
+                    <int name="572" value="0"/>
+                </imgdir>
+                <string name="tooltip" value="Cannot be shared between select classes"/>
+            </imgdir>
+            <int name="accountSharable" value="1"/>
+            <imgdir name="LvUpWarning">
+                <string name="10" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement  \nbefore using this. Use now?"/>
+                <string name="30" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement  \nbefore using this. Use now?"/>
+                <string name="70" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement  \nbefore using this. Use now?"/>
+                <string name="120" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement  \nbefore using this. Use now?"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02230004">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="31">
+                <vector name="origin" x="-1" y="32"/>
+            </canvas>
+            <int name="price" value="0"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="notSale" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="only" value="1"/>
+            <imgdir name="exp">
+                <int name="minLev" value="12"/>
+                <int name="maxLev" value="18"/>
+            </imgdir>
+            <imgdir name="LvUpWarning">
+                <string name="10" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement before using this. \nUse now?"/>
+                <string name="30" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement before using this. \nUse now?"/>
+                <string name="70" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement before using this. \nUse now?"/>
+                <string name="120" value="If you haven&apos;t already, it&apos;s recommended\nthat you make your job advancement before using this. \nUse now?"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

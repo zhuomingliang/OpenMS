@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="GL_Award.img">
+    <imgdir name="LegendAward">
+        <imgdir name="0">
+            <string name="name" value="Legendary Participant Trophy"/>
+            <int name="questid" value="28677"/>
+            <string name="desc" value="Trophy given to those who participated in the Legends Awards."/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="name" value="Seeker of Power Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Great Protector event."/>
+            <int name="questid" value="28678"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="name" value="Lucky Legend Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Rock-Paper-Scissors event."/>
+            <int name="questid" value="28679"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="name" value="Early Bird Trophy"/>
+            <string name="desc" value="Trophy obtained by completing each event once: Legendary Ore / Legends Awards Box of Tomorrow / Maple World Air Quality / Can You Resist?"/>
+            <int name="questid" value="28657"/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="name" value="Legendary Artisan Trophy"/>
+            <string name="desc" value="Trophy obtained by completing any one of the Profession-related events."/>
+            <int name="questid" value="28658"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="name" value="Enduring Legend Trophy"/>
+            <string name="desc" value="Trophy obtained by collecting the Legendary Participant Trophy, the Seeker of Power Trophy, and the Lucky Legend Trophy."/>
+            <int name="questid" value="28659"/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="name" value="Shiny Nose Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Rudolph, All Grown-Up? event."/>
+            <int name="questid" value="28680"/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="name" value="Ho-Ho-Ho! Trophy"/>
+            <string name="desc" value="Trophy obtained by completing Maple Claws&apos;s Flashy Button event."/>
+            <int name="questid" value="28681"/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="name" value="Magpie Mapler Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Potted Christmas Tree event."/>
+            <int name="questid" value="28682"/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="name" value="Teleporter Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Space Rock event."/>
+            <int name="questid" value="28660"/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="name" value="The Blessed One Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Lucky Coin event."/>
+            <int name="questid" value="28661"/>
+        </imgdir>
+        <imgdir name="11">
+            <string name="name" value="Happy Holidays! Trophy"/>
+            <string name="desc" value="Trophy obtained by collecting the Ho-Ho-Ho! Trophy, the Shiny Nose Trophy, and the Magpie Mapler Trophy."/>
+            <int name="questid" value="28666"/>
+        </imgdir>
+        <imgdir name="12">
+            <string name="name" value="Great Cooperator Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Party Quest event."/>
+            <int name="questid" value="28662"/>
+        </imgdir>
+        <imgdir name="13">
+            <string name="name" value="Slaughterer Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Monster Park event."/>
+            <int name="questid" value="28663"/>
+        </imgdir>
+        <imgdir name="14">
+            <string name="name" value="Legendary Scrapper Trophy"/>
+            <string name="desc" value="Trophy obtained by completing the Battle Mode event."/>
+            <int name="questid" value="28664"/>
+        </imgdir>
+        <imgdir name="15">
+            <string name="name" value="Maple Battlemaster Trophy"/>
+            <string name="desc" value="Trophy obtained by collecting the Great Cooperator Trophy, the Slaughterer Trophy, and the Legendary Scrapper Trophy."/>
+            <int name="questid" value="28665"/>
+        </imgdir>
+        <imgdir name="16">
+            <string name="name" value="Hero of Legends Trophy"/>
+            <string name="desc" value="The ultimate Trophy of Trohies. Whoever carries this has earned all of the Legends Awards Trohies."/>
+            <int name="questid" value="28667"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="StringList">
+        <string name="0" value="All Content Quests"/>
+        <string name="1" value="All Holiday Quests"/>
+        <string name="2" value="All Participation Events"/>
+        <string name="3" value="All Login Events"/>
+        <string name="4" value="Collect 3 Trophies"/>
+        <string name="5" value="Collect 5 Trophies"/>
+        <string name="6" value="Collect 7 Trophies"/>
+        <string name="7" value="Collect 10 Trophies"/>
+        <string name="8" value="Collect 12 Trophies"/>
+        <string name="9" value="Collect 15 Trophies"/>
+        <string name="10" value="Hero of Legends"/>
+        <string name="11" value="Legendary Participant Trophy"/>
+        <string name="12" value="Seeker of Power Trophy"/>
+        <string name="13" value="Lucky Legend Trophy"/>
+        <string name="14" value="Early Bird Trophy"/>
+        <string name="15" value="Legendary Artisan Trophy"/>
+        <string name="16" value="Enduring Legend Trophy"/>
+        <string name="17" value="Shiny Nose Trophy"/>
+        <string name="18" value="Ho-Ho-Ho! Trophy"/>
+        <string name="19" value="Magpie Mapler Trophy"/>
+        <string name="20" value="Teleporter Trophy"/>
+        <string name="21" value="The Blessed One Trophy"/>
+        <string name="22" value="Happy Holidays! Trophy"/>
+        <string name="23" value="Great Cooperator Trophy"/>
+        <string name="24" value="Slaughterer Trophy"/>
+        <string name="25" value="Legendary Scrapper Trophy"/>
+        <string name="26" value="Maple Battlemaster Trophy"/>
+        <string name="27" value="Hero of Legends Trophy"/>
+    </imgdir>
+    <imgdir name="ItemList">
+        <imgdir name="0">
+            <int name="0" value="4001642"/>
+            <int name="1" value="2028016"/>
+            <int name="questid" value="28665"/>
+        </imgdir>
+        <imgdir name="1">
+            <int name="0" value="4001643"/>
+            <int name="1" value="2028012"/>
+            <int name="questid" value="28666"/>
+        </imgdir>
+        <imgdir name="2">
+            <int name="0" value="4001644"/>
+            <int name="1" value="2028016"/>
+            <int name="questid" value="28659"/>
+        </imgdir>
+        <imgdir name="3">
+            <int name="0" value="4001645"/>
+            <int name="1" value="2028012"/>
+            <int name="questid" value="28657"/>
+        </imgdir>
+        <imgdir name="4">
+            <int name="0" value="4001646"/>
+            <int name="1" value="2049116"/>
+            <int name="questid" value="28683"/>
+        </imgdir>
+        <imgdir name="5">
+            <int name="0" value="4001647"/>
+            <int name="1" value="2430370"/>
+            <int name="questid" value="28684"/>
+        </imgdir>
+        <imgdir name="6">
+            <int name="0" value="4001648"/>
+            <int name="1" value="5041000"/>
+            <int name="questid" value="28685"/>
+        </imgdir>
+        <imgdir name="7">
+            <int name="0" value="4001649"/>
+            <int name="1" value="5072000"/>
+            <int name="questid" value="28686"/>
+        </imgdir>
+        <imgdir name="8">
+            <int name="0" value="4001650"/>
+            <int name="1" value="5150052"/>
+            <int name="questid" value="28687"/>
+        </imgdir>
+        <imgdir name="9">
+            <int name="0" value="4001651"/>
+            <int name="1" value="5152056"/>
+            <int name="questid" value="28688"/>
+        </imgdir>
+        <imgdir name="10">
+            <int name="0" value="4001652"/>
+            <int name="1" value="3010285"/>
+            <int name="questid" value="28667"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

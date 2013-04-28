@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/inc/!svn/ver/74/trunk/src/server/shops
+END
+MaplePlayerShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/server/shops/MaplePlayerShopItem.java
+END
+MapleMiniGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/71/trunk/src/server/shops/MapleMiniGame.java
+END
+MaplePlayerShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/60/trunk/src/server/shops/MaplePlayerShop.java
+END
+HiredMerchantSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/60/trunk/src/server/shops/HiredMerchantSave.java
+END
+AbstractPlayerStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/74/trunk/src/server/shops/AbstractPlayerStore.java
+END
+HiredMerchant.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/71/trunk/src/server/shops/HiredMerchant.java
+END
+IMaplePlayerShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/60/trunk/src/server/shops/IMaplePlayerShop.java
+END

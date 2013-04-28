@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="SQuest.img">
+    <imgdir name="50670">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50672">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50673">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50675">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50678">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50682">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50684">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50687">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50688">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50689">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50691">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50692">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50695">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50696">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50697">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50701">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50705">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50706">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50707">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50710">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50711">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+    <imgdir name="50712">
+        <string name="mark" value="Map/MapHelper/mark/CrossBrigade"/>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MCSkill.img">
+    <imgdir name="0">
+        <int name="target" value="1"/>
+        <string name="name" value="ATT/Magic ATT UP"/>
+        <string name="desc" value="Increases ATT/Magic ATT by 20% for 30 seconds."/>
+        <int name="skillID" value="80001079"/>
+        <int name="level" value="1"/>
+    </imgdir>
+    <imgdir name="1">
+        <int name="target" value="1"/>
+        <string name="name" value="Blackout"/>
+        <string name="desc" value="Obstructs the opposing party&apos;s field of vision for 10 seconds."/>
+        <int name="skillID" value="136"/>
+        <int name="level" value="5"/>
+    </imgdir>
+    <imgdir name="2">
+        <int name="target" value="2"/>
+        <int name="spendCP" value="19"/>
+        <string name="name" value="Weapon/Magic DEF UP"/>
+        <string name="desc" value="Increases Weapon/Magic DEF by 20% for 30 seconds."/>
+        <int name="skillID" value="80001080"/>
+        <int name="level" value="1"/>
+    </imgdir>
+    <imgdir name="3">
+        <int name="target" value="1"/>
+        <string name="name" value="Slow"/>
+        <string name="desc" value="Slows the opposing party for 10 seconds."/>
+        <int name="skillID" value="126"/>
+        <int name="level" value="6"/>
+    </imgdir>
+    <imgdir name="4">
+        <int name="target" value="1"/>
+        <int name="spendCP" value="12"/>
+        <string name="name" value="EXP UP"/>
+        <string name="desc" value="Increases EXP rate by 20% for 30 seconds."/>
+        <int name="skillID" value="80001081"/>
+        <int name="level" value="1"/>
+    </imgdir>
+    <imgdir name="5">
+        <int name="target" value="1"/>
+        <int name="spendCP" value="19"/>
+        <string name="name" value="Seal"/>
+        <string name="desc" value="Seals the opposing party for 10 seconds."/>
+        <int name="skillID" value="120"/>
+        <int name="level" value="21"/>
+    </imgdir>
+</imgdir>

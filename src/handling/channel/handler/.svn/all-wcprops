@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/113/trunk/src/handling/channel/handler
+END
+BuddyListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/BuddyListHandler.java
+END
+GuildHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/GuildHandler.java
+END
+StatsHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/StatsHandling.java
+END
+DueyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/DueyHandler.java
+END
+BBSHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/BBSHandler.java
+END
+MonsterCarnivalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/MonsterCarnivalHandler.java
+END
+InterServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/inc/!svn/ver/105/trunk/src/handling/channel/handler/InterServerHandler.java
+END
+AllianceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/AllianceHandler.java
+END
+DamageParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/inc/!svn/ver/113/trunk/src/handling/channel/handler/DamageParse.java
+END
+AttackType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/60/trunk/src/handling/channel/handler/AttackType.java
+END
+MobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/107/trunk/src/handling/channel/handler/MobHandler.java
+END
+HiredMerchantHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/inc/!svn/ver/66/trunk/src/handling/channel/handler/HiredMerchantHandler.java
+END
+ItemMakerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/inc/!svn/ver/71/trunk/src/handling/channel/handler/ItemMakerHandler.java
+END
+SummonHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/73/trunk/src/handling/channel/handler/SummonHandler.java
+END
+PlayersHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/inc/!svn/ver/113/trunk/src/handling/channel/handler/PlayersHandler.java
+END
+ChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/76/trunk/src/handling/channel/handler/ChatHandler.java
+END
+NPCHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/75/trunk/src/handling/channel/handler/NPCHandler.java
+END
+FamilyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/FamilyHandler.java
+END
+AttackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/AttackInfo.java
+END
+MovementParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/MovementParse.java
+END
+PetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/110/trunk/src/handling/channel/handler/PetHandler.java
+END
+PlayerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/inc/!svn/ver/113/trunk/src/handling/channel/handler/PlayerHandler.java
+END
+PlayerInteractionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/inc/!svn/ver/71/trunk/src/handling/channel/handler/PlayerInteractionHandler.java
+END
+InventoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/inc/!svn/ver/110/trunk/src/handling/channel/handler/InventoryHandler.java
+END
+PartyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/inc/!svn/ver/77/trunk/src/handling/channel/handler/PartyHandler.java
+END
+UserInterfaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/inc/!svn/ver/61/trunk/src/handling/channel/handler/UserInterfaceHandler.java
+END

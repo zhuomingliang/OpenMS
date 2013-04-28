@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CommandGuide.img">
+    <imgdir name="??">
+        <string name="summon [MobID] [Count]" value="Summons mob."/>
+        <string name="mobhp [HP]" value="Sets the HP of all the monsters on the map."/>
+        <string name="nocooltime" value="Resets the Cooldown of all skills."/>
+        <string name="map [MapID]" value="Map Transport"/>
+        <string name="create [ItemID]" value="Creates an item."/>
+    </imgdir>
+</imgdir>

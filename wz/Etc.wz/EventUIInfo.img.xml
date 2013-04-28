@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="EventUIInfo.img">
+    <imgdir name="0">
+        <string name="start" value="2011042100"/>
+        <string name="end" value="2012121200"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11253"/>
+                <string name="title" value="Successfully use Joy Bird Feather"/>
+                <string name="desc" value="During the event, experience the joy of success by using Joy Bird Feathers (sold by Inkwell) and Glittering Joy Bird Feathers (dropped by Joy Birds) to exchange your Lv. 45 Maple equipment for Lv. 70 Maple equipment with potential."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11250"/>
+                <string name="title" value="Hunt Joy Birds"/>
+                <string name="desc" value="Hunt 8 Joy Birds anywhere in Maple World. Pay attention to your surroundings! They could appear at any time."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11252"/>
+                <string name="title" value="Orange Mushroom Mount"/>
+                <string name="desc" value="Get an Orange Mushroom Mount Coupon during the event period and you can learn to ride a mighty Orange Mushroom!"/>
+                <int name="count" value="1"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11251"/>
+                <string name="title" value="Potted Mini Maple Tree Cultivation"/>
+                <string name="desc" value="Gather 8 Potted Mini Maple Trees from monsters, minerals, or plants during the event period, and use your Item Pot (Y) to raise them for their magical fruit. You can raise your harvest count by using a Golden Maple Fruit in your inventory."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11259"/>
+                <string name="title" value="Dance Practice"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and help them with their dance practice for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11254"/>
+                <string name="title" value="Vocal Training"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and help them with their vocal training for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11255"/>
+                <string name="title" value="Instrument Practice"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and help them with their instrument practice for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11258"/>
+                <string name="title" value="Moral Support"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and cheer them on for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="11257"/>
+                <string name="title" value="Promotion"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and help promote them for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="9">
+                <int name="quest" value="11256"/>
+                <string name="title" value="Beautification"/>
+                <string name="desc" value="Join Cygnus, Lilin, or Valerie&apos;s fan club and help pretty them up for 8 days. They don&apos;t have to be consecutive days. Even if you change fan clubs, your records won&apos;t be erased."/>
+                <int name="count" value="8"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/0/backgrnd"/>
+        <int name="count" value="9"/>
+    </imgdir>
+    <imgdir name="1">
+        <imgdir name="npcInfo">
+            <imgdir name="9010031">
+                <string name="job" value="Empress"/>
+                <string name="year" value="???"/>
+                <string name="desc" value="A talented, yet lazy songstress, participating only at her Knights&apos; request"/>
+            </imgdir>
+            <imgdir name="9010032">
+                <string name="job" value="Pirate"/>
+                <string name="year" value="16"/>
+                <string name="desc" value="A brilliant-eyed tomboy with a melodic voice and a mysterious past"/>
+            </imgdir>
+            <imgdir name="9010033">
+                <string name="job" value="Penguin Wrangler"/>
+                <string name="year" value="16"/>
+                <string name="desc" value="She doesn&apos;t have the best voice, but this penguin wrangler has the drive to win"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="questInfo">
+            <imgdir name="11230">
+                <string name="title" value="Vocal Training"/>
+                <string name="desc" value="Complete the You&apos;ve Got Talent! quest for the Maple Admin to improve your Rising Star&apos;s vocal skills."/>
+            </imgdir>
+            <imgdir name="11231">
+                <string name="title" value="Instrument Training"/>
+                <string name="desc" value="Complete The Challenge of Orpheus! quest for Cassandra to improve your Rising Star&apos;s instrumental skills."/>
+            </imgdir>
+            <imgdir name="11232">
+                <string name="title" value="Dance Training"/>
+                <string name="desc" value="Complete the Shall We Dance? quest for Gaga to improve your Rising Star&apos;s dancing skills."/>
+            </imgdir>
+            <imgdir name="11233">
+                <string name="title" value="Beautification"/>
+                <string name="desc" value="Complete the Celebrity Training quest for Cassandra to improve your Rising Star&apos;s beauty."/>
+            </imgdir>
+            <imgdir name="11234">
+                <string name="title" value="Fame Promotion"/>
+                <string name="desc" value="Complete the What Do Stars Live For? quest for Gaga to improve your Rising Star&apos;s fame."/>
+            </imgdir>
+            <imgdir name="11235">
+                <string name="title" value="Reputation Management"/>
+                <string name="desc" value="Complete The Tabloids Strike! quest for Cassandra to improve your Rising Star&apos;s reputation."/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="notice">
+            <string name="0" value="$0$Every Sunday at 2PM and 5PM,$1$ the Rising Star trio will have a $2$special concert.$4$"/>
+            <string name="1" value="$0$You can meet the future Rising Star trio $7$by going to Star Hall $5$$4$via the Dimensional Mirrors.$6$$3$"/>
+            <string name="2" value="$0$You can see how your Rising Star is doing every Sunday.$3$$2$"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="2">
+        <string name="start" value="2011092800"/>
+        <string name="end" value="2011101900"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11300"/>
+                <string name="title" value="3rd Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r3 times#n during the event to obtain the #e#bPendant of the Spirit [Time Restricted]#k#n!"/>
+                <int name="count" value="3"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11300"/>
+                <string name="title" value="4th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r4 times#n during the event to obtain #e#b200x Power Elixirs#k#n!"/>
+                <int name="count" value="4"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11300"/>
+                <string name="title" value="5th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r5 times#n during the event to obtain the #e#bPendant of the Spirit [Time Restricted]#k#n!"/>
+                <int name="count" value="5"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11300"/>
+                <string name="title" value="6th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r6 times#n during the event to obtain #e#b1x Secret Recipe#k#n!"/>
+                <int name="count" value="6"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11300"/>
+                <string name="title" value="7th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r7 times#n during the event to obtain #e#b1x Nightmare Mount 10-Day Coupons#k#n!"/>
+                <int name="count" value="7"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11300"/>
+                <string name="title" value="8th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n.  \r\nCharge the stone up #r8 times#n during the event to obtain the #e#bAdvanced Equip Enhancement Scroll#k#n!"/>
+                <int name="count" value="8"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11300"/>
+                <string name="title" value="9th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r9 times#n during the event to obtain the #e#bSpecial Potential Scroll#k#n!"/>
+                <int name="count" value="9"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11300"/>
+                <string name="title" value="10th Day Power Added!"/>
+                <string name="desc" value="You can add your power to the Stone of Virtue #eonce#n each day by #eusing the Virtue&apos;s Blessing Skill#n. \r\nCharge the stone up #r10 times#n during the event to obtain the #e#bKnights of Virtue Earrings#k#n!"/>
+                <int name="count" value="10"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="11300"/>
+                <string name="title" value="Stone of Virtue Completely Charged!"/>
+                <string name="desc" value="You charged up the Stone of Virtue for all 10 days! Unleash its awesome power and enjoy some unlimited hunting!"/>
+                <int name="count" value="-1"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="99">
+        <string name="start" value="2011061600"/>
+        <string name="end" value="2011063000"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11343"/>
+                <string name="title" value="영농 일기 1일째!"/>
+                <string name="desc" value="가가에게서 받는 첫번째 꿀수박 화분을 잘 키워서 가가표 꿀수박을 획득하면 하루 1번씩 꿀수박 영농 일기를 쓸 수 있다.\r\n1일째 보상으로 #b영농 후계자 칭호#k를 얻을 수 있다."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11344"/>
+                <string name="title" value="영농 일기 3일째!"/>
+                <string name="desc" value="가가에게서 받는 첫번째 꿀수박 화분을 잘 키워서 가가표 꿀수박을 획득하면 하루 1번씩 꿀수박 영농 일기를 쓸 수 있다.\r\n3일째 보상으로 #b파워 엘릭서 100개#k를 얻을 수 있다."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11345"/>
+                <string name="title" value="영농 일기 5일째!"/>
+                <string name="desc" value="가가에게서 받는 첫번째 꿀수박 화분을 잘 키워서 가가표 꿀수박을 획득하면 하루 1번씩 꿀수박 영농 일기를 쓸 수 있다.\r\n5일째 보상으로 다른 대륙의 원하는 도시로 이동시켜 주는 #b대륙 이동 주문서#k를 얻을 수 있다."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11346"/>
+                <string name="title" value="영농 일기 7일째!"/>
+                <string name="desc" value="가가에게서 받는 첫번째 꿀수박 화분을 잘 키워서 가가표 꿀수박을 획득하면 하루 1번씩 꿀수박 영농 일기를 쓸 수 있다.\r\n7일째 보상으로 #b50레벨 이상, 공격력/마력+5, 물리/마법방어력+50, 이동속도+10, 점프력+8, 30일 기간제 #r꿀수박 목걸이#k가 들어 있는 보관함을 얻을 수 있다."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11346"/>
+                <string name="title" value="영농 일기 작성 완료!"/>
+                <string name="desc" value="가가에게서 받은 영농 일기를 마지막 페이지까지 모두 작성하였다. 매일 꿀수박 화분을 키우고 가가표 꿀수박의 신비한 힘으로 무한 사냥을 즐기자!"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="3">
+        <string name="start" value="2011101200"/>
+        <string name="end" value="2011102600"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11353"/>
+                <string name="title" value="1st Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 1 Special Sundae to receive #e#b100x Sundaes#k#n!"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="28535"/>
+                <string name="title" value="2nd  Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 2 Special Sundaes to receive a #e#bWatermelon Popsicle#k#n!"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11354"/>
+                <string name="title" value="3rd Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 3 Special Sundaes to receive #e#b100x Power Elixirs#k#n!"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="28536"/>
+                <string name="title" value="4th Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 4 Special Sundaes to receive a #e#bMelon Popsicle#k#n!"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11355"/>
+                <string name="title" value="5th Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 5 Special Sundaes to receive an #e#bAdvanced Equip Enhancement Scroll#k#n!"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="28537"/>
+                <string name="title" value="6th Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 6 Special Sundaes to receive a #e#bChocolate Popsicle#k#n!"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11356"/>
+                <string name="title" value="7th Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 7 Special Sundaes to receive an #e#bIce Crystal Face Paint#k#n!"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="28538"/>
+                <string name="title" value="8th Sundae Made!"/>
+                <string name="desc" value="Collect these 3 ingredients once a day to whip up a delicious Special Sundae for the Secret Heat-Beating Recipe Book: #eSweet Syrup, Shredded Ice and Sliced Fruit.#n\r\n Make a total of 8 Special Sundaes to receive a #e#bStrawberry Popsicle#k#n!"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="28538"/>
+                <string name="title" value="All 8 Special Sundaes Made!"/>
+                <string name="desc" value="You&apos;ve completed all 8 Special Sundaes! Now you can enjoy the rest of your summer with the joy of ice cold refreshment."/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="4">
+        <string name="start" value="2011101300"/>
+        <string name="end" value="2011112200"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11393"/>
+                <string name="title" value="Treasure Map Completion 1st Day!"/>
+                <string name="desc" value="Complete a map by collecting #e6 pieces of the pirate&apos;s Treasure Map#n once a day to record your progress in the Treasure Map Book.\rWhen you complete a #rTreasure Map for the first time#k, you can obtain #b20 Power Elixirs#k that will restore your HP and MP."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11394"/>
+                <string name="title" value="Treasure Map Completion 3rd Day!"/>
+                <string name="desc" value="Complete a map by collecting #e6 pieces of the pirate&apos;s Treasure Map#n once a day to record your progress in the Treasure Map Book.\rWhen you complete a #rTreasure Map over 3 days#k, you can obtain #b3 Continent Transportation Scrolls#k and #b30 Power Elixirs#k that will restore your HP and MP."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11395"/>
+                <string name="title" value="Treasure Map Completion 5th Day!"/>
+                <string name="desc" value="Complete a map by collecting #e6 pieces of the pirate&apos;s Treasure Map#n once a day to record your progress in the Treasure Map Book. When you complete a #rTreasure Map over 5 days#k, you can obtain #b3 Scroll for Hand Cannon for ATT 65%#k, which has a 65% chance of giving your Hand Cannon ATT +2 and STR +1, and #b50 Power Elixirs#k."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11396"/>
+                <string name="title" value="Treasure Map Completion 7th Day!"/>
+                <string name="desc" value="Complete a map by collecting #e6 pieces of the pirate&apos;s Treasure Map#n once a day to record your progress in the Treasure Map Book.\rWhen you complete a #rTreasure Map over 7 days#k, you can obtain a #bLegendary Glided Giant#k, a special Lv. 100 weapon for Cannoneers that has ATT +107 Magic DEF +62."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11396"/>
+                <string name="title" value="Treasure Map Completion 7th Day!"/>
+                <string name="desc" value="You&apos;ve completed 7 days of Treasure Maps, but the adventure is only just beginning!"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="5">
+        <string name="start" value="2011101300"/>
+        <string name="end" value="2011120600"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11372"/>
+                <string name="title" value="Doll Recovery Day 1!"/>
+                <string name="desc" value="Recover one Monkey Doll a day to record your progress in the Monkey Doll Recovery Record.\r\nAs a reward for the first day, you can receive #b20 Power Elixirs#k."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11373"/>
+                <string name="title" value="Doll Recovery Day 3!"/>
+                <string name="desc" value="Recover one Monkey Doll a day to record your progress in the Monkey Doll Recovery Record.\r\nAs a reward for the 3rd day, you can receive #b30 Power Elixirs#k and a #bScroll for Armor for ATT/M. ATT 15%#k."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11374"/>
+                <string name="title" value="Doll Recovery Day 5!"/>
+                <string name="desc" value="Recover one Monkey Doll a day to record your progress in the Monkey Doll Recovery Record.\r\nAs a reward for the 5th day, you can receive #b50 Power Elixirs#k and a #bScroll for Gloves for ATT or M. ATT 60%#k."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11375"/>
+                <string name="title" value="Doll Recovery Day 7!"/>
+                <string name="desc" value="Recover one Monkey Doll a day to record your progress in the Monkey Doll Recovery Record.\rAs a reward for the 7th day, you can receive #r3 permanent #bSpecial Potential Scrolls#k and a #bBling Bling Monkey#k that can be transferred within your account, and used by Cannoneers to decorate their monkey."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11371"/>
+                <string name="title" value="Participation Check completed!"/>
+                <string name="desc" value="You&apos;ve completed all 7 days! Recover a Monkey Doll every 10 minutes to receive #bMighty Bananas#k and #bMimir&apos;s Well Water for Cannoneers#k."/>
+                <int name="count" value="-1"/>
+            </imgdir>
+        </imgdir>
+        <int name="count" value="4"/>
+    </imgdir>
+    <imgdir name="6">
+        <string name="start" value="2011062800"/>
+        <string name="end" value="2011072100"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11436"/>
+                <string name="title" value="The Strawberry Juice Master"/>
+                <string name="desc" value="During the event, hunt normal monsters and gather 50 Red Strawberries to take to Gaga. Once you make Strawberry Juice 3 times with Gaga, you&apos;ll receive #bEXP#k, as well as a chance to go for the #rMelon Juice Master#k title! "/>
+                <int name="count" value="3"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11437"/>
+                <string name="title" value="The Melon Juice Master"/>
+                <string name="desc" value="During the event, hunt normal monsters and gather 50 Cool Melons to take to Gaga. Once you make Melon Juice 5 times with Gaga, you&apos;ll receive #bEXP#k, as well as a chance to go for the #rKiwi Juice Master#k title!"/>
+                <int name="count" value="5"/>
+                <int name="lock" value="11436"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11438"/>
+                <string name="title" value="The Kiwi Juice Master"/>
+                <string name="desc" value="During the event, hunt normal monsters and gather 50 Ripe Kiwis to take to Gaga. Once you make Kiwi Juice 7 times with Gaga, you&apos;ll receive #bEXP#k, as well as a chance to go for the #rPineapple Juice Master#k title!"/>
+                <int name="count" value="7"/>
+                <int name="lock" value="11437"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11439"/>
+                <string name="title" value="The Pineapple Juice Master"/>
+                <string name="desc" value="During the event, hunt normal monsters to gather 50 Fresh Pineapples to take to Gaga. Make Pineapple Juice with Gaga 10 times to receive a #rPink Beach Parasol Chair#k and #rTangy Earrings#k that have stat boosts of #bAllstat+1 and ATT/M.ATT +50#k. "/>
+                <int name="count" value="10"/>
+                <int name="lock" value="11438"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8">
+        <string name="start" value="2011071100"/>
+        <string name="end" value="2011081000"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11544"/>
+                <string name="title" value="Day 3 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r3rd day reward#k, you can obtain #e50 #bPower Elixirs#k#n that restore your HP and magic."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11545"/>
+                <string name="title" value="Day 4 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r4th day reward#k, you can obtain #e2 #bLegends Coins#k#n which can be used at the Legends Shop ."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11546"/>
+                <string name="title" value="Day 5 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r5th day reward#k, you can obtain a #e#bScroll for Eye Accessory Stat 60%#k#n which adds Stats +2 to an eye accessory item."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11547"/>
+                <string name="title" value="Day 6 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r6th day reward#k, you can obtain #e3 #bLegends Coins#k#n which can be used at the Legends Shop ."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11548"/>
+                <string name="title" value="Day 7 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r7th day reward#k, you can obtain a #e#bScroll for Accessory ATT/Magic ATT 15%#k#n which adds ATT/Magic ATT +1 to an accessory item."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11549"/>
+                <string name="title" value="Day 8 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r8th day reward#k, you can obtain #e5 #bLegends Coins#k#n which can be used at the Legends Shop ."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11550"/>
+                <string name="title" value="Day 9 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r9th day reward#k, you can obtain a #e#bGolden Hammer#k#n which provides you one additional chance to apply a scroll to your equipment."/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11551"/>
+                <string name="title" value="Day 10 as an Eco Mapleteer!"/>
+                <string name="desc" value="You can record your progress in the Strategy Journal when you use the #eGoing Green skill once a day#n by charging up your Cosmic Green.\r\nAs the #r10th day reward#k, you can obtain a pair of #e#bElven Glasses#k#n which has a Lv. 10 restriction and adds #eATT/Magic ATT +2, STR/DEX/INT/LUK +2, WEAPON/MAGIC DEF +20, HP/MP +20, Avoidability/Accuracy +30, and Charm +100#n."/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="11551"/>
+                <string name="title" value="Eco Mapleteers: Mission Complete!"/>
+                <string name="desc" value="You&apos;ve completed all missions as an Eco Mapleteer! Continue to keep Maple World green and safe place with the power of Going Green!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="8"/>
+        <int name="quest" value="11556"/>
+    </imgdir>
+    <imgdir name="9">
+        <string name="start" value="2012010100"/>
+        <string name="end" value="2012030300"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11651"/>
+                <string name="title" value="Legendary Memories 1 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 20 Power Elixir as a reward for day 1."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11652"/>
+                <string name="title" value="Legendary Memories 2 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 3 Virtue&apos;s Blessing as a reward for day 2."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11653"/>
+                <string name="title" value="Legendary Memories 3 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 3 Legendary Mimir&apos;s Well Water as a reward for day 3."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11654"/>
+                <string name="title" value="Legendary Memories 4 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 3 1.5X EXP Coupon as a reward for day 4."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11655"/>
+                <string name="title" value="Legendary Memories 5 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 1 Advanced Equip Enhancement Scroll as a reward for day 5."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11656"/>
+                <string name="title" value="Legendary Memories 6 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain 1 Potential Scroll as a reward for day 6."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11657"/>
+                <string name="title" value="Legendary Memories 7 Day!"/>
+                <string name="desc" value="You can leave a record in the Memory Journal after completing each day&apos;s Legendary Memories quest. You can obtain Legends Sweet and Tangy Earrings as a reward for day 7."/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11665"/>
+                <string name="title" value="Legendary Memories Bonus+"/>
+                <string name="desc" value="You will get a Memory Box for each day you complete starting on the 8th day. Inside, you&apos;ll find great special items!"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="11665"/>
+                <string name="title" value="Legendary Memories Bonus+"/>
+                <string name="desc" value="You have conquered the Legendary Memories missions! Your memories will live on forever!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="8"/>
+        <int name="quest" value="11649"/>
+    </imgdir>
+    <imgdir name="10">
+        <string name="start" value="2011080400"/>
+        <string name="end" value="2011081800"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11582"/>
+                <string name="title" value="Monster Mop-Up Day 1!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-1 reward#k, you can receive #b20 Power Elixirs#k that recover HP and MP completely."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11583"/>
+                <string name="title" value="Monster Mop-Up Day 2!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-2 reward#k, you can receive #b1 Legends Coin#k that can be used at the Legends Shop."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11584"/>
+                <string name="title" value="Monster Mop-Up Day 3!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-3 reward#k, you can receive #b30 Power Elixirs#k that recover HP and MP completely."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11585"/>
+                <string name="title" value="Monster Mop-Up Day 4!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-4 reward#k, you can receive #b3 Legends Coin#k that can be used at the Legends Shop."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11586"/>
+                <string name="title" value="Monster Mop-Up Day 5!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-5 reward#k, you can receive #b1 Secret Recipe#k that gives you 3 recipes for the Professions that you have learned."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11587"/>
+                <string name="title" value="Monster Mop-Up Day 6!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-6 reward#k, you can receive #b1 Advanced Equip Enhancement Scroll#k that allows you to enhance an item that&apos;s been fully upgraded."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11588"/>
+                <string name="title" value="Monster Mop-Up Day 7!"/>
+                <string name="desc" value="If you #rcomplete the Monster Mop-Up! quest#k once a day, you&apos;ll get your attendance marked for that day.\r\nAs the #bday-7 reward#k, you can receive #b3 Special Potential Scrolls#k that grant potential to normal items."/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11588"/>
+                <string name="title" value="Monster Mop-Up Complete!"/>
+                <string name="desc" value="You mopped-up the monsters that were ruining winter for all 7 days. You&apos;ve done your part to make winter fun in Maple World!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="7"/>
+        <int name="quest" value="11598"/>
+    </imgdir>
+    <imgdir name="12">
+        <string name="start" value="2012031400"/>
+        <string name="end" value="2012032900"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11704"/>
+                <string name="title" value="Remembering First Love - Day 1!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive one nifty #bTitle#k as a #bDay 1 reward#k."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11705"/>
+                <string name="title" value="Remembering First Love - Day 2!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive #b20 Power Elixirs#k which restores your HP and MP as a #bDay 2 reward#k."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11706"/>
+                <string name="title" value="Remembering First Love - Day 3!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive #b1 Scroll for Accessory for Stat 60%#k, which has a 60% chance to add +2 stat options to your accessory, as a #bDay 3 reward#k."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11707"/>
+                <string name="title" value="Remembering First Love - Day 4!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive #b1 Scroll for Accessory for ATT/Magic ATT 15%#k, which has a 15% chance to add +1 ATT/Magic ATT option to your accessory, as a #bDay 4 reward#k."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="11708"/>
+                <string name="title" value="Remembering First Love - Day 5!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive #b2 Scrolls for Accessory for ATT/Magic ATT 15%#k, which have a 15% chance to add +1 ATT/Magic ATT option to your accessory, as a #bDay 5 reward#k."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11709"/>
+                <string name="title" value="Remembering First Love - Day 6!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive #b1 Chaos Scroll 60%#k which alters you equipment for better or worse as a #bDay 6 reward#k."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11710"/>
+                <string name="title" value="Remembering First Love - Day 7!"/>
+                <string name="desc" value="You can check your attendance by completeing the #rRemembering First Loves#k quest once a day.\r\nYou will receive a face decoration item, #bSweet First Love#k, which comes with a Level 70 restriction, 3 available upgrades, +3 to all stats, and +50 Weapon/Magic DEF options, as a #bDay 7 reward#k."/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="11712"/>
+                <string name="title" value="Remembering First Love - Day 8!"/>
+                <string name="desc" value="You can check your attendance by completing the #rRemembering First Loves#k quest once a day.\r\nYou will receive a #bPink Bean Chair#k, the comfiest chair in the whole world, as a #bDay 8 reward#k."/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="11712"/>
+                <string name="title" value="Where&apos;s Her First Love?"/>
+                <string name="desc" value="You tried your best to help Cassandra find her first love, but there&apos;s still more to do! Don&apos;t leave her hanging now."/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="8"/>
+        <int name="quest" value="11711"/>
+    </imgdir>
+    <imgdir name="11">
+        <string name="start" value="2011121900"/>
+        <string name="end" value="2012010100"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="28612"/>
+                <string name="title" value="String"/>
+                <string name="desc" value="String"/>
+                <int name="start" value="0"/>
+                <int name="count" value="3"/>
+                <int name="lock" value="11696"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="28613"/>
+                <string name="title" value="String"/>
+                <string name="desc" value="String"/>
+                <int name="start" value="3"/>
+                <int name="count" value="5"/>
+                <int name="lock" value="11696"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="28614"/>
+                <string name="title" value="String"/>
+                <string name="desc" value="String"/>
+                <int name="start" value="8"/>
+                <int name="count" value="7"/>
+                <int name="lock" value="11696"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="28615"/>
+                <string name="title" value="String"/>
+                <string name="desc" value="String"/>
+                <int name="start" value="15"/>
+                <int name="count" value="10"/>
+                <int name="lock" value="11696"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="28616"/>
+                <string name="title" value="Tree Growing Complete!"/>
+                <string name="desc" value="You made your day 7 entry in the Mini Christmas Tree Cultivation Journal \nand obtained an Advanced Equip Enhancement Scroll."/>
+            </imgdir>
+        </imgdir>
+        <int name="gauge" value="1"/>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/1/backgrnd"/>
+        <int name="count" value="4"/>
+    </imgdir>
+    <imgdir name="13">
+        <string name="start" value="2011102600"/>
+        <string name="end" value="2012110900"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="28638"/>
+                <string name="title" value="Rescue the Native Boys - 1 Time!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 1 time#k and you&apos;ll get #b30 Power Elixirs#k!"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="28639"/>
+                <string name="title" value="Rescue the Native Boys - 5 Times!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 5 times#k and you&apos;ll get the #bTribal Warcry buff#k and #ba noble title#k."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="28640"/>
+                <string name="title" value="Rescue the Native Boys - 10 Times!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 10 times#k and you can select a #bweapon scroll for either ATT or M.ATT 60%#k."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="28641"/>
+                <string name="title" value="Rescue the Native Boys - 15 Times!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 15 times#k and you&apos;ll get a #bNative Hog 30-Day Coupon#k and #ba powerful title#k."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="28642"/>
+                <string name="title" value="Rescue the Native Boys - 20 Times!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 20 times#k and you&apos;ll get a #bMiraculous Chaos Scroll 60%#k."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="28643"/>
+                <string name="title" value="Rescue the Native Boys - 25 Times!"/>
+                <string name="desc" value="You will get a request every 5th and 35th minute of the hour to #rgo on a rescue mission to save the Native Boys from fearsome beasts#k.\r\n#bParticipate in the rescue 25 times#k and you&apos;ll get a #bNative Boy Belt#k and #ban awesome title#k."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="28644"/>
+                <string name="title" value="Rescue the Native Boys - Complete!"/>
+                <string name="desc" value="You went to rescue the Native Boys 25 times! There may be a few boys still trapped out there, so don&apos;t be afraid to let your inner hero out!"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="28645"/>
+                <string name="title" value="Challenging Gaga, Day 8!"/>
+                <string name="desc" value="You can check your attendance once a day by beating Gaga&apos;s challenge. Check your attendance x days in a row to get a Rock-Paper-Scissors Trophy!"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="28645"/>
+                <string name="title" value="Challenging Gaga, Day 8!"/>
+                <string name="desc" value="You can check your attendance once a day by beating Gaga&apos;s challenge. Check your attendance x days in a row to get a Rock-Paper-Scissors Trophy!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="8"/>
+        <int name="quest" value="28656"/>
+    </imgdir>
+    <imgdir name="14">
+        <string name="start" value="2011102600"/>
+        <string name="end" value="2012110900"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="28625"/>
+                <string name="title" value="Knight of Virtue - 3rd Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r3 days#k to earn #e#b100 Power Elixirs#k#n, which fully recover HP and MP."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="28626"/>
+                <string name="title" value="Knight of Virtue - 4th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r4 days#k to earn a #e#bSecret Recipe#k#n item, which gives you 3 recipes for the Professions you&apos;ve learned."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="28627"/>
+                <string name="title" value="Knight of Virtue - 5th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r5 days#k to earn #e#b3 Scrolls for Accessory for ATT/M. ATT 15%#k#n, which have a 15% change to grant an accessory +1 ATT/M. ATT."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="28628"/>
+                <string name="title" value="Knight of Virtue - 6th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r6 days#k to earn #e#b1 Nightmare Mount 10-Day Coupon#k#n, which allows you to use the Nightmare Mount skill for 10 days."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="28629"/>
+                <string name="title" value="Knight of Virtue - 7th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r7 days#k to earn #e#b3 Advanced Equip Enhancement Scrolls#k#n, which further enhance fully upgraded items. "/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="28630"/>
+                <string name="title" value="Knight of Virtue - 8th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r8 days#k to earn #e#b3 Special Potential Scrolls#k#n, which grant hidden potential to items that don&apos;t have any."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="28631"/>
+                <string name="title" value="Knight of Virtue - 9th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r9 days#k to earn #e#b3 Golden Hammers#k#n, which increase a piece of equipment&apos;s available upgrades by 1. "/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="quest" value="28632"/>
+                <string name="title" value="Knight of Virtue - 10th Day!"/>
+                <string name="desc" value="To meet the attendance requirements, charge up the Stone of Virtue&apos;s power gauge and #euse the Virtue&apos;s Blessing skill once a day#n.\r\nDo this for #r10 days#k to earn a pair of #b#eShades of Virtuosity#n#k with a level requirement of 70, #eUpgrades Available: 5, STR/DEX/INT/LUK +4, Avoidability/Accuracy +30, and Weapon/Magic DEF +30#n."/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="quest" value="28632"/>
+                <string name="title" value="Knight of Virtue - Mission Complete!"/>
+                <string name="desc" value="You gave Maple World your best as a Knight of Virtue for a full ten days! You&apos;ve completed this mission, but Maple World still needs you. Go get &apos;em!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/2/backgrnd"/>
+        <int name="count" value="8"/>
+        <int name="quest" value="11556"/>
+    </imgdir>
+    <imgdir name="15">
+        <string name="start" value="2012082200"/>
+        <string name="end" value="2012091200"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="12657"/>
+                <string name="title" value="Chill Thrill Day 3"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 3 days in a row#k is #e#b50 Power Elixirs,#k#n which fully restore your HP and MP."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="12658"/>
+                <string name="title" value="Chill Thrill Day 4
+"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 4 days in a row#k is a lovely #e#bNew Ice Crystal Face Paint#k#n."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="12659"/>
+                <string name="title" value="Chill Thrill Day 5
+"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 5 days in a row#k is an #e#bAdvanced Equip Enhancement Scroll#k#n."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="12660"/>
+                <string name="title" value="Chill Thrill Day 6
+"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 6 days in a row#k is a #e#bGolden Hammer#k#n."/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="quest" value="12661"/>
+                <string name="title" value="Chill Thrill Day 7
+"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 7 days in a row#k is a #e#bChaos Scroll#k#n."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="12662"/>
+                <string name="title" value="Chill Thrill Day 8"/>
+                <string name="desc" value="Open at least one Ice Chest  per day during the Chill Thrill event to get credit for that day.\r\n#rYour reward for opening chests 8 days in a row#k is a #e#bRainbow Badge#k#n."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="12662"/>
+                <string name="title" value="Chill Thrill completed!"/>
+                <string name="desc" value="But the rewards are just starting to sizzle...
+"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/3/backgrnd"/>
+        <int name="count" value="6"/>
+        <int name="quest" value="12664"/>
+    </imgdir>
+    <imgdir name="16">
+        <string name="start" value="2011112400"/>
+        <string name="end" value="2011121500"/>
+        <imgdir name="mission">
+            <imgdir name="0">
+                <int name="quest" value="11845"/>
+                <string name="title" value="꼬마 인디언 구출참여 1회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 1회차#k 보상으로  #b파워엘릭서 30개#k를 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="quest" value="11846"/>
+                <string name="title" value="꼬마 인디언 구출참여 5회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 5회차#k 보상으로  #b인디언의 외침 버프#k와 #b인디언 고유의 멋진 칭호#k를 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="quest" value="11847"/>
+                <string name="title" value="꼬마 인디언 구출참여 10회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 10회차#k 보상으로  #b무기 공격력/마력 주문서 60%#k 중 한 장을 선택하여 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="quest" value="11848"/>
+                <string name="title" value="꼬마 인디언 구출참여 15회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 15회차#k 보상으로  #b인디언 호그 30일 이용권 #k과 #b인디언 고유의 멋진 칭호#k를 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="4">
+                <string name="quest" value="11849"/>
+                <string name="title" value="꼬마 인디언 구출참여 20회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 20회차#k 보상으로  #b놀라운 혼돈의 주문서 60%#k를 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="quest" value="11850"/>
+                <string name="title" value="꼬마 인디언 구출참여 25회!"/>
+                <string name="desc" value="매 시간 5분, 35분에 날라오는 초대장을 클릭하여  #r사나운 맹수로부터 꼬마 인디언들을 구출#k하면 선물을 받을 수 있다.\r\n#b구출 참여 25회차#k 보상으로  #b꼬마 인디언의 허리띠#k와 #b인디언 고유의 멋진 칭호#k를 획득할 수 있다."/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="quest" value="11850"/>
+                <string name="title" value="꼬마 인디언 구출참여 완료!"/>
+                <string name="desc" value="꼬마 인디언 구출 참여를 25회까지 완료했다. 하지만 여전히 맹수들에게 잡혀간 꼬마 인디언들이 남아 있을지 모르니 끝까지 이들을 도와주도록 하자!"/>
+            </imgdir>
+        </imgdir>
+        <string name="path" value="UI/UIWindow2.img/EventInfo/bg/3/backgrnd"/>
+        <int name="count" value="6"/>
+        <int name="quest" value="11844"/>
+    </imgdir>
+</imgdir>

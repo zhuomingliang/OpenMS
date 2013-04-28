@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input
+END
+ByteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/ByteInputStream.java
+END
+LittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/LittleEndianAccessor.java
+END
+ByteArrayByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/ByteArrayByteStream.java
+END
+RandomAccessByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/RandomAccessByteStream.java
+END
+SeekableInputStreamBytestream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/SeekableInputStreamBytestream.java
+END
+GenericSeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/GenericSeekableLittleEndianAccessor.java
+END
+InputStreamByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/InputStreamByteStream.java
+END
+SeekableLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/SeekableLittleEndianAccessor.java
+END
+GenericLittleEndianAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/inc/!svn/ver/60/trunk/src/tools/data/input/GenericLittleEndianAccessor.java
+END

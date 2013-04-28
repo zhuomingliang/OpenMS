@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9800046.img">
+    <imgdir name="info">
+        <int name="partyBonusMob" value="1"/>
+        <int name="firstAttack" value="1"/>
+        <string name="link" value="5110301"/>
+        <int name="level" value="136"/>
+        <int name="bodyAttack" value="1"/>
+        <int name="maxHP" value="2475000"/>
+        <int name="maxMP" value="120000"/>
+        <int name="speed" value="-40"/>
+        <int name="PADamage" value="3211"/>
+        <int name="PDDamage" value="180"/>
+        <int name="PDRate" value="20"/>
+        <int name="MADamage" value="3268"/>
+        <int name="MDDamage" value="215"/>
+        <int name="MDRate" value="20"/>
+        <int name="acc" value="423"/>
+        <int name="eva" value="115"/>
+        <int name="pushed" value="2800"/>
+        <float name="fs" value="10.0"/>
+        <int name="boss" value="1"/>
+        <int name="exp" value="21173"/>
+        <int name="summonType" value="1"/>
+        <int name="category" value="8"/>
+        <string name="mobType" value="7N"/>
+    </imgdir>
+</imgdir>

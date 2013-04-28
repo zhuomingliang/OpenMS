@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/inc/!svn/ver/113/trunk/src/tools/packet
+END
+MonsterCarnivalPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/61/trunk/src/tools/packet/MonsterCarnivalPacket.java
+END
+LoginPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/107/trunk/src/tools/packet/LoginPacket.java
+END
+PetPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/66/trunk/src/tools/packet/PetPacket.java
+END
+MTSCSPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/108/trunk/src/tools/packet/MTSCSPacket.java
+END
+MobPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/113/trunk/src/tools/packet/MobPacket.java
+END
+CField.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/113/trunk/src/tools/packet/CField.java
+END
+CWvsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/113/trunk/src/tools/packet/CWvsContext.java
+END
+PacketHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/112/trunk/src/tools/packet/PacketHelper.java
+END
+PlayerShopPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/71/trunk/src/tools/packet/PlayerShopPacket.java
+END

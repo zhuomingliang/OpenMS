@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="QuestCategory.img">
+    <imgdir name="0">
+        <int name="category" value="6"/>
+        <string name="title" value="Hero From the Past, Aran"/>
+    </imgdir>
+    <imgdir name="1">
+        <int name="category" value="7"/>
+        <string name="title" value="Dragon Master, Evan"/>
+    </imgdir>
+    <imgdir name="2">
+        <int name="category" value="8"/>
+        <string name="title" value="Ruler of the Elves, Mercedes"/>
+    </imgdir>
+    <imgdir name="3">
+        <string name="title" value="Cygnus Knights"/>
+        <int name="category" value="15"/>
+    </imgdir>
+    <imgdir name="4">
+        <string name="title" value="Resistance"/>
+        <int name="category" value="16"/>
+    </imgdir>
+    <imgdir name="5">
+        <string name="title" value="Master Thief Phantom"/>
+        <int name="category" value="9"/>
+    </imgdir>
+    <imgdir name="6">
+        <string name="title" value="Dual Blade"/>
+        <int name="category" value="14"/>
+    </imgdir>
+    <imgdir name="7">
+        <string name="title" value="Knight of Light"/>
+        <int name="category" value="13"/>
+    </imgdir>
+    <imgdir name="8">
+        <string name="title" value="Job"/>
+        <int name="category" value="10"/>
+    </imgdir>
+    <imgdir name="9">
+        <string name="title" value="Profession"/>
+        <int name="category" value="2"/>
+    </imgdir>
+    <imgdir name="10">
+        <string name="title" value="Maple Island"/>
+        <int name="category" value="20"/>
+        <string name="area1" value="00"/>
+    </imgdir>
+    <imgdir name="11">
+        <string name="title" value="Edelstein"/>
+        <int name="category" value="24"/>
+        <string name="area1" value="310"/>
+    </imgdir>
+    <imgdir name="12">
+        <string name="title" value="Victoria Island"/>
+        <int name="category" value="30"/>
+    </imgdir>
+    <imgdir name="13">
+        <string name="title" value="Henesys"/>
+        <int name="category" value="25"/>
+        <string name="area1" value="100"/>
+        <string name="area2" value="106"/>
+    </imgdir>
+    <imgdir name="14">
+        <string name="title" value="Ellinia"/>
+        <int name="category" value="26"/>
+        <string name="area1" value="101"/>
+    </imgdir>
+    <imgdir name="15">
+        <string name="title" value="Perion"/>
+        <int name="category" value="27"/>
+        <string name="area1" value="102"/>
+    </imgdir>
+    <imgdir name="16">
+        <string name="title" value="Kerning City"/>
+        <int name="category" value="28"/>
+        <string name="area1" value="103"/>
+    </imgdir>
+    <imgdir name="17">
+        <string name="title" value="Nautilus"/>
+        <int name="category" value="29"/>
+        <string name="area1" value="120"/>
+    </imgdir>
+    <imgdir name="18">
+        <string name="title" value="Lith Harbor"/>
+        <int name="category" value="0"/>
+        <string name="area1" value="104"/>
+    </imgdir>
+    <imgdir name="19">
+        <string name="title" value="Sleepywood"/>
+        <int name="category" value="31"/>
+        <string name="area1" value="105"/>
+    </imgdir>
+    <imgdir name="20">
+        <string name="title" value="Orbis"/>
+        <int name="category" value="34"/>
+        <string name="area1" value="200"/>
+    </imgdir>
+    <imgdir name="21">
+        <string name="title" value="El Nath"/>
+        <int name="category" value="33"/>
+        <string name="area1" value="211"/>
+        <string name="area2" value="280"/>
+    </imgdir>
+    <imgdir name="22">
+        <string name="title" value="Aqua Road"/>
+        <int name="category" value="35"/>
+        <string name="area1" value="230"/>
+    </imgdir>
+    <imgdir name="23">
+        <string name="title" value="Ludus Lake"/>
+        <int name="category" value="37"/>
+    </imgdir>
+    <imgdir name="24">
+        <string name="title" value="Ludibrium"/>
+        <int name="category" value="36"/>
+        <string name="area1" value="220"/>
+        <string name="area2" value="22102"/>
+    </imgdir>
+    <imgdir name="25">
+        <string name="title" value="Omega Sector"/>
+        <int name="category" value="38"/>
+        <string name="area1" value="22100"/>
+        <string name="area2" value="22103"/>
+        <string name="area3" value="22104"/>
+    </imgdir>
+    <imgdir name="26">
+        <string name="title" value="Korean Folk Town"/>
+        <int name="category" value="40"/>
+        <string name="area1" value="222"/>
+    </imgdir>
+    <imgdir name="27">
+        <string name="title" value="Nihal Desert"/>
+        <int name="category" value="43"/>
+        <string name="area1" value="260"/>
+        <string name="area2" value="261"/>
+    </imgdir>
+    <imgdir name="28">
+        <string name="title" value="Mu Lung"/>
+        <int name="category" value="44"/>
+        <string name="area1" value="250"/>
+        <string name="area2" value="251"/>
+    </imgdir>
+    <imgdir name="29">
+        <string name="title" value="Golden Temple"/>
+        <int name="category" value="3"/>
+        <string name="area1" value="252"/>
+    </imgdir>
+    <imgdir name="30">
+        <string name="title" value="Ellin Forest"/>
+        <int name="category" value="39"/>
+        <string name="area1" value="300"/>
+    </imgdir>
+    <imgdir name="31">
+        <string name="title" value="Leafre"/>
+        <int name="category" value="41"/>
+        <string name="area1" value="240"/>
+    </imgdir>
+    <imgdir name="32">
+        <string name="title" value="Temple of Time"/>
+        <int name="category" value="46"/>
+        <string name="area1" value="270"/>
+    </imgdir>
+    <imgdir name="33">
+        <string name="title" value="Gate to the Future"/>
+        <int name="category" value="47"/>
+        <string name="area1" value="271"/>
+        <string name="area2" value="272"/>
+    </imgdir>
+    <imgdir name="34">
+        <string name="title" value="Silent Crusade"/>
+        <int name="category" value="1"/>
+    </imgdir>
+    <imgdir name="35">
+        <string name="title" value="Spiegelmann&apos;s Gonzo Gallery"/>
+        <int name="category" value="4"/>
+        <string name="area1" value="956"/>
+    </imgdir>
+    <imgdir name="36">
+        <string name="title" value="Overseas Travel"/>
+        <int name="category" value="48"/>
+    </imgdir>
+    <imgdir name="37">
+        <string name="title" value="Party Quest"/>
+        <int name="category" value="49"/>
+    </imgdir>
+    <imgdir name="38">
+        <string name="title" value="Event"/>
+        <int name="category" value="50"/>
+    </imgdir>
+    <imgdir name="39">
+        <string name="title" value="Title"/>
+        <int name="category" value="51"/>
+    </imgdir>
+    <imgdir name="40">
+        <string name="title" value="Event Mission"/>
+        <int name="category" value="52"/>
+    </imgdir>
+    <imgdir name="41">
+        <string name="title" value="Pet"/>
+        <int name="category" value="53"/>
+    </imgdir>
+    <imgdir name="42">
+        <string name="title" value="Complete before TKTKTK"/>
+        <int name="category" value="100"/>
+    </imgdir>
+    <imgdir name="43">
+        <string name="title" value="Red Leaf High"/>
+        <int name="category" value="42"/>
+        <string name="area1" value="250"/>
+        <string name="area2" value="251"/>
+    </imgdir>
+    <imgdir name="97">
+        <int name="category" value="99"/>
+        <string name="title" value="Malaysia"/>
+    </imgdir>
+    <imgdir name="98">
+        <string name="title" value="Silent Crusade"/>
+        <int name="category" value="17"/>
+    </imgdir>
+    <imgdir name="99">
+        <string name="title" value="Masteria"/>
+        <int name="category" value="45"/>
+    </imgdir>
+</imgdir>

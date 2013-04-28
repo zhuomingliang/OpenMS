@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9201186.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="ele_com"/>
+            </imgdir>
+        </imgdir>
+        <int name="hideName" value="1"/>
+        <canvas name="default" width="50" height="45">
+            <vector name="origin" x="25" y="22"/>
+            <int name="delay" value="840"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="191" height="138">
+            <vector name="origin" x="98" y="137"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="1" width="191" height="138">
+            <vector name="origin" x="98" y="137"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="2" width="191" height="138">
+            <vector name="origin" x="98" y="137"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="3" width="191" height="138">
+            <vector name="origin" x="98" y="137"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="4" width="191" height="138">
+            <vector name="origin" x="98" y="137"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0235.img">
+    <imgdir name="02350000">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="28">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="notSale" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="notExtend" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+        </imgdir>
+    </imgdir>
+    <imgdir name="02350001">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="28">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="23">
+                <vector name="origin" x="0" y="28"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="slotMax" value="1"/>
+            <int name="tradeBlock" value="1"/>
+            <int name="notSale" value="1"/>
+            <int name="timeLimited" value="1"/>
+            <int name="notExtend" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+        </imgdir>
+    </imgdir>
+</imgdir>

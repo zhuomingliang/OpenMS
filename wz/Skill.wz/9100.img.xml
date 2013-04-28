@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9100.img">
+    <imgdir name="info">
+        <canvas name="icon" width="26" height="30">
+            <vector name="origin" x="-4" y="30"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="skill">
+        <imgdir name="91000000">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="5"/>
+                <string name="price" value="160*x*x*x"/>
+                <string name="extendPrice" value="250+150*x"/>
+                <string name="reqGuildLevel" value="-1+2*x"/>
+                <string name="ar" value="2*x"/>
+                <string name="er" value="2*x"/>
+                <string name="period" value="60"/>
+                <string name="priceUnit" value="10000"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000001">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="5"/>
+                <string name="expR" value="2*x"/>
+                <string name="price" value="200*x*x*x"/>
+                <string name="extendPrice" value="250+150*x"/>
+                <string name="reqGuildLevel" value="2*x"/>
+                <string name="period" value="30"/>
+                <string name="priceUnit" value="10000"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000002">
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="5"/>
+                <string name="pddR" value="5*x"/>
+                <string name="mddR" value="5*x"/>
+                <string name="price" value="100*x*x*x"/>
+                <string name="reqGuildLevel" value="-1+2*x"/>
+                <string name="extendPrice" value="250+50*x"/>
+                <string name="period" value="60"/>
+                <string name="priceUnit" value="10000"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000003">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="5"/>
+                <string name="padX" value="4*x"/>
+                <string name="madX" value="4*x"/>
+                <string name="price" value="200*x*x*x"/>
+                <string name="reqGuildLevel" value="2*x"/>
+                <string name="extendPrice" value="250+150*x"/>
+                <string name="period" value="30"/>
+                <string name="priceUnit" value="10000"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000004">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="psdJump" value="5*x"/>
+                <string name="psdSpeed" value="5*x"/>
+                <string name="price" value="100*x*x*x"/>
+                <string name="extendPrice" value="300+50*x"/>
+                <string name="reqGuildLevel" value="1+2*x"/>
+                <string name="period" value="60"/>
+                <string name="priceUnit" value="10000"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000005">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="4"/>
+                <string name="price" value="160*x*x*x"/>
+                <string name="extendPrice" value="400+150*x"/>
+                <string name="reqGuildLevel" value="2+2*x"/>
+                <string name="period" value="30"/>
+                <string name="priceUnit" value="10000"/>
+                <string name="cr" value="x+1"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="91000006">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <imgdir name="common">
+                <int name="maxLevel" value="10"/>
+                <string name="price" value="1000*x"/>
+                <string name="reqGuildLevel" value="x"/>
+                <string name="priceUnit" value="10000"/>
+                <string name="u" value="20*x"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2121020.img">
+    <imgdir name="info">
+        <imgdir name="script">
+            <imgdir name="0">
+                <string name="script" value="HW_maskMan"/>
+            </imgdir>
+        </imgdir>
+        <int name="hideName" value="1"/>
+        <int name="dcMark" value="1"/>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="67" height="122">
+            <vector name="origin" x="30" y="122"/>
+            <int name="delay" value="200"/>
+        </canvas>
+        <canvas name="1" width="67" height="122">
+            <vector name="origin" x="30" y="122"/>
+            <int name="delay" value="200"/>
+        </canvas>
+        <canvas name="2" width="67" height="122">
+            <vector name="origin" x="30" y="122"/>
+            <int name="delay" value="200"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <int name="9551" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="1" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="2" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition2">
+        <int name="9538" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="4" height="4">
+                <vector name="origin" x="0" y="4"/>
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1"/>
+    </imgdir>
+    <imgdir name="condition3">
+        <int name="9537" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="1" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="2" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition4">
+        <int name="9536" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="4" height="4">
+                <vector name="origin" x="0" y="4"/>
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1"/>
+    </imgdir>
+    <imgdir name="condition5">
+        <int name="9535" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="1" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="2" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition6">
+        <int name="9534" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="4" height="4">
+                <vector name="origin" x="0" y="4"/>
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1"/>
+    </imgdir>
+    <imgdir name="condition7">
+        <int name="9533" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="1" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="2" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition8">
+        <int name="9532" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="4" height="4">
+                <vector name="origin" x="0" y="4"/>
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1"/>
+    </imgdir>
+    <imgdir name="condition9">
+        <int name="9531" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="1" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+            <canvas name="2" width="67" height="122">
+                <vector name="origin" x="30" y="122"/>
+                <int name="delay" value="200"/>
+            </canvas>
+        </imgdir>
+    </imgdir>
+    <imgdir name="condition10">
+        <int name="9529" value="2"/>
+        <imgdir name="stand">
+            <canvas name="0" width="4" height="4">
+                <vector name="origin" x="0" y="4"/>
+            </canvas>
+        </imgdir>
+        <int name="hide" value="1"/>
+    </imgdir>
+</imgdir>

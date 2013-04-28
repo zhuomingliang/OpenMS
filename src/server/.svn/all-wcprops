@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/inc/!svn/ver/113/trunk/src/server
+END
+PokemonBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/61/trunk/src/server/PokemonBattle.java
+END
+ItemInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/110/trunk/src/server/ItemInformation.java
+END
+ShutdownServerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/60/trunk/src/server/ShutdownServerMBean.java
+END
+MapleStatInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/108/trunk/src/server/MapleStatInfo.java
+END
+MapleDueyActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/server/MapleDueyActions.java
+END
+MapleStatEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/113/trunk/src/server/MapleStatEffect.java
+END
+MapleShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/91/trunk/src/server/MapleShopItem.java
+END
+MapleAchievement.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/61/trunk/src/server/MapleAchievement.java
+END
+CashShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/inc/!svn/ver/60/trunk/src/server/CashShop.java
+END
+StructRewardItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/server/StructRewardItem.java
+END
+CashItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/60/trunk/src/server/CashItemInfo.java
+END
+MapleTrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/102/trunk/src/server/MapleTrade.java
+END
+StructSetItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/60/trunk/src/server/StructSetItem.java
+END
+MaplePortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/107/trunk/src/server/MaplePortal.java
+END
+MapleCarnivalChallenge.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/109/trunk/src/server/MapleCarnivalChallenge.java
+END
+ServerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/server/ServerProperties.java
+END
+RankingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/74/trunk/src/server/RankingWorker.java
+END
+CashItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/95/trunk/src/server/CashItemFactory.java
+END
+MapleShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/inc/!svn/ver/91/trunk/src/server/MapleShop.java
+END
+MTSStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/60/trunk/src/server/MTSStorage.java
+END
+MapleInventoryManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/110/trunk/src/server/MapleInventoryManipulator.java
+END
+MerchItemPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/66/trunk/src/server/MerchItemPackage.java
+END
+MapleAchievements.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/inc/!svn/ver/97/trunk/src/server/MapleAchievements.java
+END
+SpeedRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/60/trunk/src/server/SpeedRunner.java
+END
+MapleSquad.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/61/trunk/src/server/MapleSquad.java
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/inc/!svn/ver/109/trunk/src/server/Start.java
+END
+MapleItemInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/110/trunk/src/server/MapleItemInformationProvider.java
+END
+MapleCarnivalParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/61/trunk/src/server/MapleCarnivalParty.java
+END
+ShutdownServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/66/trunk/src/server/ShutdownServer.java
+END
+ItemMakerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/server/ItemMakerFactory.java
+END
+MapleCarnivalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/server/MapleCarnivalFactory.java
+END
+RandomRewards.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/60/trunk/src/server/RandomRewards.java
+END
+Randomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/60/trunk/src/server/Randomizer.java
+END
+MTSCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/inc/!svn/ver/60/trunk/src/server/MTSCart.java
+END
+CharacterCardFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/109/trunk/src/server/CharacterCardFactory.java
+END
+MapleShopFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/server/MapleShopFactory.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/inc/!svn/ver/60/trunk/src/server/Timer.java
+END
+MapleStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/61/trunk/src/server/MapleStorage.java
+END
+AutobanManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/75/trunk/src/server/AutobanManager.java
+END
+StructFamiliar.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/60/trunk/src/server/StructFamiliar.java
+END
+StructItemOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/86/trunk/src/server/StructItemOption.java
+END

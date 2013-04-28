@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/inc/!svn/ver/60/trunk/src/handling/mina
+END
+MapleCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/handling/mina/MapleCodecFactory.java
+END
+MaplePacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/handling/mina/MaplePacketEncoder.java
+END
+MaplePacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/handling/mina/MaplePacketDecoder.java
+END

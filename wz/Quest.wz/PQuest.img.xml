@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PQuest.img">
+    <imgdir name="1200">
+        <null name="Moon Bunny's Rice Cake"/>
+        <string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="5"/>
+            <int name="levelMin" value="50"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="5"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="5"/>
+            <int name="levelMin_t" value="50"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="MoonRabbit_"/>
+            <string name="difficulty" value="Easy"/>
+            <string name="desc" value="Protect the Moon Bunny while you gather 10 rice cakes and bring them to Growlie."/>
+            <int name="recommendationLevelMin" value="50"/>
+            <int name="recommendationLevelMax" value="69"/>
+            <int name="buttonCode" value="9"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7910"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1201">
+        <null name="First Time Together"/>
+        <string name="mark" value="Map/MapHelper/mark/KerningParty"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="4"/>
+            <int name="levelMin" value="50"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="4"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="5"/>
+            <int name="levelMin_t" value="50"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="PQ_kerning_"/>
+            <string name="difficulty" value="Easy"/>
+            <string name="desc" value="Clear Cloto&apos;s mission with the help of all of your party members."/>
+            <int name="recommendationLevelMin" value="50"/>
+            <int name="recommendationLevelMax" value="69"/>
+            <int name="buttonCode" value="10"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7912"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1202">
+        <null name="The Crack of Dimension"/>
+        <string name="mark" value="Map/MapHelper/mark/AbandonTower"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="50"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="50"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="Party3_"/>
+            <string name="difficulty" value="Hard"/>
+            <string name="desc" value="Fix up the Dimensional Schisms and save Ludibrium from approaching danger."/>
+            <int name="recommendationLevelMin" value="50"/>
+            <int name="recommendationLevelMax" value="69"/>
+            <int name="buttonCode" value="11"/>
+            <string name="rewardEXP" value="A lot"/>
+            <int name="dailyChallenge" value="7914"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1203">
+        <null name="Remnants of Goddess"/>
+        <string name="mark" value="Map/MapHelper/mark/GoddessTower"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="70"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="70"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="Party5"/>
+            <string name="difficulty" value="Hard"/>
+            <string name="desc" value="Collect Statue of Goddess pieces and resurrect Minerva the Goddess."/>
+            <int name="recommendationLevelMin" value="70"/>
+            <int name="recommendationLevelMax" value="119"/>
+            <int name="buttonCode" value="13"/>
+            <string name="rewardEXP" value="A lot"/>
+            <int name="dailyChallenge" value="7918"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1204">
+        <null name="Lord Pirate"/>
+        <string name="mark" value="Map/MapHelper/mark/DevijonParty"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="70"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="70"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="DavyJohn1"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Defeat Lord Pirate and rescue the kidnapped Wu Yang."/>
+            <int name="recommendationLevelMin" value="70"/>
+            <int name="recommendationLevelMax" value="119"/>
+            <int name="buttonCode" value="14"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7044"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1205">
+        <null name="Romeo and Juliet"/>
+        <string name="mark" value="Map/MapHelper/mark/RomioJuliet"/>
+        <imgdir name="info">
+            <int name="memberMin" value="4"/>
+            <int name="memberMax" value="4"/>
+            <int name="levelMin" value="70"/>
+            <int name="memberMin_t" value="4"/>
+            <int name="memberMax_t" value="4"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="4"/>
+            <int name="levelMin_t" value="70"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="Romio"/>
+            <string name="difficulty" value="Hard"/>
+            <string name="desc" value="Help Romeo and Juliet, and resolve the conflict between the Alcadno and Zenumist Societies."/>
+            <int name="recommendationLevelMin" value="70"/>
+            <int name="recommendationLevelMax" value="119"/>
+            <int name="buttonCode" value="15"/>
+            <string name="rewardEXP" value="A lot"/>
+            <int name="dailyChallenge" value="7922"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1206">
+        <string name="Forest of Poison Haze" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/EilnForest"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="5"/>
+            <int name="levelMin" value="70"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="5"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="5"/>
+            <int name="levelMin_t" value="70"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="pForest"/>
+            <string name="difficulty" value="Hard"/>
+            <string name="desc" value="Go back in time and save the polluted forrest."/>
+            <int name="recommendationLevelMin" value="70"/>
+            <int name="recommendationLevelMax" value="119"/>
+            <int name="buttonCode" value="12"/>
+            <string name="rewardEXP" value="A lot"/>
+            <int name="dailyChallenge" value="7916"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1209">
+        <string name="Resurrection of Rex" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Lex"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="120"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="120"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="Shammos_"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Help Shammos re-seal Rex the Hoblin King."/>
+            <int name="recommendationLevelMin" value="120"/>
+            <int name="recommendationLevelMax" value="200"/>
+            <int name="buttonCode" value="16"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7924"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1210">
+        <string name="Dragon Rider" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Dragonrider"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="120"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="120"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="DragonRider_"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Defeat the Dragon Rider and reveal its true identity."/>
+            <int name="recommendationLevelMin" value="120"/>
+            <int name="recommendationLevelMax" value="200"/>
+            <int name="buttonCode" value="17"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7814"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1211">
+        <string name="Nett's Pyramid" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Pyramid"/>
+        <imgdir name="info">
+            <int name="memberMin" value="4"/>
+            <int name="memberMax" value="4"/>
+            <int name="levelMin" value="60"/>
+            <int name="levelMax" value="109"/>
+            <int name="memberMin_t" value="2"/>
+            <int name="memberMax_t" value="4"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="4"/>
+            <int name="levelMin_t" value="60"/>
+            <int name="levelMax_t" value="109"/>
+            <string name="fieldSet" value="Piramid_e1_"/>
+            <string name="difficulty" value="Difficult"/>
+            <string name="desc" value="Protect the Obelisk of Nett and overcome the trials."/>
+            <int name="buttonCode" value="5"/>
+            <string name="rewardEXP" value="High"/>
+            <int name="dailyChallenge" value="7242"/>
+            <int name="recommendationLevelMin" value="60"/>
+            <int name="recommendationLevelMax" value="109"/>
+            <int name="notRecommendPQ" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1212">
+        <string name="Mr.Lim's Subway" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/KerningCity"/>
+        <imgdir name="rank">
+            <imgdir name="S">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="50"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="A">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="40"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="B">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="20"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="C">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="10"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="D">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="1"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="F">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="cmp" value="0"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="string">
+            <string name="S" value="You have reached Rank S."/>
+            <string name="A" value="Requirements for next rank\n\nComplete: At least 50 times\nAcquire #t1142141##k."/>
+            <string name="B" value="Requirements for next rank\n\nComplete: At least 40 times\nAcquire #t1142141##k."/>
+            <string name="C" value="Requirements for next rank\n\nComplete: At least 20 times"/>
+            <string name="D" value="Requirements for next rank\n\nComplete: At least 10 times"/>
+            <string name="F" value="Requirements for next rank\n\nComplete: At least once"/>
+        </imgdir>
+        <imgdir name="info">
+            <int name="memberMin" value="1"/>
+            <int name="memberMax" value="4"/>
+            <int name="levelMin" value="25"/>
+            <int name="levelMax" value="30"/>
+            <int name="memberMin_t" value="1"/>
+            <int name="memberMax_t" value="4"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="4"/>
+            <int name="levelMin_t" value="25"/>
+            <int name="levelMax_t" value="30"/>
+            <int name="timeOut" value="540"/>
+            <string name="fieldSet" value="UnderMetro1_"/>
+            <string name="difficulty" value="Easy"/>
+            <string name="desc" value="Go to the #Dusty Platform# and eliminate the pesky monsters."/>
+            <int name="buttonCode" value="6"/>
+            <int name="recommendationLevelMin" value="25"/>
+            <int name="recommendationLevelMax" value="30"/>
+            <int name="notRecommendPQ" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1213">
+        <string name="Mulung Dojo" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/MuruengRaid"/>
+        <imgdir name="info">
+            <int name="memberMin" value="1"/>
+            <int name="memberMax" value="1"/>
+            <int name="levelMin" value="90"/>
+            <int name="memberMin_t" value="1"/>
+            <int name="memberMax_t" value="1"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="1"/>
+            <int name="levelMin_t" value="90"/>
+            <string name="fieldSet" value="DragonRider_"/>
+            <string name="difficulty" value="Difficult"/>
+            <string name="desc" value="Test your strength in Mu Lung Dojo."/>
+            <int name="buttonCode" value="1"/>
+            <int name="recommendationLevelMin" value="90"/>
+            <int name="notRecommendPQ" value="1"/>
+            <int name="dailyChallenge" value="7216"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1214">
+        <string name="위험에 빠진 켄타" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/kentaInDanger"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="120"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="120"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="PQ_kenta_"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Protect Kenta from the ferocious sea creatures."/>
+            <int name="recommendationLevelMin" value="120"/>
+            <int name="recommendationLevelMax" value="200"/>
+            <int name="buttonCode" value="21"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7926"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1215">
+        <string name="탈출" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/prisonBreak"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="120"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="120"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="PQ_prisonBreak_"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Rescue the explorers locked up in the Hidden Tower of the Lion King&apos;s Castle."/>
+            <int name="recommendationLevelMin" value="120"/>
+            <int name="recommendationLevelMax" value="200"/>
+            <int name="buttonCode" value="22"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7928"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1218">
+        <string name="아이스나이트의 저주" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/IceKnight"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="50"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="30"/>
+            <int name="timeOut" value="1200"/>
+            <string name="fieldSet" value="PQ_iceKnight_"/>
+            <string name="difficulty" value="Normal"/>
+            <string name="desc" value="Undo Jun&apos;s curse by defeating the Ice Knight."/>
+            <int name="recommendationLevelMin" value="30"/>
+            <int name="recommendationLevelMax" value="69"/>
+            <int name="buttonCode" value="23"/>
+            <string name="rewardEXP" value="Normal"/>
+            <int name="dailyChallenge" value="7920"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1300">
+        <string name="Ariant Hunting Competition" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/AriantMatch"/>
+        <imgdir name="rank">
+            <imgdir name="S">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="100"/>
+                    <int name="VR" value="40"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="A">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="70"/>
+                    <int name="VR" value="30"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="B">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="50"/>
+                    <int name="VR" value="25"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="C">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="10"/>
+                    <int name="VR" value="20"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="D">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="10"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="F">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1301">
+        <string name="Monster Carnival" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Carnival"/>
+        <imgdir name="rank">
+            <imgdir name="S">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="100"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="A">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="80"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="B">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="50"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="C">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="20"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="D">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="1"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="F">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="string">
+            <string name="S" value="You have reached Rank S."/>
+            <string name="A" value="Requirements for next rank.\n\nWin: At least 100 times\nAcquire #t1122007##k."/>
+            <string name="B" value="Requirements for next rank.\n\nWin: At least 80 times\nAcquire #t1122007##k."/>
+            <string name="C" value="Requirements for next rank\n\nWin: At least 50 times"/>
+            <string name="D" value="Requirements for next rank\n\nWin: At least 20 times"/>
+            <string name="F" value="Requirements for next rank\n\nWin: At least once"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1302">
+        <string name="The 2nd Monster Carnival" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Carnival"/>
+        <imgdir name="rank">
+            <imgdir name="S">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="100"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="A">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="80"/>
+                </imgdir>
+                <imgdir name="equal">
+                    <int name="have" value="1"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="B">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="50"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="C">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="20"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="D">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="vic" value="1"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+            <imgdir name="F">
+                <imgdir name="less">
+                </imgdir>
+                <imgdir name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </imgdir>
+                <imgdir name="equal">
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="string">
+            <string name="S" value="You have reached Rank S."/>
+            <string name="A" value="Requirements for next rank.\n\nWin: At least 100 times\nAcquire #t1122058##k."/>
+            <string name="B" value="Requirements for next rank.\n\nWin: At least 80 times\nAcquire #t1122058##k."/>
+            <string name="C" value="Requirements for next rank\n\nWin: At least 50 times"/>
+            <string name="D" value="Requirements for next rank\n\nWin: At least 20 times"/>
+            <string name="F" value="Requirements for next rank\n\nWin: At least once"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1303">
+        <string name="안개 바다의 유령선" value=""/>
+        <string name="Ghost Ship" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/GhostShip2"/>
+        <imgdir name="info">
+            <int name="memberMin" value="3"/>
+            <int name="memberMax" value="3"/>
+            <int name="levelMin" value="120"/>
+            <int name="levelMax" value="159"/>
+            <int name="memberMin_t" value="3"/>
+            <int name="memberMax_t" value="3"/>
+            <int name="memberMin_d" value="3"/>
+            <int name="memberMax_d" value="3"/>
+            <int name="levelMin_t" value="120"/>
+            <int name="levelMax_t" value="159"/>
+            <int name="timeOut" value="900"/>
+            <string name="fieldSet" value="PRaid_E_D_"/>
+            <string name="difficulty" value="Medium"/>
+            <string name="desc" value="Explore the Ghost Ship in the Sea of Fog and defeat the Cursed Captain."/>
+            <int name="recommendationLevelMin" value="120"/>
+            <int name="recommendationLevelMax" value="159"/>
+            <int name="buttonCode" value="4"/>
+            <string name="rewardEXP" value="Medium"/>
+            <int name="dailyChallenge" value="7960"/>
+            <int name="notRecommendPQ" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1304">
+        <string name="Lord Balrog" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Balog"/>
+    </imgdir>
+    <imgdir name="1305">
+        <string name="Von Leon the Lion King" value=""/>
+    </imgdir>
+    <imgdir name="1306">
+        <string name="Zakum" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Zakum"/>
+    </imgdir>
+    <imgdir name="1307">
+        <string name="Pianus" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+    </imgdir>
+    <imgdir name="1308">
+        <string name="Papulatus" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+    </imgdir>
+    <imgdir name="1309">
+        <string name="Horntail" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Hontale"/>
+    </imgdir>
+    <imgdir name="1310">
+        <string name="Pink Bean" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/PinkBean"/>
+    </imgdir>
+    <imgdir name="1311">
+        <string name="Mushroom Castle" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/MushCatle"/>
+    </imgdir>
+    <imgdir name="1312">
+        <string name="Kerning Square" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/101Building"/>
+    </imgdir>
+    <imgdir name="1313">
+        <string name="Neo City" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/TokyoK"/>
+    </imgdir>
+    <imgdir name="1314">
+        <string name="Chryse" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Krease"/>
+    </imgdir>
+    <imgdir name="1315">
+        <string name="Akayrum" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Akayrum"/>
+    </imgdir>
+    <imgdir name="1316">
+        <string name="Hilla" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Aswan"/>
+    </imgdir>
+    <imgdir name="1317">
+        <string name="Spiegelmann's Gonzo Gallery" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/StrangeGallery"/>
+    </imgdir>
+    <imgdir name="7039">
+        <string name="Fight for Azwan" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Azwan"/>
+        <imgdir name="info">
+            <int name="memberMin" value="1"/>
+            <int name="memberMax" value="6"/>
+            <int name="levelMin" value="40"/>
+            <int name="memberMin_t" value="1"/>
+            <int name="memberMax_t" value="6"/>
+            <int name="memberMin_d" value="1"/>
+            <int name="memberMax_d" value="6"/>
+            <int name="levelMin_t" value="40"/>
+            <int name="timeOut" value="1200"/>
+            <string name="difficulty" value="Easy"/>
+            <string name="desc" value="Eliminate the remainder of Hilla&apos;s forces in the Azwan area."/>
+            <int name="recommendationLevelMin" value="40"/>
+            <int name="recommendationLevelMax" value="200"/>
+            <string name="rewardEXP" value="Medium"/>
+            <int name="buttonCode" value="27"/>
+            <int name="notRecommendPQ" value="1"/>
+            <int name="dailyChallenge" value="7963"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

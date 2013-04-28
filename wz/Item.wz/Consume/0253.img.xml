@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0253.img">
+    <imgdir name="02530000">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="26">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="success" value="100"/>
+            <int name="accountSharable" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02530001">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="26">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="success" value="100"/>
+            <int name="tradeBlock" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02530002">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="26">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="success" value="100"/>
+            <int name="tradeBlock" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02531000">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="29">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="26">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="success" value="100"/>
+            <int name="accountSharable" value="1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02532000">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="28">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="26">
+                <vector name="origin" x="-1" y="29"/>
+            </canvas>
+            <int name="price" value="1"/>
+            <int name="accountSharable" value="1"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

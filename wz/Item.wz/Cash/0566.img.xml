@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0566.img">
+    <imgdir name="05660000">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="32">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <int name="cash" value="1"/>
+        </imgdir>
+        <imgdir name="questAccept">
+            <imgdir name="disallow">
+                <string name="0" value="3706"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="05660001">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="32">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <int name="cash" value="1"/>
+        </imgdir>
+        <imgdir name="questComplete">
+            <imgdir name="disallow">
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

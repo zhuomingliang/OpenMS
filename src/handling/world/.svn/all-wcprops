@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/inc/!svn/ver/109/trunk/src/handling/world
+END
+MapleCharacterLook.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/70/trunk/src/handling/world/MapleCharacterLook.java
+END
+PartyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/60/trunk/src/handling/world/PartyOperation.java
+END
+CharacterTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/109/trunk/src/handling/world/CharacterTransfer.java
+END
+MapleMessengerCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/60/trunk/src/handling/world/MapleMessengerCharacter.java
+END
+PlayerBuffStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/handling/world/PlayerBuffStorage.java
+END
+CheaterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/60/trunk/src/handling/world/CheaterData.java
+END
+MapleMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/60/trunk/src/handling/world/MapleMessenger.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/102/trunk/src/handling/world/World.java
+END
+PlayerBuffValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/60/trunk/src/handling/world/PlayerBuffValueHolder.java
+END
+MaplePartyCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/60/trunk/src/handling/world/MaplePartyCharacter.java
+END
+CharacterIdChannelPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/inc/!svn/ver/60/trunk/src/handling/world/CharacterIdChannelPair.java
+END
+MapleParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/60/trunk/src/handling/world/MapleParty.java
+END

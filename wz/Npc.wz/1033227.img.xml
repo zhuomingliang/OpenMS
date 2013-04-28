@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1033227.img">
+    <imgdir name="info">
+        <int name="hide" value="1"/>
+        <int name="dcLeft" value="-30"/>
+        <int name="dcTop" value="-91"/>
+        <int name="dcBottom" value="0"/>
+        <int name="dcRight" value="30"/>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="77" height="93">
+            <vector name="origin" x="31" y="93"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <canvas name="0" width="77" height="93">
+            <vector name="origin" x="31" y="93"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="1" width="77" height="93">
+            <vector name="origin" x="31" y="93"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="2" width="77" height="93">
+            <vector name="origin" x="31" y="93"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="3" width="77" height="93">
+            <vector name="origin" x="31" y="93"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <uol name="0" value="../../stand/0"/>
+        </imgdir>
+        <imgdir name="say">
+            <uol name="0" value="../../say/0"/>
+            <uol name="1" value="../../say/1"/>
+            <uol name="2" value="../../say/2"/>
+            <uol name="3" value="../../say/3"/>
+        </imgdir>
+        <int name="24084" value="3"/>
+        <int name="hide" value="1"/>
+    </imgdir>
+    <imgdir name="condition2">
+        <imgdir name="stand">
+            <uol name="0" value="../../stand/0"/>
+        </imgdir>
+        <imgdir name="say">
+            <uol name="0" value="../../say/0"/>
+            <uol name="1" value="../../say/1"/>
+            <uol name="2" value="../../say/2"/>
+            <uol name="3" value="../../say/3"/>
+        </imgdir>
+        <int name="24082" value="3"/>
+    </imgdir>
+</imgdir>

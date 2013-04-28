@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Familiar.img">
+    <imgdir name="skill">
+        <imgdir name="801">
+            <string name="name" value="Rush"/>
+            <string name="desc" value="Attack with a 60% chance of knocking back 2 enemies."/>
+        </imgdir>
+        <imgdir name="802">
+            <string name="name" value="Lure"/>
+            <string name="desc" value="Attack with a 60% chance of pulling 2 enemies."/>
+        </imgdir>
+        <imgdir name="803">
+            <string name="name" value="Bark"/>
+            <string name="desc" value="Attack with a 60% chance of stunning 2 enemies for 2 seconds."/>
+        </imgdir>
+        <imgdir name="804">
+            <string name="name" value="Observe"/>
+            <string name="desc" value="Attack with a 60% chance of slightly slowing 2 enemies for 3 seconds."/>
+        </imgdir>
+        <imgdir name="805">
+            <string name="name" value="Poison"/>
+            <string name="desc" value="Attack with a 60% chance of poisoning 2 enemies for 3 seconds."/>
+        </imgdir>
+        <imgdir name="806">
+            <string name="name" value="Charge"/>
+            <string name="desc" value="Attack with a 80% chance of knocking back 3 enemies."/>
+        </imgdir>
+        <imgdir name="807">
+            <string name="name" value="Provoke"/>
+            <string name="desc" value="Attack with a 80% chance of pulling 3 enemies."/>
+        </imgdir>
+        <imgdir name="808">
+            <string name="name" value="Roar"/>
+            <string name="desc" value="Attack with a 80% chance of stunning 3 enemies for 4 seconds."/>
+        </imgdir>
+        <imgdir name="809">
+            <string name="name" value="Scrutinize"/>
+            <string name="desc" value="Attack with a 80% chance of slightly slowing down 3 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="810">
+            <string name="name" value="Deadly Poison"/>
+            <string name="desc" value="Attack with a 80% chance of poisoning 3 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="811">
+            <string name="name" value="Monkey King&apos;s Curse"/>
+            <string name="desc" value="Attack with a 80% chance of poisoning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="812">
+            <string name="name" value="Serpent Venom"/>
+            <string name="desc" value="Attack with a 80% chance of poisoning 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="813">
+            <string name="name" value="Snail Lullaby"/>
+            <string name="desc" value="Attack with a 80% chance of slightly slowing down 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="814">
+            <string name="name" value="Piercing Gaze"/>
+            <string name="desc" value="Attack with a 80% chance of slightly slowing down 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="815">
+            <string name="name" value="Apple Jelly Scent"/>
+            <string name="desc" value="Attack twice with a 80% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="816">
+            <string name="name" value="Ocean Whirlpool"/>
+            <string name="desc" value="Attack three times with a 80% chance of knocking back 3 enemies."/>
+        </imgdir>
+        <imgdir name="817">
+            <string name="name" value="Oogie Boogie"/>
+            <string name="desc" value="Attack with a 80% chance of slightly slowing down 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="818">
+            <string name="name" value="Golden Yeti&apos;s Roar"/>
+            <string name="desc" value="Attack twice with a 80% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="819">
+            <string name="name" value="Giant Crocodile&apos;s Roar"/>
+            <string name="desc" value="Attack twice with a 80% chance of stunning 4 enemies for 4 seconds."/>
+        </imgdir>
+        <imgdir name="820">
+            <string name="name" value="One-Eyed Gaze"/>
+            <string name="desc" value="Attack with a 100% chance of slowing down 3 enemies for 10 seconds."/>
+        </imgdir>
+        <imgdir name="821">
+            <string name="name" value="Fatal Venom"/>
+            <string name="desc" value="Attack with a 100% chance of poisoning 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="822">
+            <string name="name" value="Chief&apos;s Support"/>
+            <string name="desc" value="Attack with a 80% chance of knocking back 4 enemies."/>
+        </imgdir>
+        <imgdir name="823">
+            <string name="name" value="High Pitch"/>
+            <string name="desc" value="Attack twice with a 80% chance of stunning 4 enemies for 4 seconds."/>
+        </imgdir>
+        <imgdir name="824">
+            <string name="name" value="Queen&apos;s Cry"/>
+            <string name="desc" value="Attack with a 80% chance of stunning 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="825">
+            <string name="name" value="Giant Centipede&apos;s Poison"/>
+            <string name="desc" value="Attack with a 100% chance of poisoning 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="826">
+            <string name="name" value="Ice Wind"/>
+            <string name="desc" value="Attack three times with a 80% chance of knocking back 3 enemies."/>
+        </imgdir>
+        <imgdir name="827">
+            <string name="name" value="Goblin Whistle"/>
+            <string name="desc" value="Attack with a 80% chance of knocking back 4 enemies."/>
+        </imgdir>
+        <imgdir name="828">
+            <string name="name" value="Screw Driver"/>
+            <string name="desc" value="Attack twice with a 80% chance of knocking back 4 enemies."/>
+        </imgdir>
+        <imgdir name="829">
+            <string name="name" value="Sheep Herding"/>
+            <string name="desc" value="Attack with a 100% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="830">
+            <string name="name" value="Doll&apos;s Resentment"/>
+            <string name="desc" value="Attack twice with a 80% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="831">
+            <string name="name" value="Werewolf&apos;s Roar"/>
+            <string name="desc" value="Attack twice with a 100% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="832">
+            <string name="name" value="Dark Knight&apos;s Rage"/>
+            <string name="desc" value="Attack with a 80% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="833">
+            <string name="name" value="Knight&apos;s Intimidation"/>
+            <string name="desc" value="Attack twice with a 100% chance of slightly slowing down 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="834">
+            <string name="name" value="Time Adjustment"/>
+            <string name="desc" value="Attack with a 80% chance of slightly slowing down 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="835">
+            <string name="name" value="Giant Fish Breath"/>
+            <string name="desc" value="Attack twice with a 100% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="836">
+            <string name="name" value="Dragon&apos;s Flame Road"/>
+            <string name="desc" value="An area attack with a chance of stunning up to 6 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="837">
+            <string name="name" value="Temporal Backstep"/>
+            <string name="desc" value="Attack twice with a 100% chance of slightly slowing down 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="838">
+            <string name="name" value="Pink Bean&apos;s Allure"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 6 enemies."/>
+        </imgdir>
+        <imgdir name="839">
+            <string name="name" value="Great Warrior&apos;s Strength"/>
+            <string name="desc" value="An area attack with a chance of stunning up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="840">
+            <string name="name" value="Great Wizard&apos;s Magic"/>
+            <string name="desc" value="An area attack with a chance of slowing up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="841">
+            <string name="name" value="Great Bowman&apos;s Shot"/>
+            <string name="desc" value="An area attack with a chance of knocking back up to 5 enemies."/>
+        </imgdir>
+        <imgdir name="842">
+            <string name="name" value="Great Thief&apos;s Poison"/>
+            <string name="desc" value="An area attack with a chance of poisoning up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="843">
+            <string name="name" value="Great Pirate&apos;s Charm"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 5 enemies."/>
+        </imgdir>
+        <imgdir name="844">
+            <string name="name" value="Multi-Reversal Attack"/>
+            <string name="desc" value="An area attack that hits up to 4 enemies."/>
+        </imgdir>
+        <imgdir name="845">
+            <string name="name" value="Heart Attack"/>
+            <string name="desc" value="An area attack with a chance of heavily slowing up to 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="846">
+            <string name="name" value="Inner Rage"/>
+            <string name="desc" value="Attack with an 80% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="847">
+            <string name="name" value="Poison of Betrayal"/>
+            <string name="desc" value="An area attack with a chance of poisoning up to 5 enemies for 10 seconds."/>
+        </imgdir>
+        <imgdir name="848">
+            <string name="name" value="Heat of Battle"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 6 enemies."/>
+        </imgdir>
+        <imgdir name="849">
+            <string name="name" value="Lonely Shout"/>
+            <string name="desc" value="Attack with an 80% chance of stunning 3 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="850">
+            <string name="name" value="Impenetrable Defense"/>
+            <string name="desc" value="Attack twice with a 100% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="873">
+            <string name="name" value="Orange Poison Spore"/>
+            <string name="desc" value="Attack twice with a 100% chance of poisoning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="874">
+            <string name="name" value="Hypnosis"/>
+            <string name="desc" value="Attack with an 80% chance of slightly slowing down 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="875">
+            <string name="name" value="Blazing Induction"/>
+            <string name="desc" value="Attack twice with an 80% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="876">
+            <string name="name" value="Breakthrough"/>
+            <string name="desc" value="Attack twice with an 80% chance of knocking back 4 enemies."/>
+        </imgdir>
+        <imgdir name="877">
+            <string name="name" value="Deadly Poison"/>
+            <string name="desc" value="Attack with an 80% chance of poisoning 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="878">
+            <string name="name" value="Shock Wave"/>
+            <string name="desc" value="Attack with an 80% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="879">
+            <string name="name" value="Red Snail Pattern"/>
+            <string name="desc" value="Attack twice with a 100% chance of slightly slowing down 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="880">
+            <string name="name" value="Slime&apos;s Birdlime"/>
+            <string name="desc" value="Attack four times with a 100% chance of pulling 4 enemies."/>
+        </imgdir>
+        <imgdir name="881">
+            <string name="name" value="Ribbon Pig Combo"/>
+            <string name="desc" value="Attack four times with a 100% chance of knocking back 4 enemies."/>
+        </imgdir>
+        <imgdir name="882">
+            <string name="name" value="Zombie Mushroom&apos;s Curse"/>
+            <string name="desc" value="Attack twice with a 100% chance of poisoning 4 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="883">
+            <string name="name" value="Pixie Serenade"/>
+            <string name="desc" value="Attack twice with a 100% chance of stunning 4 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="884">
+            <string name="name" value="Pirate Aerial Rush"/>
+            <string name="desc" value="An area attack with a chance of knocking back up to 5 enemies."/>
+        </imgdir>
+        <imgdir name="885">
+            <string name="name" value="Chocolate Medley"/>
+            <string name="desc" value="An area attack with a chance of stunning up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="886">
+            <string name="name" value="Red Warrior&apos;s Provoke"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 5 enemies."/>
+        </imgdir>
+        <imgdir name="887">
+            <string name="name" value="Red Thief&apos;s Deadly Poison"/>
+            <string name="desc" value="An area attack with a chance of poisoning up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="888">
+            <string name="name" value="Ninja&apos;s Red Flame"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 6 enemies."/>
+        </imgdir>
+        <imgdir name="889">
+            <string name="name" value="Ninja&apos;s Chilly Wind"/>
+            <string name="desc" value="An area attack with a chance of knocking back up to 6 enemies."/>
+        </imgdir>
+        <imgdir name="890">
+            <string name="name" value="Time Control"/>
+            <string name="desc" value="An area attack with a chance of slowing up to 6 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="891">
+            <string name="name" value="Martial Arts Finisher"/>
+            <string name="desc" value="An area attack that strikes up to 8 enemies, four times."/>
+        </imgdir>
+        <imgdir name="892">
+            <string name="name" value="Focused Shootout"/>
+            <string name="desc" value="An area attack that strikes up to 12 enemies."/>
+        </imgdir>
+        <imgdir name="893">
+            <string name="name" value="Concentrated Cannonade"/>
+            <string name="desc" value="An area attack that strikes up to 10 enemies twice."/>
+        </imgdir>
+        <imgdir name="894">
+            <string name="name" value="Hand of Might"/>
+            <string name="desc" value="An area attack with a chance of slowing up to 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="895">
+            <string name="name" value="Castle Wall Crash"/>
+            <string name="desc" value="An area attack with a chance of stunning up to 6 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="896">
+            <string name="name" value="Prison Guard&apos;s Guidance"/>
+            <string name="desc" value="An area attack with a chance of pulling up to 8 enemies."/>
+        </imgdir>
+        <imgdir name="897">
+            <string name="name" value="Dawn Warrior&apos;s Intimidation"/>
+            <string name="desc" value="Attack with an 80% chance of stunning 5 enemies for 6 seconds."/>
+        </imgdir>
+        <imgdir name="898">
+            <string name="name" value="Blaze Wizard&apos;s Taunt"/>
+            <string name="desc" value="Attack twice with an 80% chance of pulling 5 enemies."/>
+        </imgdir>
+        <imgdir name="899">
+            <string name="name" value="Wind Archer&apos;s Gust"/>
+            <string name="desc" value="Attack twice with an 80% chance of knocking back 5 enemies."/>
+        </imgdir>
+        <imgdir name="900">
+            <string name="name" value="Night Walker&apos;s Deadly Poison"/>
+            <string name="desc" value="Attack with an 80% chance of poisoning 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="901">
+            <string name="name" value="Thunder Breaker&apos;s Scrutiny"/>
+            <string name="desc" value="Attack with an 80% chance of slightly slowing down 5 enemies for 8 seconds."/>
+        </imgdir>
+        <imgdir name="902">
+            <string name="name" value="Shinsoo&apos;s Wing Blast"/>
+            <string name="desc" value="An area attack with a chance of knocking back up to 10 enemies."/>
+        </imgdir>
+        <imgdir name="903">
+            <string name="name" value="Empress&apos;s Curse"/>
+            <string name="desc" value="An area attack with a chance of poisoning up to 12 enemies for 10 seconds."/>
+        </imgdir>
+    </imgdir>
+</imgdir>

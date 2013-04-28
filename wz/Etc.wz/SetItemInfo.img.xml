@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="SetItemInfo.img">
+    <imgdir name="3">
+        <string name="setItemName" value="Android Set"/>
+        <short name="completeCount" value="5"/>
+        <string name="effectLink" value="Effect/SetItemInfoEff.img/3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003108"/>
+            <int name="2" value="1042191"/>
+            <int name="3" value="1082275"/>
+            <int name="4" value="1062125"/>
+            <int name="5" value="1072446"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incSTR" value="2"/>
+                <int name="incINT" value="2"/>
+                <int name="incDEX" value="2"/>
+                <int name="incLUK" value="2"/>
+                <short name="incSpeed" value="10"/>
+                <int name="incACC" value="10"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incSTR" value="4"/>
+                <int name="incINT" value="4"/>
+                <int name="incDEX" value="4"/>
+                <int name="incLUK" value="4"/>
+                <short name="incSpeed" value="15"/>
+                <int name="incACC" value="15"/>
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="10"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incSTR" value="5"/>
+                <int name="incINT" value="5"/>
+                <int name="incDEX" value="5"/>
+                <int name="incLUK" value="5"/>
+                <short name="incSpeed" value="20"/>
+                <int name="incACC" value="20"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="15"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1">
+        <string name="setItemName" value="Blizzard Hero Set"/>
+        <short name="completeCount" value="5"/>
+        <string name="effectLink" value="Effect/SetItemInfoEff.img/1"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1000040"/>
+            <int name="2" value="1001060"/>
+            <int name="3" value="1050169"/>
+            <int name="4" value="1051210"/>
+            <int name="5" value="1072447"/>
+            <int name="6" value="1082276"/>
+            <int name="7" value="1102246"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="20"/>
+                <short name="incMDD" value="5"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPDD" value="15"/>
+                <short name="incMDD" value="3"/>
+                <short name="incSTR" value="3"/>
+                <short name="incDEX" value="3"/>
+                <short name="incACC" value="20"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="15"/>
+                <short name="incMDD" value="3"/>
+                <short name="incPAD" value="10"/>
+                <short name="incMAD" value="10"/>
+                <short name="incSpeed" value="10"/>
+                <short name="incMHP" value="100"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="2">
+        <string name="setItemName" value="Goddess Set"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1072455"/>
+            <int name="2" value="1082232"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incSTR" value="3"/>
+                <short name="incDEX" value="3"/>
+                <short name="incINT" value="3"/>
+                <short name="incLUK" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="5">
+        <string name="setItemName" value="Visitor Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003116"/>
+            <int name="2" value="1003117"/>
+            <int name="3" value="1003118"/>
+            <int name="4" value="1003119"/>
+            <int name="5" value="1052278"/>
+            <int name="6" value="1052279"/>
+            <int name="7" value="1052280"/>
+            <int name="8" value="1052281"/>
+            <int name="9" value="1072450"/>
+            <int name="10" value="1072451"/>
+            <int name="11" value="1072452"/>
+            <int name="12" value="1072453"/>
+            <int name="13" value="1082278"/>
+            <int name="14" value="1082279"/>
+            <int name="15" value="1082280"/>
+            <int name="16" value="1082281"/>
+        </imgdir>
+        <imgdir name="categoryName">
+            <string name="1" value="Visitor  Helmet"/>
+            <string name="5" value="Visitor Suit"/>
+            <string name="7" value="Visitor Boots"/>
+            <string name="8" value="Visitor Gloves"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="20"/>
+                <short name="incMDD" value="20"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incACC" value="20"/>
+                <int name="incEVA" value="20"/>
+                <int name="setKey" value="10000"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="6">
+        <string name="setItemName" value="Marx Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003154"/>
+            <int name="2" value="1052299"/>
+            <int name="3" value="1082285"/>
+            <int name="4" value="1072471"/>
+            <int name="5" value="1102262"/>
+            <int name="6" value="1402091"/>
+            <int name="7" value="1442113"/>
+            <int name="8" value="1302149"/>
+            <int name="9" value="1432084"/>
+            <int name="10" value="1322135"/>
+            <int name="11" value="1312095"/>
+            <int name="12" value="1302193"/>
+            <int name="13" value="1312099"/>
+            <int name="14" value="1322139"/>
+            <int name="15" value="1402131"/>
+            <int name="16" value="1432119"/>
+            <int name="17" value="1442156"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Marx Von Leon Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+                <int name="incAllStat" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incSTR" value="4"/>
+                <int name="incDEX" value="4"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="99">
+        <string name="setItemName" value="Visitor Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003116"/>
+            <int name="2" value="1003117"/>
+            <int name="3" value="1003118"/>
+            <int name="4" value="1003119"/>
+            <int name="5" value="1052278"/>
+            <int name="6" value="1052279"/>
+            <int name="7" value="1052280"/>
+            <int name="8" value="1052281"/>
+            <int name="9" value="1072450"/>
+            <int name="10" value="1072451"/>
+            <int name="11" value="1072452"/>
+            <int name="12" value="1072453"/>
+            <int name="13" value="1082278"/>
+            <int name="14" value="1082279"/>
+            <int name="15" value="1082280"/>
+            <int name="16" value="1082281"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Marx Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="categoryName">
+            <string name="1" value="Visitor Helmet"/>
+            <string name="5" value="Visitor Suit"/>
+            <string name="7" value="Visitor Boots"/>
+            <string name="8" value="Visitor Gloves"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incSTR" value="3"/>
+                <short name="incDEX" value="3"/>
+                <short name="incINT" value="3"/>
+                <short name="incLUK" value="3"/>
+                <short name="incPDD" value="20"/>
+                <short name="incMDD" value="20"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <short name="incACC" value="20"/>
+                <int name="incEVA" value="20"/>
+                <int name="incAllStat" value="4"/>
+                <int name="setKey" value="10000"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incSTR" value="4"/>
+                <int name="incDEX" value="4"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="7">
+        <string name="setItemName" value="Alma Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003155"/>
+            <int name="2" value="1052300"/>
+            <int name="3" value="1082286"/>
+            <int name="4" value="1072472"/>
+            <int name="5" value="1102263"/>
+            <int name="6" value="1372080"/>
+            <int name="7" value="1382102"/>
+            <int name="8" value="1372119"/>
+            <int name="9" value="1382145"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Alma Von Leon Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+                <int name="incAllStat" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incINT" value="4"/>
+                <int name="incLUK" value="4"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8">
+        <string name="setItemName" value="Fox Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003156"/>
+            <int name="2" value="1052301"/>
+            <int name="3" value="1082287"/>
+            <int name="4" value="1072473"/>
+            <int name="5" value="1102264"/>
+            <int name="6" value="1452107"/>
+            <int name="7" value="1462094"/>
+            <int name="9" value="1522019"/>
+            <int name="10" value="1452149"/>
+            <int name="11" value="1462139"/>
+            <int name="12" value="1522056"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Fox Von Leon Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+                <int name="incAllStat" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incSTR" value="4"/>
+                <int name="incDEX" value="4"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9">
+        <string name="setItemName" value="Nox Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003157"/>
+            <int name="2" value="1052302"/>
+            <int name="3" value="1082288"/>
+            <int name="4" value="1072474"/>
+            <int name="5" value="1102265"/>
+            <int name="6" value="1332126"/>
+            <int name="7" value="1472118"/>
+            <int name="8" value="1332170"/>
+            <int name="9" value="1472161"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Nox Von Leon Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+                <int name="incAllStat" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incDEX" value="4"/>
+                <int name="incLUK" value="4"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="10">
+        <string name="setItemName" value="Cora Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003158"/>
+            <int name="2" value="1052303"/>
+            <int name="3" value="1082289"/>
+            <int name="4" value="1072475"/>
+            <int name="5" value="1102266"/>
+            <int name="6" value="1482080"/>
+            <int name="7" value="1492081"/>
+            <int name="8" value="1532019"/>
+            <int name="9" value="1482122"/>
+            <int name="10" value="1492122"/>
+            <int name="11" value="1532060"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Cora Von Leon Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+                <int name="incAllStat" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="200"/>
+                <short name="incMDD" value="200"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incSTR" value="4"/>
+                <int name="incDEX" value="4"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="11">
+        <string name="setItemName" value="Empress&apos;s Fine Set"/>
+        <short name="completeCount" value="5"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003159"/>
+            <int name="2" value="1052304"/>
+            <int name="3" value="1082290"/>
+            <int name="4" value="1072476"/>
+            <int name="5" value="1402092"/>
+            <int name="6" value="1432082"/>
+            <int name="7" value="1372081"/>
+            <int name="8" value="1452108"/>
+            <int name="9" value="1462095"/>
+            <int name="10" value="1472119"/>
+            <int name="11" value="1332127"/>
+            <int name="12" value="1482081"/>
+            <int name="13" value="1492082"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Empress&apos;s Fine Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="50"/>
+                <short name="incMDD" value="50"/>
+                <short name="incMHP" value="100"/>
+                <short name="incMMP" value="100"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="100"/>
+                <short name="incMDD" value="100"/>
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="6"/>
+                <int name="incSpeed" value="20"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="12">
+        <string name="setItemName" value="Empress&apos;s Brilliant Set"/>
+        <short name="completeCount" value="5"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003160"/>
+            <int name="2" value="1052305"/>
+            <int name="3" value="1082291"/>
+            <int name="4" value="1072477"/>
+            <int name="5" value="1402093"/>
+            <int name="6" value="1432083"/>
+            <int name="7" value="1372082"/>
+            <int name="8" value="1452109"/>
+            <int name="9" value="1462096"/>
+            <int name="10" value="1472120"/>
+            <int name="11" value="1332128"/>
+            <int name="12" value="1482082"/>
+            <int name="13" value="1492083"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="1 of Empress&apos;s Brilliant Weapons"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="50"/>
+                <short name="incMDD" value="50"/>
+                <short name="incMHP" value="150"/>
+                <short name="incMMP" value="150"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incPAD" value="7"/>
+                <int name="incMAD" value="7"/>
+                <int name="incAllStat" value="8"/>
+                <int name="incSpeed" value="20"/>
+                <int name="incACC" value="25"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="13">
+        <string name="setItemName" value="Force Walker Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003197"/>
+            <int name="2" value="1052333"/>
+            <int name="3" value="1072502"/>
+            <int name="4" value="1082305"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPDD" value="150"/>
+                <int name="incMDD" value="150"/>
+                <int name="incPVPDamage" value="3"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="14">
+        <string name="setItemName" value="Arcane Walker Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003198"/>
+            <int name="2" value="1052334"/>
+            <int name="3" value="1072503"/>
+            <int name="4" value="1082306"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPDD" value="150"/>
+                <int name="incMDD" value="150"/>
+                <int name="incPVPDamage" value="3"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="15">
+        <string name="setItemName" value="Wind Walker Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003199"/>
+            <int name="2" value="1052335"/>
+            <int name="3" value="1072504"/>
+            <int name="4" value="1082307"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPDD" value="150"/>
+                <int name="incMDD" value="150"/>
+                <int name="incPVPDamage" value="3"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="16">
+        <string name="setItemName" value="Mist Walker Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003200"/>
+            <int name="2" value="1052336"/>
+            <int name="3" value="1072505"/>
+            <int name="4" value="1082308"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPDD" value="150"/>
+                <int name="incMDD" value="150"/>
+                <int name="incPVPDamage" value="3"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="17">
+        <string name="setItemName" value="Fortune Walker Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003201"/>
+            <int name="2" value="1052337"/>
+            <int name="3" value="1072506"/>
+            <int name="4" value="1082309"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPDD" value="150"/>
+                <int name="incMDD" value="150"/>
+                <int name="incPVPDamage" value="3"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="5"/>
+                <int name="incPVPDamage" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="18">
+        <string name="setItemName" value="Agares Bloody Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003177"/>
+            <int name="2" value="1052319"/>
+            <int name="3" value="1072490"/>
+            <int name="4" value="1082300"/>
+            <int name="5" value="1102280"/>
+            <int name="6" value="1302153"/>
+            <int name="7" value="1402096"/>
+            <int name="8" value="1432087"/>
+            <int name="9" value="1442117"/>
+            <int name="10" value="1312066"/>
+            <int name="11" value="1322097"/>
+            <int name="12" value="1412066"/>
+            <int name="13" value="1422067"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Agares Bloody Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="5"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPVPDamage" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="19">
+        <string name="setItemName" value="Eligos Bloody Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003178"/>
+            <int name="2" value="1052320"/>
+            <int name="3" value="1072491"/>
+            <int name="4" value="1082301"/>
+            <int name="5" value="1102281"/>
+            <int name="6" value="1372085"/>
+            <int name="7" value="1382105"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Eligos Bloody Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="5"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPVPDamage" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="20">
+        <string name="setItemName" value="Ipos Bloody Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003179"/>
+            <int name="2" value="1052321"/>
+            <int name="3" value="1072492"/>
+            <int name="4" value="1082302"/>
+            <int name="5" value="1102282"/>
+            <int name="6" value="1452112"/>
+            <int name="7" value="1462100"/>
+            <int name="8" value="1522017"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Ipos Bloody Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="5"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPVPDamage" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="21">
+        <string name="setItemName" value="Halphas Bloody Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003180"/>
+            <int name="2" value="1052322"/>
+            <int name="3" value="1072493"/>
+            <int name="4" value="1082303"/>
+            <int name="5" value="1102283"/>
+            <int name="6" value="1332131"/>
+            <int name="7" value="1472123"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Halphas Bloody Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="5"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPVPDamage" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="22">
+        <string name="setItemName" value="Vepar Bloody Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003181"/>
+            <int name="2" value="1052323"/>
+            <int name="3" value="1072494"/>
+            <int name="4" value="1082304"/>
+            <int name="5" value="1102284"/>
+            <int name="6" value="1482085"/>
+            <int name="7" value="1492086"/>
+            <int name="8" value="1532017"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Vepar Bloody Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="5"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPVPDamage" value="6"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="23">
+        <string name="setItemName" value="Intaglio&apos;s Crescent Moon Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1032092"/>
+            <int name="2" value="1112583"/>
+            <int name="3" value="1132084"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPVPDamage" value="4"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incPVPDamage" value="5"/>
+                <int name="incAllStat" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="24">
+        <string name="setItemName" value="Intaglio&apos;s Rising Sun Set"/>
+        <short name="completeCount" value="5"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1012239"/>
+            <int name="2" value="1032093"/>
+            <int name="3" value="1112584"/>
+            <int name="4" value="1122104"/>
+            <int name="5" value="1132085"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <int name="incPVPDamage" value="4"/>
+                <short name="incEVA" value="200"/>
+                <short name="incACC" value="200"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incMHP" value="400"/>
+                <short name="incMMP" value="400"/>
+                <int name="incPVPDamage" value="5"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="6"/>
+                <int name="incAllStat" value="20"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="25">
+        <string name="setItemName" value="Lionheart Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003172"/>
+            <int name="2" value="1102275"/>
+            <int name="3" value="1082295"/>
+            <int name="4" value="1052314"/>
+            <int name="5" value="1072485"/>
+            <int name="6" value="1302152"/>
+            <int name="7" value="1402095"/>
+            <int name="8" value="1432086"/>
+            <int name="9" value="1442116"/>
+            <int name="10" value="1312065"/>
+            <int name="11" value="1322096"/>
+            <int name="12" value="1412065"/>
+            <int name="13" value="1422066"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Lionheart Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incACC" value="200"/>
+                <int name="incEVA" value="200"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHPr" value="15"/>
+                <short name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPAD" value="15"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="20396"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incAllStat" value="20"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30107"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incPAD" value="30"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30602"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="26">
+        <string name="setItemName" value="Dragon Tail Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003173"/>
+            <int name="2" value="1102276"/>
+            <int name="3" value="1082296"/>
+            <int name="4" value="1052315"/>
+            <int name="5" value="1072486"/>
+            <int name="6" value="1372084"/>
+            <int name="7" value="1382104"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Dragon Tail Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incACC" value="200"/>
+                <int name="incEVA" value="200"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHPr" value="15"/>
+                <short name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incMAD" value="15"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="20396"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incAllStat" value="20"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30107"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incMAD" value="30"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30602"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="27">
+        <string name="setItemName" value="Falcon Wing Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003174"/>
+            <int name="2" value="1102277"/>
+            <int name="3" value="1082297"/>
+            <int name="4" value="1052316"/>
+            <int name="5" value="1072487"/>
+            <int name="6" value="1452111"/>
+            <int name="7" value="1462099"/>
+            <int name="8" value="1522018"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Falcon Wing Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incACC" value="200"/>
+                <int name="incEVA" value="200"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHPr" value="15"/>
+                <short name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPAD" value="15"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="20396"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incAllStat" value="20"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30107"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incPAD" value="30"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30602"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="28">
+        <string name="setItemName" value="Raven Horn Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003175"/>
+            <int name="2" value="1102278"/>
+            <int name="3" value="1082298"/>
+            <int name="4" value="1052317"/>
+            <int name="5" value="1072488"/>
+            <int name="6" value="1332130"/>
+            <int name="7" value="1472122"/>
+            <int name="8" value="1362019"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Raven Horn Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incACC" value="200"/>
+                <int name="incEVA" value="200"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHPr" value="15"/>
+                <short name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPAD" value="15"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="20396"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incAllStat" value="20"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30107"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incPAD" value="30"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30602"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="29">
+        <string name="setItemName" value="Shark Tooth Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003176"/>
+            <int name="2" value="1102279"/>
+            <int name="3" value="1082299"/>
+            <int name="4" value="1052318"/>
+            <int name="5" value="1072489"/>
+            <int name="6" value="1482084"/>
+            <int name="7" value="1492085"/>
+            <int name="8" value="1532018"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Shark Tooth Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incACC" value="200"/>
+                <int name="incEVA" value="200"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHPr" value="15"/>
+                <short name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPAD" value="15"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="20396"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incAllStat" value="20"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30107"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incPAD" value="30"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30602"/>
+                        <int name="level" value="14"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="30">
+        <string name="setItemName" value="Larson&apos;s Challenger Set"/>
+        <short name="completeCount" value="4"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1132086"/>
+            <int name="2" value="1152050"/>
+            <int name="3" value="1112596"/>
+            <int name="4" value="1122105"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPVPDamage" value="1"/>
+                <int name="incPAD" value="1"/>
+                <int name="incMAD" value="1"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHP" value="200"/>
+                <short name="incMMP" value="200"/>
+                <short name="incPVPDamage" value="2"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incPAD" value="5"/>
+                <short name="incMAD" value="5"/>
+                <short name="incPVPDamage" value="3"/>
+                <int name="incAllStat" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="31">
+        <string name="setItemName" value="2011 Archaeologist Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003225"/>
+            <int name="2" value="1012260"/>
+            <int name="3" value="1022118"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="10"/>
+                <int name="incAllStat" value="2"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incMHP" value="100"/>
+                <short name="incMMP" value="100"/>
+                <int name="incAllStat" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="40">
+        <string name="setItemName" value="Unicorn Pet Set"/>
+        <short name="completeCount" value="3"/>
+        <int name="parts" value="1"/>
+        <imgdir name="ItemID">
+            <imgdir name="1">
+                <int name="1" value="5000084"/>
+                <int name="2" value="5000091"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="1" value="5000089"/>
+                <int name="2" value="5000092"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="1" value="5000090"/>
+                <int name="2" value="5000093"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80001037"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="3">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80001039"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="45">
+        <string name="setItemName" value="Victor Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003290"/>
+            <int name="2" value="1052384"/>
+            <int name="3" value="1072554"/>
+            <int name="4" value="1082338"/>
+            <int name="5" value="1102312"/>
+            <int name="6" value="1302175"/>
+            <int name="7" value="1402113"/>
+            <int name="8" value="1432101"/>
+            <int name="9" value="1442138"/>
+            <int name="10" value="1322136"/>
+            <int name="11" value="1312096"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Victor Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="225"/>
+                <short name="incMDD" value="225"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="9"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incAllStat" value="15"/>
+                <int name="incSTR" value="10"/>
+                <int name="incDEX" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="46">
+        <string name="setItemName" value="Hex Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003291"/>
+            <int name="2" value="1052385"/>
+            <int name="3" value="1072555"/>
+            <int name="4" value="1082339"/>
+            <int name="5" value="1102313"/>
+            <int name="6" value="1372102"/>
+            <int name="7" value="1382126"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Hex Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="225"/>
+                <short name="incMDD" value="225"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="9"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incAllStat" value="15"/>
+                <int name="incINT" value="10"/>
+                <int name="incLUK" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="47">
+        <string name="setItemName" value="Celine Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003292"/>
+            <int name="2" value="1052386"/>
+            <int name="3" value="1072556"/>
+            <int name="4" value="1082340"/>
+            <int name="5" value="1102314"/>
+            <int name="6" value="1452131"/>
+            <int name="7" value="1462120"/>
+            <int name="8" value="1522022"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Celine Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="225"/>
+                <short name="incMDD" value="225"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="9"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incAllStat" value="15"/>
+                <int name="incSTR" value="10"/>
+                <int name="incDEX" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="48">
+        <string name="setItemName" value="Scar Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003293"/>
+            <int name="2" value="1052387"/>
+            <int name="3" value="1072557"/>
+            <int name="4" value="1082341"/>
+            <int name="5" value="1102315"/>
+            <int name="6" value="1332152"/>
+            <int name="7" value="1472143"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Scar Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="225"/>
+                <short name="incMDD" value="225"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="9"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incAllStat" value="15"/>
+                <int name="incDEX" value="10"/>
+                <int name="incLUK" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="49">
+        <string name="setItemName" value="Mer Von Leon Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003294"/>
+            <int name="2" value="1052388"/>
+            <int name="3" value="1072558"/>
+            <int name="4" value="1082342"/>
+            <int name="5" value="1102316"/>
+            <int name="6" value="1482104"/>
+            <int name="7" value="1492103"/>
+            <int name="8" value="1532039"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Mer Von Leon Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="4">
+                <short name="incPDD" value="150"/>
+                <short name="incMDD" value="150"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <int name="incAllStat" value="6"/>
+            </imgdir>
+            <imgdir name="5">
+                <short name="incPDD" value="225"/>
+                <short name="incMDD" value="225"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="15"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+                <int name="incAllStat" value="9"/>
+            </imgdir>
+            <imgdir name="6">
+                <short name="incPDD" value="300"/>
+                <short name="incMDD" value="300"/>
+                <int name="incAllStat" value="15"/>
+                <int name="incSTR" value="10"/>
+                <int name="incDEX" value="10"/>
+                <int name="incMHPr" value="10"/>
+                <int name="incMMPr" value="10"/>
+                <imgdir name="Option">
+                    <imgdir name="1">
+                        <int name="option" value="30291"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                    <imgdir name="2">
+                        <int name="option" value="10241"/>
+                        <int name="level" value="13"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="50">
+        <string name="setItemName" value="Halfmoon Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1032109"/>
+            <int name="2" value="1112661"/>
+            <int name="3" value="1132103"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incPVPDamage" value="4"/>
+                <int name="incAllStat" value="5"/>
+            </imgdir>
+            <imgdir name="3">
+                <short name="incPVPDamage" value="5"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="51">
+        <string name="setItemName" value="Blazing Sun Set"/>
+        <short name="completeCount" value="5"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1012283"/>
+            <int name="2" value="1032110"/>
+            <int name="3" value="1112662"/>
+            <int name="4" value="1122149"/>
+            <int name="5" value="1132104"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <int name="incPVPDamage" value="4"/>
+                <short name="incEVA" value="200"/>
+                <short name="incACC" value="200"/>
+            </imgdir>
+            <imgdir name="4">
+                <short name="incMHP" value="400"/>
+                <short name="incMMP" value="400"/>
+                <int name="incPVPDamage" value="5"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPVPDamage" value="6"/>
+                <int name="incAllStat" value="20"/>
+                <int name="incPAD" value="10"/>
+                <int name="incMAD" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="52">
+        <string name="setItemName" value="Immortal Hero Set"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1112664"/>
+            <int name="2" value="1112665"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="15"/>
+                <int name="incPAD" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="53">
+        <string name="setItemName" value="Eternal Hero Set"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1112666"/>
+            <int name="2" value="1112667"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="15"/>
+                <int name="incMAD" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="54">
+        <string name="setItemName" value="Legend Maple Set"/>
+        <short name="completeCount" value="8"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003364"/>
+            <int name="2" value="1052405"/>
+            <int name="3" value="1072610"/>
+            <int name="4" value="1082391"/>
+            <int name="5" value="1102322"/>
+            <int name="6" value="1152068"/>
+            <int name="7" value="1132110"/>
+            <int name="8" value="1302192"/>
+            <int name="9" value="1312098"/>
+            <int name="10" value="1322138"/>
+            <int name="11" value="1332168"/>
+            <int name="12" value="1372117"/>
+            <int name="13" value="1382142"/>
+            <int name="14" value="1402129"/>
+            <int name="15" value="1412087"/>
+            <int name="16" value="1422089"/>
+            <int name="17" value="1432117"/>
+            <int name="18" value="1442154"/>
+            <int name="19" value="1452147"/>
+            <int name="20" value="1462136"/>
+            <int name="21" value="1472159"/>
+            <int name="22" value="1482120"/>
+            <int name="23" value="1492119"/>
+            <int name="24" value="1532059"/>
+            <int name="25" value="1522055"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Legend Maple Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="5">
+                <int name="incPAD" value="3"/>
+                <int name="incMAD" value="3"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <short name="incMHP" value="200"/>
+                <short name="incMMP" value="200"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="5"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="incPAD" value="7"/>
+                <int name="incMAD" value="7"/>
+                <int name="incAllStat" value="11"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="55">
+        <string name="setItemName" value="Spiegelmann Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1012270"/>
+            <int name="2" value="1102327"/>
+            <int name="3" value="1122162"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPAD" value="2"/>
+                <int name="incMAD" value="2"/>
+                <int name="incAllStat" value="3"/>
+                <int name="incPDD" value="100"/>
+                <int name="incMDD" value="100"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incPAD" value="3"/>
+                <int name="incMAD" value="3"/>
+                <int name="incAllStat" value="5"/>
+                <short name="incMHP" value="200"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="56">
+        <string name="setItemName" value="String"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1082400"/>
+            <int name="2" value="1102302"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incPDD" value="100"/>
+                <int name="incMDD" value="100"/>
+                <int name="incMHP" value="75"/>
+                <int name="incMMP" value="75"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="57">
+        <string name="setItemName" value="Immortal Pharaoh Set"/>
+        <short name="completeCount" value="3"/>
+        <int name="parts" value="1"/>
+        <imgdir name="ItemID">
+            <imgdir name="1">
+                <int name="1" value="1132013"/>
+                <int name="2" value="1132136"/>
+                <string name="representName" value="Select 1 Pharaoh Belt"/>
+                <string name="typeName" value="Belt"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="1" value="1072619"/>
+                <int name="2" value="1072629"/>
+                <string name="representName" value="Select 1 Pharaoh Shoes"/>
+                <string name="typeName" value="Shoes"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="1" value="1112682"/>
+                <int name="2" value="1112689"/>
+                <string name="representName" value="Select 1 Pharaoh Ring"/>
+                <string name="typeName" value="Ring"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="3"/>
+                <int name="incEVA" value="120"/>
+                <int name="incACC" value="120"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incPDD" value="200"/>
+                <int name="incMDD" value="200"/>
+                <int name="incAllStat" value="5"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="58">
+        <string name="setItemName" value="String"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1042231"/>
+            <int name="2" value="1062148"/>
+            <int name="3" value="1082401"/>
+            <int name="4" value="1072618"/>
+            <int name="5" value="1152074"/>
+            <int name="6" value="1112681"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <int name="incAllStat" value="3"/>
+                <short name="incMHP" value="100"/>
+                <short name="incMMP" value="100"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="5"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="6"/>
+                <short name="incMHP" value="150"/>
+                <short name="incMMP" value="150"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="7"/>
+                <short name="incMHP" value="200"/>
+                <short name="incMMP" value="200"/>
+                <int name="incSpeed" value="5"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="63">
+        <string name="setItemName" value="M.S.S. Awesome"/>
+        <short name="completeCount" value="3"/>
+        <int name="parts" value="1"/>
+        <imgdir name="ItemID">
+            <imgdir name="1">
+                <int name="1" value="5000203"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="1" value="5000204"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="1" value="5000205"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80001124"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="66">
+        <string name="setItemName" value="Infernal Mutt"/>
+        <short name="completeCount" value="3"/>
+        <int name="parts" value="1"/>
+        <imgdir name="ItemID">
+            <imgdir name="1">
+                <int name="1" value="5000212"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="1" value="5000213"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="1" value="5000214"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80001131"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="102">
+        <string name="setItemName" value="Demon Friend Set"/>
+        <imgdir name="Effect">
+            <imgdir name="1">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80000007"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="2">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80000008"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+            <imgdir name="3">
+                <imgdir name="activeSkill">
+                    <imgdir name="0">
+                        <int name="id" value="80000009"/>
+                        <int name="level" value="1"/>
+                    </imgdir>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="ItemID">
+            <imgdir name="1">
+                <int name="1" value="5000234"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="1" value="5000235"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="1" value="5000236"/>
+            </imgdir>
+        </imgdir>
+        <int name="parts" value="1"/>
+        <short name="completeCount" value="3"/>
+    </imgdir>
+    <imgdir name="69">
+        <string name="setItemName" value="Emperor&apos;s Brave Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003443"/>
+            <int name="2" value="1052429"/>
+            <int name="3" value="1072641"/>
+            <int name="4" value="1082416"/>
+            <int name="5" value="1102362"/>
+            <int name="6" value="1302207"/>
+            <int name="7" value="1402142"/>
+            <int name="8" value="1432131"/>
+            <int name="9" value="1442170"/>
+            <int name="10" value="1312110"/>
+            <int name="11" value="1322150"/>
+            <int name="12" value="1412099"/>
+            <int name="13" value="1422099"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="One Emperor&apos;s Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incACC" value="350"/>
+                <int name="incEVA" value="350"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPAD" value="2"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPAD" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="70">
+        <string name="setItemName" value="Emperor&apos;s Memories Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003444"/>
+            <int name="2" value="1052430"/>
+            <int name="3" value="1072642"/>
+            <int name="4" value="1082417"/>
+            <int name="5" value="1102363"/>
+            <int name="6" value="1372130"/>
+            <int name="7" value="1382158"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="One Emperor&apos;s Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incACC" value="350"/>
+                <int name="incEVA" value="350"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incMAD" value="2"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incMAD" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="71">
+        <string name="setItemName" value="Emperor&apos;s Sharpness Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003445"/>
+            <int name="2" value="1052431"/>
+            <int name="3" value="1072643"/>
+            <int name="4" value="1082418"/>
+            <int name="5" value="1102364"/>
+            <int name="6" value="1452162"/>
+            <int name="7" value="1462152"/>
+            <int name="8" value="1522064"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="One Emperor&apos;s Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incACC" value="350"/>
+                <int name="incEVA" value="350"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPAD" value="2"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPAD" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="72">
+        <string name="setItemName" value="Emperor&apos;s Swift Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003446"/>
+            <int name="2" value="1052432"/>
+            <int name="3" value="1072644"/>
+            <int name="4" value="1082419"/>
+            <int name="5" value="1102365"/>
+            <int name="6" value="1332184"/>
+            <int name="7" value="1472174"/>
+            <int name="8" value="1362056"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="One Emperor&apos;s Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incACC" value="350"/>
+                <int name="incEVA" value="350"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPAD" value="2"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPAD" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="73">
+        <string name="setItemName" value="Emperor&apos;s Fervent Set"/>
+        <short name="completeCount" value="6"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003447"/>
+            <int name="2" value="1052433"/>
+            <int name="3" value="1072645"/>
+            <int name="4" value="1082420"/>
+            <int name="5" value="1102366"/>
+            <int name="6" value="1482135"/>
+            <int name="7" value="1492135"/>
+            <int name="8" value="1532068"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="One Emperor&apos;s Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="3">
+                <short name="incPDD" value="350"/>
+                <short name="incMDD" value="350"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="incAllStat" value="10"/>
+                <int name="incACC" value="350"/>
+                <int name="incEVA" value="350"/>
+            </imgdir>
+            <imgdir name="5">
+                <int name="incPAD" value="2"/>
+                <short name="incMHPr" value="15"/>
+                <int name="incMMPr" value="15"/>
+            </imgdir>
+            <imgdir name="6">
+                <int name="incAllStat" value="15"/>
+                <int name="incPAD" value="3"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="74">
+        <string name="setItemName" value="Emperor&apos;s Armor Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1152079"/>
+            <int name="2" value="1132141"/>
+            <int name="3" value="1112712"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="5"/>
+                <int name="incPDD" value="100"/>
+                <int name="incMDD" value="100"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incMHP" value="300"/>
+                <int name="incMMP" value="300"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="75">
+        <string name="setItemName" value="Conqueror&apos;s Armor Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1152080"/>
+            <int name="2" value="1132142"/>
+            <int name="3" value="1112713"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="3"/>
+                <int name="incPDD" value="50"/>
+                <int name="incMDD" value="50"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incPAD" value="3"/>
+                <int name="incMAD" value="3"/>
+                <int name="incACC" value="100"/>
+                <int name="incEVA" value="100"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="76">
+        <string name="setItemName" value="Duke&apos;s Armor Set"/>
+        <short name="completeCount" value="3"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1152081"/>
+            <int name="2" value="1132143"/>
+            <int name="3" value="1112714"/>
+            <int name="4" value="1152083"/>
+            <int name="5" value="1112715"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incAllStat" value="2"/>
+                <int name="incMHP" value="100"/>
+                <int name="incMMP" value="100"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="incPAD" value="1"/>
+                <int name="incMAD" value="1"/>
+                <int name="incACC" value="50"/>
+                <int name="incEVA" value="50"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="79">
+        <string name="setItemName" value="Benefit Duke&apos;s Armor Set"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1152083"/>
+            <int name="2" value="1112715"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <int name="incPAD" value="1"/>
+                <int name="incMAD" value="1"/>
+                <int name="incACC" value="50"/>
+                <int name="incEVA" value="50"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="81">
+        <string name="setItemName" value="Goddess Minerva Set"/>
+        <short name="completeCount" value="2"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1082322"/>
+            <int name="2" value="1072534"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="2">
+                <short name="incSTR" value="5"/>
+                <short name="incDEX" value="5"/>
+                <short name="incINT" value="5"/>
+                <short name="incLUK" value="5"/>
+                <int name="incPAD" value="4"/>
+                <int name="incMAD" value="4"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="32">
+        <string name="setItemName" value="Beryl Maple Set"/>
+        <short name="completeCount" value="8"/>
+        <string name="effectLink" value="Effect/SetItemInfoEff.img/32"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003242"/>
+            <int name="2" value="1052357"/>
+            <int name="3" value="1072521"/>
+            <int name="4" value="1082314"/>
+            <int name="5" value="1102294"/>
+            <int name="6" value="1152060"/>
+            <int name="7" value="1132092"/>
+            <int name="8" value="1302169"/>
+            <int name="9" value="1312068"/>
+            <int name="10" value="1322099"/>
+            <int name="11" value="1332144"/>
+            <int name="12" value="1372096"/>
+            <int name="13" value="1382120"/>
+            <int name="14" value="1402106"/>
+            <int name="15" value="1412067"/>
+            <int name="16" value="1422069"/>
+            <int name="17" value="1432095"/>
+            <int name="18" value="1442132"/>
+            <int name="19" value="1452125"/>
+            <int name="20" value="1462113"/>
+            <int name="21" value="1472136"/>
+            <int name="22" value="1482098"/>
+            <int name="23" value="1492097"/>
+            <int name="24" value="1362057"/>
+            <int name="25" value="1522065"/>
+            <int name="26" value="1532069"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Beryl Maple Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="5">
+                <int name="incPAD" value="1"/>
+                <int name="incMAD" value="1"/>
+                <int name="incACC" value="50"/>
+                <int name="incEVA" value="50"/>
+                <short name="incMHP" value="100"/>
+                <short name="incMMP" value="100"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="incPAD" value="2"/>
+                <int name="incMAD" value="2"/>
+                <int name="incAllStat" value="3"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="incPAD" value="3"/>
+                <int name="incMAD" value="3"/>
+                <int name="incAllStat" value="5"/>
+                <int name="incSpeed" value="5"/>
+                <int name="incJump" value="5"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="33">
+        <string name="setItemName" value="Crimson Maple Set"/>
+        <short name="completeCount" value="8"/>
+        <string name="effectLink" value="Effect/SetItemInfoEff.img/33"/>
+        <imgdir name="ItemID">
+            <int name="1" value="1003243"/>
+            <int name="2" value="1052358"/>
+            <int name="3" value="1072522"/>
+            <int name="4" value="1082315"/>
+            <int name="5" value="1102295"/>
+            <int name="6" value="1152061"/>
+            <int name="7" value="1132093"/>
+            <int name="8" value="1302170"/>
+            <int name="9" value="1312069"/>
+            <int name="10" value="1322101"/>
+            <int name="11" value="1332145"/>
+            <int name="12" value="1372097"/>
+            <int name="13" value="1382121"/>
+            <int name="14" value="1402107"/>
+            <int name="15" value="1412068"/>
+            <int name="16" value="1422070"/>
+            <int name="17" value="1432096"/>
+            <int name="18" value="1442133"/>
+            <int name="19" value="1452126"/>
+            <int name="20" value="1462114"/>
+            <int name="21" value="1472137"/>
+            <int name="22" value="1482099"/>
+            <int name="23" value="1492098"/>
+            <int name="24" value="1360258"/>
+            <int name="25" value="1522066"/>
+            <int name="26" value="1532070"/>
+        </imgdir>
+        <imgdir name="Desc">
+            <string name="weapon" value="Choose 1 Crimson Maple Weapon"/>
+        </imgdir>
+        <imgdir name="Effect">
+            <imgdir name="5">
+                <int name="incPAD" value="3"/>
+                <int name="incMAD" value="3"/>
+                <int name="incACC" value="150"/>
+                <int name="incEVA" value="150"/>
+                <short name="incMHP" value="200"/>
+                <short name="incMMP" value="200"/>
+            </imgdir>
+            <imgdir name="7">
+                <int name="incPAD" value="5"/>
+                <int name="incMAD" value="5"/>
+                <int name="incAllStat" value="5"/>
+            </imgdir>
+            <imgdir name="8">
+                <int name="incPAD" value="6"/>
+                <int name="incMAD" value="6"/>
+                <int name="incAllStat" value="10"/>
+                <int name="incSpeed" value="10"/>
+                <int name="incJump" value="10"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

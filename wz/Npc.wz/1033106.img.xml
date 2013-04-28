@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1033106.img">
+    <imgdir name="info">
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="88" height="76">
+            <vector name="origin" x="44" y="72"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="150"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="say">
+        <uol name="0" value="../stand/0"/>
+        <uol name="1" value="../stand/0"/>
+        <int name="sceptial" value="1"/>
+    </imgdir>
+    <imgdir name="hand">
+        <uol name="0" value="../stand/0"/>
+        <uol name="1" value="../stand/0"/>
+        <uol name="2" value="../stand/0"/>
+        <uol name="3" value="../stand/0"/>
+        <uol name="4" value="../stand/0"/>
+    </imgdir>
+    <imgdir name="condition1">
+        <imgdir name="stand">
+            <canvas name="0" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </imgdir>
+        <imgdir name="say">
+            <canvas name="0" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <int name="sceptial" value="1"/>
+        </imgdir>
+        <imgdir name="hand">
+            <canvas name="0" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="2" width="48" height="62">
+                <vector name="origin" x="22" y="62"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="3" width="48" height="61">
+                <vector name="origin" x="22" y="61"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="4" width="48" height="62">
+                <vector name="origin" x="22" y="62"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </imgdir>
+        <int name="24090" value="2"/>
+    </imgdir>
+</imgdir>

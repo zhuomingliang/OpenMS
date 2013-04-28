@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9960060.img">
+    <imgdir name="info">
+        <int name="grade" value="1"/>
+        <int name="range" value="800"/>
+        <imgdir name="skill">
+            <int name="id" value="806"/>
+            <int name="effectAfter" value="300"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <string name="link" value="fly"/>
+    </imgdir>
+    <imgdir name="move">
+        <string name="link" value="fly"/>
+    </imgdir>
+    <imgdir name="fly">
+        <string name="link" value="fly"/>
+    </imgdir>
+    <imgdir name="jump">
+        <canvas name="0" width="34" height="44">
+            <vector name="origin" x="17" y="62"/>
+            <int name="delay" value="600"/>
+            <vector name="lt" x="-17" y="-62"/>
+            <vector name="rb" x="17" y="-18"/>
+            <vector name="head" x="1" y="-42"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="skill">
+        <canvas name="0" width="24" height="47">
+            <vector name="origin" x="12" y="67"/>
+            <vector name="head" x="1" y="-7"/>
+            <int name="delay" value="130"/>
+        </canvas>
+        <canvas name="1" width="21" height="47">
+            <vector name="origin" x="10" y="67"/>
+            <vector name="head" x="1" y="-7"/>
+            <int name="delay" value="130"/>
+        </canvas>
+        <canvas name="2" width="24" height="47">
+            <vector name="origin" x="12" y="67"/>
+            <vector name="head" x="1" y="-7"/>
+            <int name="delay" value="130"/>
+        </canvas>
+        <canvas name="3" width="21" height="47">
+            <vector name="origin" x="10" y="67"/>
+            <vector name="head" x="1" y="-7"/>
+            <int name="delay" value="130"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="attack">
+        <imgdir name="info">
+            <imgdir name="hit">
+                <canvas name="0" width="83" height="89">
+                    <vector name="origin" x="36" y="96"/>
+                    <int name="delay" value="60"/>
+                    <int name="z" value="0"/>
+                </canvas>
+                <canvas name="1" width="110" height="113">
+                    <vector name="origin" x="51" y="108"/>
+                    <int name="delay" value="60"/>
+                    <int name="z" value="0"/>
+                </canvas>
+            </imgdir>
+            <int name="attackAfter" value="300"/>
+        </imgdir>
+        <string name="link" value="fly"/>
+    </imgdir>
+</imgdir>

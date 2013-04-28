@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/inc/!svn/ver/109/trunk/src/handling/login
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/60/trunk/src/handling/login/LoginServer.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/65/trunk/src/handling/login/LoginWorker.java
+END
+LoginInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/inc/!svn/ver/77/trunk/src/handling/login/LoginInformationProvider.java
+END

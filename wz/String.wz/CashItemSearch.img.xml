@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CashItemSearch.img">
+    <imgdir name="05040000">
+        <string name="0" value="Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041000">
+        <string name="0" value="Teleport Rock"/>
+        <string name="1" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041001">
+        <string name="0" value="Teleport Rock"/>
+        <string name="1" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05062000">
+        <string name="0" value="Miracle Cube"/>
+    </imgdir>
+    <imgdir name="05062002">
+        <string name="0" value="Miracle Cube"/>
+    </imgdir>
+    <imgdir name="05064000">
+        <string name="0" value="Shielding Ward"/>
+        <string name="1" value="Shielding Ward"/>
+    </imgdir>
+    <imgdir name="05030000">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030001">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030002">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030003">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030004">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030005">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030008">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05030009">
+        <string name="0" value="Hired Merchant"/>
+    </imgdir>
+    <imgdir name="05072000">
+        <string name="0" value="Super Megaphone"/>
+    </imgdir>
+    <imgdir name="05130000">
+        <string name="0" value="Safety Charm"/>
+    </imgdir>
+    <imgdir name="05230000">
+        <string name="0" value="Free Market"/>
+        <string name="1" value="On sale"/>
+        <string name="2" value="Search"/>
+        <string name="3" value="Shop"/>
+        <string name="4" value="Owl"/>
+    </imgdir>
+    <imgdir name="05040006">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05040007">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05040008">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05044000">
+        <string name="0" value="VIP Teleport Rock"/>
+        <string name="1" value="Teleport"/>
+    </imgdir>
+    <imgdir name="05044001">
+        <string name="0" value="VIP Teleport Rock"/>
+        <string name="1" value="Teleport"/>
+    </imgdir>
+    <imgdir name="05044002">
+        <string name="0" value="VIP Teleport Rock"/>
+        <string name="1" value="Teleport"/>
+    </imgdir>
+    <imgdir name="05041002">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041003">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041004">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041005">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041006">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05041007">
+        <string name="0" value="VIP Teleport Rock"/>
+    </imgdir>
+    <imgdir name="05150040">
+        <string name="0" value="Hair"/>
+        <string name="1" value="Royal"/>
+    </imgdir>
+</imgdir>

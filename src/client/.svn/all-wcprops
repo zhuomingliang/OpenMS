@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/inc/!svn/ver/113/trunk/src/client
+END
+SummonSkillEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/client/SummonSkillEntry.java
+END
+SkillMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/60/trunk/src/client/SkillMacro.java
+END
+SkillEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/60/trunk/src/client/SkillEntry.java
+END
+MonsterBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/71/trunk/src/client/MonsterBook.java
+END
+MapleTrait.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/61/trunk/src/client/MapleTrait.java
+END
+CardData.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/inc/!svn/ver/109/trunk/src/client/CardData.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/inc/!svn/ver/61/trunk/src/client/BuddyList.java
+END
+MapleKeyLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/60/trunk/src/client/MapleKeyLayout.java
+END
+SkillFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/108/trunk/src/client/SkillFactory.java
+END
+MapleCharacterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/60/trunk/src/client/MapleCharacterUtil.java
+END
+PlayerRandomStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/84/trunk/src/client/PlayerRandomStream.java
+END
+LoginCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/60/trunk/src/client/LoginCrypto.java
+END
+PlayerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/113/trunk/src/client/PlayerStats.java
+END
+MapleCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/113/trunk/src/client/MapleCharacter.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/inc/!svn/ver/113/trunk/src/client/Skill.java
+END
+RockPaperScissors.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/inc/!svn/ver/61/trunk/src/client/RockPaperScissors.java
+END
+MapleQuestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/client/MapleQuestStatus.java
+END
+BuddylistEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/60/trunk/src/client/BuddylistEntry.java
+END
+MapleDiseaseValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/60/trunk/src/client/MapleDiseaseValueHolder.java
+END
+MapleBuffStatValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/client/MapleBuffStatValueHolder.java
+END
+MapleCharacterCards.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/109/trunk/src/client/MapleCharacterCards.java
+END
+MapleStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/inc/!svn/ver/105/trunk/src/client/MapleStat.java
+END
+MonsterFamiliar.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/107/trunk/src/client/MonsterFamiliar.java
+END
+MapleDisease.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/71/trunk/src/client/MapleDisease.java
+END
+CharacterNameAndId.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/60/trunk/src/client/CharacterNameAndId.java
+END
+Battler.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/inc/!svn/ver/60/trunk/src/client/Battler.java
+END
+MapleBuffStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/113/trunk/src/client/MapleBuffStat.java
+END
+MapleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/inc/!svn/ver/109/trunk/src/client/MapleClient.java
+END
+LoginCryptoLegacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/inc/!svn/ver/60/trunk/src/client/LoginCryptoLegacy.java
+END
+MapleCoolDownValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/client/MapleCoolDownValueHolder.java
+END

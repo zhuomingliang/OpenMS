@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/inc/!svn/ver/110/trunk/src/client/inventory
+END
+MapleAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/91/trunk/src/client/inventory/MapleAndroid.java
+END
+MapleImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/MapleImp.java
+END
+MaplePet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/MaplePet.java
+END
+MapleWeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/91/trunk/src/client/inventory/MapleWeaponType.java
+END
+PetDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/PetDataFactory.java
+END
+RingSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/inc/!svn/ver/110/trunk/src/client/inventory/RingSet.java
+END
+InventoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/InventoryException.java
+END
+MapleInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/MapleInventory.java
+END
+MapleInventoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/MapleInventoryType.java
+END
+MapleRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/96/trunk/src/client/inventory/MapleRing.java
+END
+MapleInventoryIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/MapleInventoryIdentifier.java
+END
+MapleMount.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/61/trunk/src/client/inventory/MapleMount.java
+END
+SocketFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/86/trunk/src/client/inventory/SocketFlag.java
+END
+Equip.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/96/trunk/src/client/inventory/Equip.java
+END
+ItemLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/86/trunk/src/client/inventory/ItemLoader.java
+END
+PetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/client/inventory/PetCommand.java
+END
+ItemFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/109/trunk/src/client/inventory/ItemFlag.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/inc/!svn/ver/61/trunk/src/client/inventory/Item.java
+END

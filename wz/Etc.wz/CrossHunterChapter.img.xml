@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CrossHunterChapter.img">
+    <imgdir name="Chapter">
+        <imgdir name="0">
+            <int name="questEx" value="1648"/>
+            <imgdir name="wanted">
+                <imgdir name="0">
+                    <int name="quest" value="1620"/>
+                    <int name="map" value="220040200"/>
+                    <string name="mobName" value="Timer"/>
+                    <int name="mobLevel" value="75"/>
+                </imgdir>
+                <imgdir name="1">
+                    <int name="quest" value="1621"/>
+                    <int name="map" value="221040400"/>
+                    <string name="mobName" value="Zeno"/>
+                    <int name="mobLevel" value="78"/>
+                </imgdir>
+                <imgdir name="2">
+                    <int name="quest" value="1623"/>
+                    <int name="map" value="260010201"/>
+                    <string name="mobName" value="Deo"/>
+                    <int name="mobLevel" value="80"/>
+                </imgdir>
+                <imgdir name="3">
+                    <int name="quest" value="1625"/>
+                    <int name="map" value="250020300"/>
+                    <string name="mobName" value="Master Dummy"/>
+                    <int name="mobLevel" value="86"/>
+                </imgdir>
+                <imgdir name="4">
+                    <int name="quest" value="1627"/>
+                    <int name="map" value="261020500"/>
+                    <string name="mobName" value="Deet and Roi"/>
+                    <int name="mobLevel" value="96"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="rewardStr">
+                <string name="0" value="#i3700031:# #t3700031#"/>
+                <string name="1" value="#i4310029:# #t4310029# x 10"/>
+                <string name="2" value="#i4310034:# #t4310034# x 10"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="1">
+            <int name="questEx" value="1649"/>
+            <imgdir name="wanted">
+                <imgdir name="0">
+                    <int name="quest" value="1629"/>
+                    <int name="map" value="251010500"/>
+                    <string name="mobName" value="King Centipede"/>
+                    <int name="mobLevel" value="100"/>
+                </imgdir>
+                <imgdir name="1">
+                    <int name="quest" value="1631"/>
+                    <int name="map" value="240010200"/>
+                    <string name="mobName" value="Master Hoblin"/>
+                    <int name="mobLevel" value="106"/>
+                </imgdir>
+                <imgdir name="2">
+                    <int name="quest" value="1632"/>
+                    <int name="map" value="240010600"/>
+                    <string name="mobName" value="Master Harp"/>
+                    <int name="mobLevel" value="113"/>
+                </imgdir>
+                <imgdir name="3">
+                    <int name="quest" value="1632"/>
+                    <int name="map" value="240010500"/>
+                    <string name="mobName" value="Master Birk"/>
+                    <int name="mobLevel" value="117"/>
+                    <int name="number" value="1"/>
+                </imgdir>
+                <imgdir name="4">
+                    <int name="quest" value="1634"/>
+                    <int name="map" value="240020200"/>
+                    <string name="mobName" value="King Kentaurus"/>
+                    <int name="mobLevel" value="119"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="rewardStr">
+                <string name="0" value="#i3700032:# #t3700032#"/>
+                <string name="1" value="#i2430669:# #t2430669#"/>
+                <string name="2" value="#i4310029:# #t4310029# x 15"/>
+                <string name="3" value="#i4310034:# #t4310034# x 15"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="2">
+            <int name="questEx" value="1650"/>
+            <imgdir name="wanted">
+                <imgdir name="0">
+                    <int name="quest" value="1655"/>
+                    <int name="map" value="261020200"/>
+                    <string name="mobName" value="Chimera"/>
+                    <int name="mobLevel" value="120"/>
+                </imgdir>
+                <imgdir name="1">
+                    <int name="quest" value="1657"/>
+                    <int name="map" value="240020401"/>
+                    <string name="mobName" value="Manon"/>
+                    <int name="mobLevel" value="125"/>
+                </imgdir>
+                <imgdir name="2">
+                    <int name="quest" value="1658"/>
+                    <int name="map" value="240020101"/>
+                    <string name="mobName" value="Griffey"/>
+                    <int name="mobLevel" value="130"/>
+                </imgdir>
+                <imgdir name="3">
+                    <int name="quest" value="1660"/>
+                    <int name="map" value="220080000"/>
+                    <string name="mobName" value="Papulatus"/>
+                    <int name="mobLevel" value="135"/>
+                </imgdir>
+                <imgdir name="4">
+                    <int name="quest" value="1662"/>
+                    <int name="map" value="211041400"/>
+                    <string name="mobName" value="Riche"/>
+                    <int name="mobLevel" value="140"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="rewardStr">
+                <string name="0" value="#i3700033:# #t3700033#"/>
+                <string name="1" value="#i2430668:# #t2430668#"/>
+                <string name="2" value="#i4310029:# #t4310029# x 20"/>
+                <string name="3" value="#i4310034:# #t4310034# x 20"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="3">
+            <int name="questEx" value="1651"/>
+            <imgdir name="wanted">
+                <imgdir name="0">
+                    <int name="quest" value="1666"/>
+                    <int name="map" value="230040410"/>
+                    <string name="mobName" value="Pianus"/>
+                    <int name="mobLevel" value="140"/>
+                </imgdir>
+                <imgdir name="1">
+                    <int name="quest" value="1668"/>
+                    <int name="map" value="240040400"/>
+                    <string name="mobName" value="Leviathan"/>
+                    <int name="mobLevel" value="145"/>
+                </imgdir>
+                <imgdir name="2">
+                    <int name="quest" value="1670"/>
+                    <int name="map" value="270010500"/>
+                    <string name="mobName" value="Dodo"/>
+                    <int name="mobLevel" value="150"/>
+                </imgdir>
+                <imgdir name="3">
+                    <int name="quest" value="1671"/>
+                    <int name="map" value="270020500"/>
+                    <string name="mobName" value="Lilynouch"/>
+                    <int name="mobLevel" value="155"/>
+                </imgdir>
+                <imgdir name="4">
+                    <int name="quest" value="1672"/>
+                    <int name="map" value="270030500"/>
+                    <string name="mobName" value="Lyka"/>
+                    <int name="mobLevel" value="160"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="rewardStr">
+                <string name="0" value="#i3700034:# #t3700034#"/>
+                <string name="1" value="#i2049309:# #t2049309#"/>
+                <string name="2" value="#i4310029:# #t4310029# x 30"/>
+                <string name="3" value="#i4310034:# #t4310034# x 30"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="Shop">
+        <imgdir name="0">
+            <int name="itemId" value="1132111"/>
+            <int name="tokenPrice" value="50"/>
+            <int name="potentialGrade" value="1"/>
+        </imgdir>
+        <imgdir name="1">
+            <int name="itemId" value="1152069"/>
+            <int name="tokenPrice" value="40"/>
+        </imgdir>
+        <imgdir name="2">
+            <int name="itemId" value="1122157"/>
+            <int name="tokenPrice" value="60"/>
+            <int name="potentialGrade" value="1"/>
+        </imgdir>
+        <imgdir name="3">
+            <int name="itemId" value="2041321"/>
+            <int name="tokenPrice" value="20"/>
+        </imgdir>
+        <imgdir name="4">
+            <int name="itemId" value="2041322"/>
+            <int name="tokenPrice" value="20"/>
+        </imgdir>
+        <imgdir name="5">
+            <int name="itemId" value="2041509"/>
+            <int name="tokenPrice" value="15"/>
+        </imgdir>
+        <imgdir name="6">
+            <int name="itemId" value="2041510"/>
+            <int name="tokenPrice" value="15"/>
+        </imgdir>
+        <imgdir name="7">
+            <int name="itemId" value="2041218"/>
+            <int name="tokenPrice" value="25"/>
+        </imgdir>
+        <imgdir name="8">
+            <int name="itemId" value="2041219"/>
+            <int name="tokenPrice" value="25"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

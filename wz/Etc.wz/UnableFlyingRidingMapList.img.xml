@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="UnableFlyingRidingMapList.img">
+    <imgdir name="0">
+        <int name="startFieldID" value="910000000"/>
+        <int name="endFieldID" value="910000000"/>
+    </imgdir>
+    <imgdir name="1">
+        <int name="startFieldID" value="809090000"/>
+        <int name="endFieldID" value="809091149"/>
+    </imgdir>
+    <imgdir name="2">
+        <string name="info" value="헬리오스탑 엘리베이터(루디브리엄행)"/>
+        <int name="startFieldID" value="222020110"/>
+        <int name="endFieldID" value="222020112"/>
+    </imgdir>
+    <imgdir name="3">
+        <string name="info" value="헬리오스탑 엘리베이터(아랫마을행)"/>
+        <int name="startFieldID" value="222020210"/>
+        <int name="endFieldID" value="222020212"/>
+    </imgdir>
+</imgdir>

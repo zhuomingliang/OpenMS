@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output
+END
+ByteOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/ByteOutputStream.java
+END
+MaplePacketLittleEndianWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/MaplePacketLittleEndianWriter.java
+END
+BAOSByteOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/BAOSByteOutputStream.java
+END
+GenericLittleEndianWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/GenericLittleEndianWriter.java
+END
+ByteBufferLittleEndianWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/ByteBufferLittleEndianWriter.java
+END
+LittleEndianWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/LittleEndianWriter.java
+END
+ByteBufferOutputstream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/inc/!svn/ver/60/trunk/src/tools/data/output/ByteBufferOutputstream.java
+END

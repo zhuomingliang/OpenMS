@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="SetItemAction.img">
+    <imgdir name="0">
+        <string name="command" value="/spirit"/>
+        <string name="actionName" value="setitem1"/>
+        <imgdir name="info">
+            <int name="1" value="1000046"/>
+            <int name="5" value="1050221"/>
+            <int name="7" value="1072628"/>
+            <int name="8" value="1082408"/>
+            <int name="9" value="1102344"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1">
+        <string name="command" value="/spirit"/>
+        <string name="actionName" value="setitem2"/>
+        <imgdir name="info">
+            <int name="1" value="1001069"/>
+            <int name="5" value="1051271"/>
+            <int name="7" value="1072628"/>
+            <int name="8" value="1082408"/>
+            <int name="9" value="1102344"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="2">
+        <string name="command" value="/dark force"/>
+        <string name="actionName" value="setitem3"/>
+        <imgdir name="info">
+            <int name="1" value="1000045"/>
+            <int name="5" value="1050220"/>
+            <int name="7" value="1072627"/>
+            <int name="8" value="1082407"/>
+            <int name="9" value="1102343"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="3">
+        <string name="command" value="/dark force"/>
+        <string name="actionName" value="setitem4"/>
+        <imgdir name="info">
+            <int name="1" value="1001068"/>
+            <int name="5" value="1051270"/>
+            <int name="7" value="1072627"/>
+            <int name="8" value="1082407"/>
+            <int name="9" value="1102343"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

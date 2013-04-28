@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/inc/!svn/ver/63/trunk/src/server/movement
+END
+BounceMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/61/trunk/src/server/movement/BounceMovement.java
+END
+RelativeLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/61/trunk/src/server/movement/RelativeLifeMovement.java
+END
+AbsoluteLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/61/trunk/src/server/movement/AbsoluteLifeMovement.java
+END
+GroundMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/61/trunk/src/server/movement/GroundMovement.java
+END
+TeleportMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/61/trunk/src/server/movement/TeleportMovement.java
+END
+LifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/61/trunk/src/server/movement/LifeMovement.java
+END
+ChangeEquipSpecialAwesome.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/inc/!svn/ver/61/trunk/src/server/movement/ChangeEquipSpecialAwesome.java
+END
+AbstractLifeMovement.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/61/trunk/src/server/movement/AbstractLifeMovement.java
+END
+LifeMovementFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/inc/!svn/ver/61/trunk/src/server/movement/LifeMovementFragment.java
+END

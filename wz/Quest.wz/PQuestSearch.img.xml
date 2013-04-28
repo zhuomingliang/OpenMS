@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PQuestSearch.img">
+    <imgdir name="party">
+        <imgdir name="13">
+            <string name="name" value="Mu Lung Dojo"/>
+            <string name="mark" value="Map/MapHelper/mark/MuruengRaid"/>
+            <int name="levelMin" value="25"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="5"/>
+            <imgdir name="title">
+                <string name="0" value="Do the Mu Lung Dojo together!"/>
+                <string name="1" value="Looking for people interested in!"/>
+                <string name="2" value="Get a new belt!"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="expedition">
+        <imgdir name="0">
+            <string name="name" value="Balrog Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Balog"/>
+            <int name="levelMin" value="45"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="5000"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="6"/>
+            <imgdir name="title">
+                <string name="0" value="Who wants a piece of the Balrog?"/>
+                <string name="1" value="Come in on!"/>
+                <string name="2" value="Join in quickly! "/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="2">
+            <string name="name" value="Normal Zakum Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Zakum"/>
+            <int name="levelMin" value="50"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="100000"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="30"/>
+            <imgdir name="title">
+                <string name="0" value="Who wants  the Zakum PQ?"/>
+                <string name="1" value="Do you want to defeat Zakum?"/>
+                <string name="2" value="Join in quickly! "/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="3">
+            <string name="name" value="Normal Horntail Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Hontale"/>
+            <int name="levelMin" value="80"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="120000"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="30"/>
+            <imgdir name="title">
+                <string name="0" value="Who wants the Horntail PQ? "/>
+                <string name="1" value="Do you want to defeat Horntail?"/>
+                <string name="2" value="Join in quickly! "/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4">
+            <string name="name" value="Pink Bean Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/PinkBean"/>
+            <string name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="200000"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="30"/>
+            <imgdir name="title">
+                <string name="0" value="Who wants the Pink Bean PQ?"/>
+                <string name="1" value="Do you want to defeat Pink Bean?"/>
+                <string name="2" value="Join in quickly! "/>
+            </imgdir>
+            <string name="levelMin" value="120"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="name" value="Chaos Zakum Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Zakum"/>
+            <int name="levelMin" value="100"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="30"/>
+            <imgdir name="title">
+                <string name="0" value="Anyone wanna try Chaos Zakum?"/>
+                <string name="1" value="Apply to try Chaos Zakum!"/>
+                <string name="2" value="Come if you want a Chaos Zakum Hat!"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="6">
+            <string name="name" value="Chaos Horntail Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Hontale"/>
+            <int name="levelMin" value="110"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="30"/>
+            <imgdir name="title">
+                <string name="0" value="Recruiting for Chaos Horntail Expedition."/>
+                <string name="1" value="Apply if you want to catch Chaos Tail!"/>
+                <string name="2" value="Apply if you&apos;re confident!"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="7">
+            <string name="name" value="Von Leon Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/VanLeon"/>
+            <int name="levelMin" value="120"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="18"/>
+            <imgdir name="title">
+                <string name="0" value="Recruiting for Von Leon Expedition."/>
+                <string name="1" value="Apply if you want to eliminate Von Leon!"/>
+                <string name="2" value="Apply if you&apos;re confident!"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="8">
+            <string name="name" value="Cygnus Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/darkEreb"/>
+            <int name="levelMin" value="170"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="18"/>
+            <imgdir name="title">
+                <string name="0" value="We are recruiting members for the Cygnus Expedition!"/>
+                <string name="1" value="Sign up now to end Cygnus&apos;s reign of terror!"/>
+                <string name="2" value="Only accepting confident heroes."/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="9">
+            <string name="name" value="Arkarium Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Akayrum"/>
+            <int name="levelMin" value="120"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="18"/>
+            <imgdir name="title">
+                <string name="0" value="Recruiting members for the Arkarium Expedition!"/>
+                <string name="1" value="Sign up now to eliminate Arkarium!"/>
+                <string name="2" value="Only accepting confident heroes."/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="10">
+            <string name="name" value="Hilla Expedition"/>
+            <string name="mark" value="Map/MapHelper/mark/Aswan"/>
+            <int name="levelMin" value="120"/>
+            <int name="levelMax" value="200"/>
+            <int name="count" value="10"/>
+            <int name="price" value="0"/>
+            <int name="periodMin" value="20"/>
+            <int name="userCount" value="6"/>
+            <imgdir name="title">
+                <string name="0" value="We are recruiting members for the Hilla Expedition!"/>
+                <string name="1" value="Sign up now to eliminate the she-devil!"/>
+                <string name="2" value="Only those who seek the liberation of Azwan should apply!"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

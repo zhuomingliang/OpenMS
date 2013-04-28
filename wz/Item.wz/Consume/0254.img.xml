@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0254.img">
+    <imgdir name="02540000">
+        <imgdir name="info">
+            <canvas name="icon" width="33" height="24">
+                <vector name="origin" x="0" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="33" height="21">
+                <vector name="origin" x="0" y="24"/>
+            </canvas>
+            <int name="price" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="33150"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02541000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon"/>
+            <uol name="iconRaw" value="../../02540000/info/iconRaw"/>
+            <int name="price" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="31590"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02542000">
+        <imgdir name="info">
+            <uol name="icon" value="../../02540000/info/icon"/>
+            <uol name="iconRaw" value="../../02540000/info/iconRaw"/>
+            <int name="price" value="1"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="cosmetic" value="34170"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

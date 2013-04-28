@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9420541.img">
+    <imgdir name="info">
+        <int name="removeAfter" value="2"/>
+        <imgdir name="revive">
+            <int name="0" value="9420542"/>
+        </imgdir>
+        <int name="level" value="140"/>
+        <int name="bodyAttack" value="1"/>
+        <int name="maxHP" value="10"/>
+        <int name="maxMP" value="10"/>
+        <int name="PADamage" value="4042"/>
+        <int name="PDRate" value="25"/>
+        <int name="MADamage" value="4105"/>
+        <int name="MDRate" value="25"/>
+        <int name="acc" value="169"/>
+        <int name="eva" value="784"/>
+        <float name="fs" value="10.0"/>
+        <int name="boss" value="1"/>
+        <int name="summonType" value="1"/>
+        <string name="mobType" value="7N"/>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="1" height="1">
+            <vector name="origin" x="0" y="0"/>
+            <int name="delay" value="40"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="die1">
+        <canvas name="0" width="111" height="144">
+            <vector name="origin" x="45" y="141"/>
+            <vector name="head" x="-1" y="-137"/>
+        </canvas>
+    </imgdir>
+</imgdir>

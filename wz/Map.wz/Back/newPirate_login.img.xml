@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="newPirate_login.img">
+    <imgdir name="back">
+        <canvas name="0" width="740" height="525">
+            <vector name="origin" x="80" y="72"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

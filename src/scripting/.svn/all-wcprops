@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/inc/!svn/ver/102/trunk/src/scripting
+END
+ReactorScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/60/trunk/src/scripting/ReactorScriptManager.java
+END
+AbstractPlayerInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/inc/!svn/ver/88/trunk/src/scripting/AbstractPlayerInteraction.java
+END
+NPCScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/75/trunk/src/scripting/NPCScriptManager.java
+END
+EventInstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/61/trunk/src/scripting/EventInstanceManager.java
+END
+EventScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/inc/!svn/ver/60/trunk/src/scripting/EventScriptManager.java
+END
+PortalScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/inc/!svn/ver/60/trunk/src/scripting/PortalScriptManager.java
+END
+AbstractScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/inc/!svn/ver/60/trunk/src/scripting/AbstractScriptManager.java
+END
+NPCConversationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/102/trunk/src/scripting/NPCConversationManager.java
+END
+PortalScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/60/trunk/src/scripting/PortalScript.java
+END
+ReactorActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/inc/!svn/ver/61/trunk/src/scripting/ReactorActionManager.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/61/trunk/src/scripting/EventManager.java
+END
+PortalPlayerInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/60/trunk/src/scripting/PortalPlayerInteraction.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/inc/!svn/ver/60/trunk/src/provider
+END
+MapleDataDirectoryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataDirectoryEntry.java
+END
+MapleDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataProvider.java
+END
+MapleDataEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataEntity.java
+END
+MapleDataTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataTool.java
+END
+MapleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleData.java
+END
+MapleCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleCanvas.java
+END
+MapleDataEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataEntry.java
+END
+MapleDataFileEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataFileEntry.java
+END
+MapleDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataType.java
+END
+MapleDataProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/inc/!svn/ver/60/trunk/src/provider/MapleDataProviderFactory.java
+END
